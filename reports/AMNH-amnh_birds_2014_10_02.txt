@@ -1,0 +1,330 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 293
+Number of records retrieved in searches: 6895
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 14
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 13
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 17
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Germany ; Times: 18
+	Country: Guam ; Times: 6
+	Country: Mexico ; Times: 11
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 199
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 2
+	Date: 2014-09-02 ; Times: 12
+	Date: 2014-09-03 ; Times: 13
+	Date: 2014-09-04 ; Times: 7
+	Date: 2014-09-05 ; Times: 30
+	Date: 2014-09-06 ; Times: 35
+	Date: 2014-09-07 ; Times: 8
+	Date: 2014-09-08 ; Times: 25
+	Date: 2014-09-09 ; Times: 14
+	Date: 2014-09-10 ; Times: 9
+	Date: 2014-09-11 ; Times: 11
+	Date: 2014-09-12 ; Times: 13
+	Date: 2014-09-13 ; Times: 7
+	Date: 2014-09-15 ; Times: 34
+	Date: 2014-09-16 ; Times: 14
+	Date: 2014-09-17 ; Times: 22
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 20
+	Date: 2014-09-20 ; Times: 3
+	Date: 2014-09-21 ; Times: 1
+	Date: 2014-09-22 ; Times: 2
+	Date: 2014-09-23 ; Times: 2
+	Date: 2014-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 13
+	Query: "Phyllastrephus tissue:1" ; Times: 1
+	Query: ""taeniopygia guttata" tissue:1" ; Times: 1
+	Query: "223937" ; Times: 1
+	Query: "schizoeaca vilcabambae" ; Times: 1
+	Query: "Anthus type:specimen tissue:1" ; Times: 1
+	Query: "geothlypis velata tissue" ; Times: 1
+	Query: "data" ; Times: 1
+	Query: "Pavo muticus (tissue)" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "recordedby:heinrich year >= 1900 year <= 1920" ; Times: 1
+	Query: "kodonophonos" ; Times: 1
+	Query: "Empidonax type:specimen tissue:1" ; Times: 1
+	Query: "Treron type:specimen tissue:1" ; Times: 1
+	Query: "Ptilinopus type:specimen tissue:1" ; Times: 3
+	Query: "Prunella fagani tissue:1" ; Times: 1
+	Query: "Pterocles alchata "Pterocles alchata" type:specimen (tissue)" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "(skeleton)" ; Times: 1
+	Query: "haussarum" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Prionops plumatus haussarum" ; Times: 1
+	Query: "Oenanthe tissue:1" ; Times: 3
+	Query: "sephanoides" ; Times: 1
+	Query: "elaenia chiriquensis" ; Times: 3
+	Query: "Pseudonestor xanthophrys" ; Times: 2
+	Query: "specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "empidonax tissue:1" ; Times: 2
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States" year >= 1980 year <= 2010" ; Times: 1
+	Query: "lonchura cantans" ; Times: 7
+	Query: "empidonax type:specimen institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Coracias tissue:1" ; Times: 2
+	Query: "cyanocompsa brissonii tissue:1" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "233102" ; Times: 1
+	Query: "catalognumber:70532 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:alba bargei genus:Tyto" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "Ptilinopus cinctus type:specimen tissue:1" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 3
+	Query: "t" ; Times: 1
+	Query: "Ploceus galbula" ; Times: 1
+	Query: "Nothoprocta perdicaria" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 2
+	Query: "Malaconotus blanchoti interpositus" ; Times: 1
+	Query: "Pipra cornuta tissue:1" ; Times: 1
+	Query: "machetornis rixosa tissue" ; Times: 1
+	Query: "Ptilinopus tissue:1" ; Times: 1
+	Query: "buteo jamaicensis fuertesi type:specimen country:"United States" year >= 1974 year <= 2014" ; Times: 1
+	Query: "Sphyrapicus ruber AND California AND (Mexico)" ; Times: 1
+	Query: "Laniarius funebris rothschildi" ; Times: 1
+	Query: "231191" ; Times: 1
+	Query: "223631" ; Times: 1
+	Query: "Lanius type:specimen tissue:1" ; Times: 3
+	Query: "syndactyla rufosuperciliata" ; Times: 2
+	Query: "strix sartorii" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "Parotia wahnesi" ; Times: 1
+	Query: "JACANIDAE tissue:1" ; Times: 1
+	Query: "emberizoides herbicola tissue" ; Times: 1
+	Query: "tissue:1" ; Times: 2
+	Query: "habia rubica" ; Times: 1
+	Query: "dicaeum quadricolor cebu" ; Times: 1
+	Query: "Batis tissue:1" ; Times: 1
+	Query: "birds" ; Times: 2
+	Query: "Lane County" ; Times: 2
+	Query: "Eurystomus type:specimen tissue:1" ; Times: 1
+	Query: "sheppardia tissue:1" ; Times: 1
+	Query: "sporophila leucoptera tissue" ; Times: 1
+	Query: "Perdix type:specimen tissue:1" ; Times: 1
+	Query: "year >= 1950 year <= 2014" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 2
+	Query: "pipra filicauda pipra filicauda type:specimen tissue:1" ; Times: 1
+	Query: "Prionops scopifrons keniensis" ; Times: 1
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "230400" ; Times: 1
+	Query: "eudyptula minor" ; Times: 3
+	Query: "(Skeleton)" ; Times: 1
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1980 year <= 2014" ; Times: 4
+	Query: "recordedby:douglas year >= 1883 year <= 1888" ; Times: 1
+	Query: "Tanysiptera tissue:1" ; Times: 2
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 2
+	Query: "AMNH Birds Skin-74491" ; Times: 1
+	Query: "Macropygia tissue:1" ; Times: 3
+	Query: "Gavia Immer type:specimen stateprovince:"new york"" ; Times: 1
+	Query: "neblina" ; Times: 1
+	Query: "Merops type:specimen tissue:1" ; Times: 1
+	Query: "Prunella strophiata tissue:1" ; Times: 1
+	Query: "caprimulgus tissue:1" ; Times: 2
+	Query: "Corythaixoides" ; Times: 1
+	Query: "Aquila chrysaetos country:"Mexico"" ; Times: 2
+	Query: "Pithecophaga jefferyi" ; Times: 8
+	Query: ""t"" ; Times: 1
+	Query: "Ploceus flavissimus" ; Times: 2
+	Query: "accipiter castanilius" ; Times: 3
+	Query: "Kirtland rockport" ; Times: 2
+	Query: ""+t"" ; Times: 4
+	Query: "dicaeum australe cebu" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico" mappable:1" ; Times: 1
+	Query: "contopus virens type:specimen tissue:1" ; Times: 1
+	Query: "Big Island Reid" ; Times: 2
+	Query: "catharus fuscescens" ; Times: 2
+	Query: "231042" ; Times: 1
+	Query: "brotogeris versicolurus" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 2
+	Query: "Coracias caudatus" ; Times: 2
+	Query: "Macropygia mackinlayi tissue:1" ; Times: 2
+	Query: "Asthenes" ; Times: 1
+	Query: "Prunella type:specimen tissue:1" ; Times: 2
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "Anthreptes tissue:1" ; Times: 1
+	Query: "Malurus grayi" ; Times: 1
+	Query: "tangara cayana tissue" ; Times: 1
+	Query: "formicivora rufa tissue" ; Times: 1
+	Query: "Enicurus tissue:1" ; Times: 2
+	Query: "Pavo muticus" ; Times: 1
+	Query: "Lanius tissue:1" ; Times: 1
+	Query: "Pterocles alchata type:specimen" ; Times: 2
+	Query: "sicalis luteola tissue" ; Times: 2
+	Query: "pipra filicauda type:specimen" ; Times: 1
+	Query: "barred owl" ; Times: 4
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "oenanthe tissue:1" ; Times: 3
+	Query: "country:"japan" class:aves year >= 1910 year <= 1910" ; Times: 2
+	Query: "country:"United states"" ; Times: 2
+	Query: "elaenia chiriquensis tissue" ; Times: 2
+	Query: "buteo jamaicensis fuertesi type:specimen country:"United States"" ; Times: 1
+	Query: "Onychorhynchus coronatus type:specimen tissue:1" ; Times: 1
+	Query: "catalognumber:14185 institutioncode:AMNH" ; Times: 2
+	Query: "(cyanocompsa) tissue:1" ; Times: 3
+	Query: "ptilinopus type:specimen tissue:1" ; Times: 3
+	Query: "mappable:1" ; Times: 3
+	Query: "Telophorus dohertyi year <= 1901" ; Times: 1
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 4
+	Query: "polytmus guainumbi tissue" ; Times: 1
+	Query: "country:"united states" genus:turdus class:aves year >= 1961 year <= 2014" ; Times: 1
+	Query: "picumnus cirratus tissue" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "rallus crepitans" ; Times: 5
+	Query: "Ploceus type:specimen tissue:1" ; Times: 1
+	Query: "Prunella himalayana tissue:1" ; Times: 1
+	Query: "dicaeum australe" ; Times: 1
+	Query: "sublegatus arenarum tissue" ; Times: 1
+	Query: "sporophila plumbea tissue" ; Times: 1
+	Query: "country:United States of America" ; Times: 2
+	Query: "Psittacidae mappable:1 tissue:1" ; Times: 1
+	Query: "Psittacidae tissue:1" ; Times: 2
+	Query: "Pipra erythrocephala tissue:1" ; Times: 3
+	Query: "Prunella modularis tissue:1" ; Times: 1
+	Query: "Telophorus dohertyi" ; Times: 3
+	Query: "Pipra tissue:1" ; Times: 1
+	Query: "Prionops caniceps harterti" ; Times: 1
+	Query: "specificepithet:atricapillus genus:parus" ; Times: 1
+	Query: "236424" ; Times: 1
+	Query: ""Passer domesticus"" ; Times: 2
+	Query: "Ptilinopus porphyreus type:specimen tissue:1" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "latimodjong" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Melamprosops phaeosoma" ; Times: 2
+	Query: "type:specimen genus:aphelocoma institutioncode:AMNH" ; Times: 1
+	Query: "spizella arborea stateprovince:"indiana"" ; Times: 1
+	Query: "year >= 1900 year <= 2000" ; Times: 1
+	Query: "Loxia curvirostra connecticut 2013" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 2
+	Query: "Gallirallus owstoni" ; Times: 2
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "schizoeaca ayacuchensis" ; Times: 1
+	Query: "macropygia type:specimen tissue:1" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "contopus type:specimen institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Ptilinopus dohertyi type:specimen tissue:1" ; Times: 1
+	Query: "sturnella militaris tissue" ; Times: 1
+	Query: "Macropygia nigrirostris tissue:1" ; Times: 1
+	Query: "zonotrichia capensis stateprovince:"Buenos Aires" country:"Argentina" year >= 1980 year <= 2014" ; Times: 1
+	Query: "type:specimen" ; Times: 3
+	Query: "Reinwardtoena crassirostris tissue:1" ; Times: 1
+	Query: "203805 institutioncode:AMNH" ; Times: 1
+	Query: "Pericrocotus type:specimen tissue:1" ; Times: 1
+	Query: "hypsipetes philippinus cebu" ; Times: 1
+	Query: "the" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "wing" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 164 download events in this period)
+Total number of records downloaded: 39736 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 37629
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-04 ; Times: 1
+	Date: 2014-09-05 ; Times: 2
+	Date: 2014-09-08 ; Times: 3
+	Date: 2014-09-09 ; Times: 2
+	Date: 2014-09-11 ; Times: 3
+	Date: 2014-09-12 ; Times: 7
+	Date: 2014-09-13 ; Times: 2
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 8
+	Date: 2014-09-16 ; Times: 1
+	Date: 2014-09-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "Grulla" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "ptilinopus type:specimen tissue:1" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1870 year <= 1940" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"california"" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "type:specimen stateprovince:"TEXAS" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "catharus fuscescens tissue:1" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1974 year <= 2014" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "type:specimen genus:aphelocoma institutioncode:AMNH" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 1
+	Query: "pipra tissue:1" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1980 year <= 2003" ; Times: 2
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "(cyanocompsa) tissue:1" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen stateprovince:"ARIZONA" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina" year >= 1960 year <= 2014" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "Gavia Immer type:specimen stateprovince:"new york"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2038
+Total number of records retrieved from searches: 53545
+Number of download events that retrieved data from the resource: 215
+Total number of records downloaded: 401247
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2038
+Total number of records retrieved from searches: 53545
+Number of download events that retrieved data from the resource: 215
+Total number of records downloaded: 401247
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
