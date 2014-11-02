@@ -1,0 +1,319 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 354
+Number of records retrieved in searches: 8043
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 20
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 8
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 88
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 208
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 22
+	Date: 2014-10-11 ; Times: 21
+	Date: 2014-10-13 ; Times: 17
+	Date: 2014-10-14 ; Times: 16
+	Date: 2014-10-15 ; Times: 3
+	Date: 2014-10-16 ; Times: 4
+	Date: 2014-10-17 ; Times: 7
+	Date: 2014-10-18 ; Times: 5
+	Date: 2014-10-19 ; Times: 37
+	Date: 2014-10-20 ; Times: 79
+	Date: 2014-10-21 ; Times: 56
+	Date: 2014-10-22 ; Times: 12
+	Date: 2014-10-23 ; Times: 13
+	Date: 2014-10-24 ; Times: 11
+	Date: 2014-10-25 ; Times: 10
+	Date: 2014-10-26 ; Times: 2
+	Date: 2014-10-27 ; Times: 19
+	Date: 2014-10-28 ; Times: 6
+	Date: 2014-10-29 ; Times: 1
+	Date: 2014-10-30 ; Times: 5
+	Date: 2014-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "argusianus captive" ; Times: 10
+	Query: "Calocitta formosa pompata" ; Times: 3
+	Query: "Pyrrhura hoffmanni gaudens panama" ; Times: 1
+	Query: "Zosterops everetti" ; Times: 2
+	Query: "pajeros" ; Times: 1
+	Query: "Veniliornis nigriceps" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 4
+	Query: "catalognumber:71494 institutioncode:AMNH" ; Times: 1
+	Query: "gallinula panama" ; Times: 3
+	Query: "Ortygospiza atricollis year <= 1917" ; Times: 1
+	Query: "Cercomacra manu" ; Times: 1
+	Query: "urocissa tissue:1" ; Times: 2
+	Query: "athene cunicularia tissue" ; Times: 5
+	Query: "501134 AMNH aphelocoma genus:Aphelocoma" ; Times: 1
+	Query: "Pyrrhura panama" ; Times: 7
+	Query: "wizard" ; Times: 1
+	Query: "AMNH 61152 type:specimen" ; Times: 1
+	Query: "dendrortyx type:specimen tissue:1" ; Times: 1
+	Query: "catalognumber:71486 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 176140" ; Times: 2
+	Query: "sicalis flaveola tissue" ; Times: 3
+	Query: "AMNH 19108" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus year >= 1700 year <= 1890" ; Times: 1
+	Query: "leptotila panama" ; Times: 6
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "parulidae" ; Times: 2
+	Query: "denton wellesley" ; Times: 3
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus AND (NOT egg ) year >= 1890 year <= 1910" ; Times: 2
+	Query: "catalognumber:142223 institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Pipra fasciicauda tissue:1" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Cyanocorax affinis zeledoni" ; Times: 2
+	Query: "year >= 1990 year <= 2014" ; Times: 2
+	Query: "Formicarius colma" ; Times: 2
+	Query: "contopus tissue:1" ; Times: 1
+	Query: "Semnornis" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "catalognumber:71949 institutioncode:AMNH" ; Times: 1
+	Query: "coryphospingus pileatus tissue" ; Times: 1
+	Query: "Calocitta formosa pompata (tissue)" ; Times: 2
+	Query: "stateprovince:"new mexico" specificepithet:corax genus:corvus year >= 1984 year <= 2014" ; Times: 1
+	Query: "Ortygospiza fuscocrissa" ; Times: 1
+	Query: "Chlorospingus tissue:1" ; Times: 1
+	Query: ""Thamnophilus nigrocinereus"" ; Times: 2
+	Query: "Cyanocorax cyanomelas (tissue)" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "lepidocolaptes angustirostris tissue" ; Times: 1
+	Query: "semnornis" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus year >= 1700 year <= 1890" ; Times: 2
+	Query: "anthus lutescens tissue" ; Times: 2
+	Query: ""Thamnophilus nigrocinereus" tissue:1" ; Times: 1
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus AND (NOT film NOT fossil NOT egg) year >= 1894 year <= 1924" ; Times: 1
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "lafresnayi" ; Times: 1
+	Query: "sporophila plumbea tissue" ; Times: 1
+	Query: "year >= 1997 year <= 2014" ; Times: 1
+	Query: "Aratinga panama" ; Times: 13
+	Query: "geothlypis aequinoctialis tissue" ; Times: 1
+	Query: "ramphotrigon" ; Times: 3
+	Query: "Callipepla squamata hargravei" ; Times: 2
+	Query: "mappable:1" ; Times: 2
+	Query: "catalognumber:400000" ; Times: 1
+	Query: "Empidonax alnorum tissue:1" ; Times: 1
+	Query: "sayornis tissue:1" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "sayornis institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Granatellus venustus" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "Dendrocincla fuliginosa tissue:1" ; Times: 1
+	Query: "country:"panama" (barro colorado) year >= 1925 year <= 1925" ; Times: 1
+	Query: ""chlorocichla simplex" tissue:1" ; Times: 1
+	Query: "tissue:1" ; Times: 4
+	Query: "AMNH 256306" ; Times: 1
+	Query: "birds" ; Times: 2
+	Query: "bird" ; Times: 2
+	Query: "family:turdidae (country:colombia OR country:ecuador) mappable:1" ; Times: 1
+	Query: "year >= 1997" ; Times: 2
+	Query: "columba nigrirostris panama" ; Times: 1
+	Query: "AMNH aphelocoma genus:Aphelocoma" ; Times: 1
+	Query: "sporophila leucoptera tissue" ; Times: 1
+	Query: ""ixonotus guttatus" tissue:1" ; Times: 1
+	Query: "bubalornis" ; Times: 1
+	Query: "Asthenes cactorum" ; Times: 1
+	Query: "Calocitta formosa (tissue)" ; Times: 1
+	Query: "Aratinga finschi panama" ; Times: 3
+	Query: "Tilmatura duponti" ; Times: 2
+	Query: "Cyanocorax violaceus" ; Times: 2
+	Query: "genus:cyanocorax tissue:1" ; Times: 1
+	Query: "Cyanocorax affinis zeledoni (tissue)" ; Times: 1
+	Query: "type:specimen AND (NOT sound)" ; Times: 1
+	Query: "Chamaepetes unicolor panama" ; Times: 1
+	Query: "mimus saturninus tissue" ; Times: 2
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "Tetraogallus caucasicus" ; Times: 2
+	Query: "Perdicula argoondah" ; Times: 1
+	Query: "Lacedo pulchella" ; Times: 1
+	Query: "columba panama" ; Times: 13
+	Query: "Asthenes sclateri" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina"" ; Times: 1
+	Query: "Ammoperdix griseogularis" ; Times: 3
+	Query: "sublegatus modestus tissue" ; Times: 1
+	Query: "lepidothrix tissue:1" ; Times: 1
+	Query: "Penelope dabbenei" ; Times: 1
+	Query: "Ara panama" ; Times: 1
+	Query: "dendrocincla fuliginosa tissue:1" ; Times: 1
+	Query: "sturnella superciliaris tissue" ; Times: 2
+	Query: "machetornis rixosa tissue" ; Times: 2
+	Query: "amnh nothocercus" ; Times: 1
+	Query: "Dendrocincla tyrannina" ; Times: 1
+	Query: ""illadopsis fulvescens" tissue:1" ; Times: 1
+	Query: "ara panama" ; Times: 3
+	Query: "Skin stateprovince:"California" specificepithet:Corax genus:Corvus (Skin) AND (Eggs) year >= 1700 year <= 1915" ; Times: 1
+	Query: "Myrmeciza melanoceps" ; Times: 1
+	Query: "Tetraogallus caspius" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 3
+	Query: "Dendroica pensylvanica" ; Times: 2
+	Query: "merula tissue:1" ; Times: 1
+	Query: "columbina minuta tissue" ; Times: 1
+	Query: "formicivora rufa tissue" ; Times: 1
+	Query: "Cyanocorax violaceus violaceus (tissue)" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 1
+	Query: "Dendrocincla tyrannina tissue:1" ; Times: 1
+	Query: "fuliginosa meruloides" ; Times: 1
+	Query: "sicalis luteola tissue" ; Times: 2
+	Query: "catalognumber:15814 institutioncode:AMNH" ; Times: 2
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: "columbina minuta panama" ; Times: 1
+	Query: "Lacedo pulchella type:specimen" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "Cyanocorax yncas tissue:1" ; Times: 2
+	Query: "Hypocnemoides tissue:1" ; Times: 2
+	Query: "barinensis" ; Times: 1
+	Query: "Aratinga pertinax ocularis panama" ; Times: 1
+	Query: "Doricha tissue:1" ; Times: 1
+	Query: "Chordeiles minor aserriensis" ; Times: 1
+	Query: "AMNH 39400" ; Times: 2
+	Query: "dendrocincla tyrannina tissue:1" ; Times: 1
+	Query: "Glaucis hirsuta affinis panama" ; Times: 2
+	Query: "tangara cayana tissue" ; Times: 2
+	Query: "anabacerthia variegaticeps tissue" ; Times: 1
+	Query: "Hemicircus" ; Times: 2
+	Query: "Dendrocincla merula tissue:1" ; Times: 1
+	Query: "genus:Cracticus tissue:1" ; Times: 1
+	Query: "Phyllomyias uropygialis type:specimen" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus (Skin) year >= 1700 year <= 1915" ; Times: 1
+	Query: "polytmus guainumbi tissue" ; Times: 1
+	Query: "chamaepetes unicolor" ; Times: 10
+	Query: "Cardinalis cardinalis flammiger" ; Times: 1
+	Query: "picumnus cirratus tissue" ; Times: 1
+	Query: "odontophorus panama" ; Times: 1
+	Query: "Skin stateprovince:"California" specificepithet:Corax genus:Corvus AND (Eggs ) year >= 1700 year <= 1915" ; Times: 2
+	Query: "Cyanocorax violaceus tissue:1" ; Times: 1
+	Query: "Pipra filicauda tissue:1" ; Times: 1
+	Query: "Cyanolyca pulchra" ; Times: 1
+	Query: "Ara ararauna panama" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:Corax genus:Corvus year >= 1700 year <= 1914" ; Times: 1
+	Query: "county:"Comanche" stateprovince:"texas"" ; Times: 1
+	Query: "cyanocorax tissue:1" ; Times: 1
+	Query: "specificepithet:genei genus:larus" ; Times: 8
+	Query: "Ortalis superciliaris" ; Times: 1
+	Query: "Galloperdix bicalcarata" ; Times: 1
+	Query: "tyrannus savana tissue" ; Times: 1
+	Query: "Myrmotherula ornata" ; Times: 1
+	Query: "columba fasciata panama" ; Times: 1
+	Query: "vanellus chilensis tissue" ; Times: 2
+	Query: "sublegatus arenarum tissue" ; Times: 1
+	Query: "AMNH 57639" ; Times: 1
+	Query: "AMNH 176149" ; Times: 1
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "cracidae panama" ; Times: 9
+	Query: "Campylopterus hemileucurus panama" ; Times: 2
+	Query: "specificepithet:Corax genus:Corvus year >= 1700 year <= 1914 distance(location,geopoint(40.44694705960048,-106.5234375))<839064" ; Times: 1
+	Query: "coryphospingus cucullatus tissue" ; Times: 4
+	Query: "colaptes campestris tissue" ; Times: 4
+	Query: "chordeiles pusillus tissue" ; Times: 1
+	Query: "audubon type:specimen year >= 1800 year <= 1851" ; Times: 1
+	Query: ""baeopogon indicator" tissue:1" ; Times: 1
+	Query: "Foulehaio carunculata" ; Times: 1
+	Query: "country:"kenya" recordedby:Turner year >= 1800 year <= 1920" ; Times: 1
+	Query: "Zosterops tissue:1" ; Times: 3
+	Query: "Asthenes wyatti" ; Times: 3
+	Query: "Cyanocorax violaceus (tissue) tissue:1" ; Times: 1
+	Query: "(fluid OR alcohol)" ; Times: 1
+	Query: "Heliornis fulica panama" ; Times: 1
+	Query: "columba subvinacea panama" ; Times: 1
+	Query: "Atthis tissue:1" ; Times: 1
+	Query: "Dendrocincla" ; Times: 2
+	Query: ""criniger calurus" tissue:1" ; Times: 1
+	Query: "sturnella militaris tissue" ; Times: 3
+	Query: "catalognumber:304104" ; Times: 1
+	Query: "crax rubra" ; Times: 3
+	Query: "type:specimen" ; Times: 1
+	Query: "opisthocomidae" ; Times: 1
+	Query: "Crypturellus noctivagus" ; Times: 1
+	Query: "nothoprocta" ; Times: 1
+	Query: "Columba speciosa panama" ; Times: 1
+	Query: "elaenia chiriquensis tissue" ; Times: 2
+	Query: "Perdicula manipurensis" ; Times: 1
+	Query: "semnornis tissue:1" ; Times: 1
+	Query: "Ortygospiza atricollis ugandae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 166 download events in this period)
+Total number of records downloaded: 11750 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11165
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 3
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-24 ; Times: 1
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 1
+	Date: 2014-10-29 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrocincla" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:Carpodacus" ; Times: 2
+	Query: "MINDORO" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "passer domesticus type:specimen" ; Times: 1
+	Query: "Alaska AND Kodiak type:specimen class:Aves" ; Times: 1
+	Query: "contopus tissue:1" ; Times: 2
+	Query: "passer montanus" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "La Grulla" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "momotus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2392
+Total number of records retrieved from searches: 61588
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 412997
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2392
+Total number of records retrieved from searches: 61588
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 412997
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
