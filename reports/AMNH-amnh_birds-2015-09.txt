@@ -1,0 +1,1162 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1565
+Number of records retrieved in searches: 28315
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 67
+	Country: Turkey ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 27
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 31
+	Country: Venezuela ; Times: 29
+	Country: Australia ; Times: 21
+	Country: Papua New Guinea ; Times: 1
+	Country: Germany ; Times: 12
+	Country: Thailand ; Times: 7
+	Country: Dominican Republic ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Poland ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 7
+	Country: United States ; Times: 1135
+	Country: Sweden ; Times: 2
+	Country: French Guiana ; Times: 6
+	Country: Switzerland ; Times: 7
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Mexico ; Times: 21
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 24
+	Country: United Kingdom ; Times: 31
+	Country: Austria ; Times: 81
+	Country: Colombia ; Times: 18
+	Country: Hungary ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 41
+	Date: 2015-09-09 ; Times: 59
+	Date: 2015-09-10 ; Times: 72
+	Date: 2015-09-11 ; Times: 58
+	Date: 2015-09-12 ; Times: 23
+	Date: 2015-09-13 ; Times: 19
+	Date: 2015-09-14 ; Times: 92
+	Date: 2015-09-15 ; Times: 40
+	Date: 2015-09-16 ; Times: 27
+	Date: 2015-09-17 ; Times: 101
+	Date: 2015-09-18 ; Times: 23
+	Date: 2015-09-19 ; Times: 18
+	Date: 2015-09-30 ; Times: 108
+	Date: 2015-09-28 ; Times: 30
+	Date: 2015-09-29 ; Times: 44
+	Date: 2015-09-07 ; Times: 35
+	Date: 2015-09-06 ; Times: 45
+	Date: 2015-09-05 ; Times: 42
+	Date: 2015-09-04 ; Times: 134
+	Date: 2015-09-03 ; Times: 52
+	Date: 2015-09-02 ; Times: 44
+	Date: 2015-09-01 ; Times: 110
+	Date: 2015-09-25 ; Times: 75
+	Date: 2015-09-24 ; Times: 56
+	Date: 2015-09-27 ; Times: 18
+	Date: 2015-09-26 ; Times: 50
+	Date: 2015-09-21 ; Times: 28
+	Date: 2015-09-20 ; Times: 19
+	Date: 2015-09-23 ; Times: 11
+	Date: 2015-09-08 ; Times: 91
+
+List of queries that retrieved data from the resource: 
+	Query: "Phalcoboenus (skel OR skeleton)" ; Times: 1
+	Query: "Aimophila ruficauda tissue:1" ; Times: 1
+	Query: "picumnus squamulatus tissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; (Sporophila)" ; Times: 2
+	Query: "genus:prunella country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:261905" ; Times: 1
+	Query: "genus:phragmaticola class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "Colinus leucopogon type:specimen AND (NOT cristatus) tissue:1" ; Times: 1
+	Query: "ornatus type:specimen specificepithet:albogriseus genus:pachyramphus" ; Times: 1
+	Query: "genus:Bombycilla stateprovince:&#34;Rhode Island&#34; sex:Male year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "guttatus" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 5
+	Query: "emberiza melanocephala" ; Times: 4
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "wizard" ; Times: 8
+	Query: "Tringa flavipes skel*" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Pandion haliaetus skel*" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 5
+	Query: "country:&#34;china&#34; specificepithet:atricapillus genus:parus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "pig tissue:1" ; Times: 3
+	Query: "AMNH 109826" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 2
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "AMNH 275537" ; Times: 1
+	Query: "genus:bucephala class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "genus:Icterus country:&#34;bahamas&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "genus:merops class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;china&#34; genus:cettia recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "webster nebraska" ; Times: 1
+	Query: "meiglyptes tukki" ; Times: 2
+	Query: "Aplonis panayensis country:&#34;india&#34;" ; Times: 1
+	Query: "country:&#34;china&#34; genus:alauda institutioncode:amnh" ; Times: 1
+	Query: "amnh 390731" ; Times: 2
+	Query: "&#34;sylvietta rufescens&#34; tissue:1" ; Times: 1
+	Query: "badius genus:pachyramphus" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Lophorina superba niedda" ; Times: 1
+	Query: "schistes geoffroyi" ; Times: 1
+	Query: "Aratinga holochlora" ; Times: 7
+	Query: "type:specimen specificepithet:cardinalis genus:Cardinalis sex:male year &gt;= 1931 year &lt;= 2015 institutioncode:AMNH" ; Times: 1
+	Query: "Oceanites oceanicus skel*" ; Times: 1
+	Query: "Seiurus aurocapilla" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 18
+	Query: "country:&#34;china&#34; specificepithet:kessleri genus:turdus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "bahama genus:Icterus institutioncode:AMNH" ; Times: 1
+	Query: "Sporophila type:specimen ( 1929) institutioncode:AMNH" ; Times: 1
+	Query: "Przewalski" ; Times: 1
+	Query: "country:&#34;russia&#34; (Charadriiformes) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "aethia pusilla type:specimen institutioncode:AMNH (skin)" ; Times: 1
+	Query: "Torreornis inexpectata" ; Times: 1
+	Query: "dorsalis type:specimen specificepithet:polychopterus genus:pachyramphus" ; Times: 1
+	Query: "genus:Phalacrocorax year &gt;= 1947 institutioncode:AMNH" ; Times: 1
+	Query: "amnh 338146" ; Times: 1
+	Query: "asthenes humicola type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "country:&#34;china&#34; genus:phylloscopus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "class:aves country:&#34;russia&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 4
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "passerina cyanea country:&#34;mexico&#34; year &gt;= 1887 year &lt;= 1890 institutioncode:AMNH" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "stateprovince:&#34;Connecticut&#34; specificepithet:phoeniceus genus:Agelaius year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; class:aves year &gt;= 1902 year &lt;= 1905" ; Times: 1
+	Query: "Amazilia rutila rutila year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "Pipile pipile tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "ploceus megarhynchus skin" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 10
+	Query: "knipolegus" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "amnh 619355" ; Times: 1
+	Query: "amnh 475628" ; Times: 1
+	Query: "Leptosomus" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "genus:setophaga tissue:1" ; Times: 1
+	Query: "213611" ; Times: 1
+	Query: "type:specimen genus:Rhipidura country:&#34;Solomon Islands&#34; tissue:1" ; Times: 2
+	Query: "genus:mycerobas class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "samborge country:&#34;venezuela&#34;" ; Times: 2
+	Query: "distance(location,geopoint(24.9802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "catalognumber:42891 institutioncode:AMNH" ; Times: 4
+	Query: "ardeola idae" ; Times: 1
+	Query: "synallaxis tithys" ; Times: 2
+	Query: "christobal" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "Falco peregrinus skel*" ; Times: 1
+	Query: "Conopophaga amnh" ; Times: 1
+	Query: "272 country:&#34;russia&#34; recordedby:hall (Charadriiformes) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Puffinus auricularis newelli skel*" ; Times: 1
+	Query: "phylloscopus yunnanensis" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:spinoletta genus:anthus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "type:specimen country:&#34;venezuela&#34; specificepithet:minor genus:pachyramphus" ; Times: 1
+	Query: "amaurospiza concolor catalognumber:515478 institutioncode:AMNH" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 4
+	Query: "empidonax flaviventris month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 4
+	Query: "country:&#34;china&#34; specificepithet:torquilla genus:jynx institutioncode:amnh" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:rupestris institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "type:specimen genus:Basileuterus mappable:1 tissue:1" ; Times: 3
+	Query: "type:specimen country:&#34;peru&#34; specificepithet:viridis genus:pachyramphus" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "Egretta tissue:1" ; Times: 1
+	Query: "passerina cyanea stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34; institutioncode:AMNH" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "Micropsitta (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:magnificus genus:Lophornis class:Aves" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "country:&#34;china&#34; genus:aegithalos recordedby:owston institutioncode:amnh" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "AMNH 812878" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "vultur" ; Times: 12
+	Query: "setophaga ruticilla tissue:1" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; catalognumber:812911 institutioncode:AMNH year &gt;= 1977 year &lt;= 1977" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:semicornatus genus:picoides recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "genus:Thlypopsis tissue:1" ; Times: 1
+	Query: "genus:kozlowia class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Colinus leucopogon type:specimen" ; Times: 1
+	Query: "country:&#34;china&#34; genus:picoides recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "&#34;1903-07-12&#34; country:&#34;russia&#34; recordedby:hall year &gt;= 1903 year &lt;= 1903" ; Times: 2
+	Query: "pavo cristatus" ; Times: 2
+	Query: "Penelope obscura" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "distance(location,geopoint(23.5802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "Melanerpes striatus" ; Times: 2
+	Query: "amnh 74446" ; Times: 2
+	Query: "Pycnonotus atriceps" ; Times: 5
+	Query: "family:corvidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Pandion haliaeetus AMNH" ; Times: 2
+	Query: "peruanus type:specimen genus:pachyramphus" ; Times: 1
+	Query: "genus:Icterus (northropi)" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Curruca curruca country:&#34;india&#34;" ; Times: 2
+	Query: "gracula religiosa" ; Times: 1
+	Query: "catalognumber:392873 institutioncode:AMNH" ; Times: 2
+	Query: "passerina ciris institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "amnh 460443" ; Times: 2
+	Query: "asthenes steinbachi type:specimen" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 11
+	Query: "Thamnophilus Melanonotus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.049505705))&lt;15000" ; Times: 1
+	Query: "Ficedula parva country:&#34;India&#34;" ; Times: 2
+	Query: "specificepithet:daurica genus:hirundo country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:91629 institutioncode:AMNH" ; Times: 2
+	Query: "pavo muticus" ; Times: 2
+	Query: "type:specimen specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "Butastur indicus" ; Times: 6
+	Query: "trachyphonus margaritatus" ; Times: 2
+	Query: "macropygia tissue:1" ; Times: 1
+	Query: "catalognumber:435409" ; Times: 1
+	Query: "tachyphonus huarandosae" ; Times: 1
+	Query: "ansa ansa" ; Times: 2
+	Query: "Phaethon lepturus skel*" ; Times: 1
+	Query: "AMNH DOT 6947" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 35
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "cucullata guyana" ; Times: 2
+	Query: "genus:Poospiza tissue:1" ; Times: 1
+	Query: "amnh 71019" ; Times: 2
+	Query: "habia alfaroana" ; Times: 2
+	Query: "Anthracothorax country:&#34;Panama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "Sula leucogaster skel*" ; Times: 1
+	Query: "country:&#34;china&#34; genus:alauda institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "amnh 704827" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 1
+	Query: "&#34;1903-07-12&#34; country:&#34;russia&#34; recordedby:hall (263) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "habia affinis" ; Times: 2
+	Query: "catalognumber:519397 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 91
+	Query: "cyanocompsa institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 2
+	Query: "country:&#34;china&#34; genus:bubo institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "genus:phylloscopus country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "genus:Hypocolius" ; Times: 1
+	Query: "colibri coruscans" ; Times: 1
+	Query: "malimbus" ; Times: 2
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "passerina cyanea institutioncode:AMNH" ; Times: 4
+	Query: "Crax blumenbachii tissue:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa skel*" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:cabanisi genus:picoides recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "type:specimen genus:Notiomystis" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 2
+	Query: "genus:apus country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "motacilla alba ku" ; Times: 1
+	Query: "leptoptilos javanicus tissue:1" ; Times: 2
+	Query: "Vultur gryphus tissue:1" ; Times: 5
+	Query: "uria aalge type:specimen institutioncode:AMNH (wing)" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:cherrug genus:falco institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 4
+	Query: "Rhinomyias goodfellowi" ; Times: 4
+	Query: "distance(location,geopoint(25.9802369569,-111.249505705))&lt;10000" ; Times: 1
+	Query: "country:&#34;china&#34; genus:certhia recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "florisuga mellivora institutioncode:AMNH tissue:1" ; Times: 2
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "empidonax flaviventris tissue:1" ; Times: 1
+	Query: "class:amphibia institutioncode:AMNH" ; Times: 2
+	Query: "birds" ; Times: 6
+	Query: "country:&#34;russia&#34; (acuminata) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 11
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "pachyramphus cinereiventris" ; Times: 2
+	Query: "pachyramphus cinereiventris colombia" ; Times: 2
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "type:specimen genus:Eulipoa" ; Times: 2
+	Query: "Pharomachrus" ; Times: 2
+	Query: "Sporophila type:specimen (Rio Negro) institutioncode:AMNH" ; Times: 1
+	Query: "Rhinomyias colonus" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "chaetocercus type:specimen" ; Times: 2
+	Query: "genus:euphonia tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "Otus brucei" ; Times: 1
+	Query: "country:&#34;senegal&#34; year &gt;= 1892 year &lt;= 1902" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "picoides leucotos" ; Times: 2
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "149922" ; Times: 1
+	Query: "turdoides striatus" ; Times: 2
+	Query: "Turdus migratorius" ; Times: 5
+	Query: "C. Lako" ; Times: 3
+	Query: "phylloscopus fuligiventer" ; Times: 9
+	Query: "distance(location,geopoint(21.4802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:eos genus:carpodacus country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 2
+	Query: "dendrocitta cinerascens" ; Times: 3
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "genus:Strigops" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "ocampo class:aves year &lt;= 1914" ; Times: 1
+	Query: "country:&#34;china&#34; genus:tetrastes recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Diamantina class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 2
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "melanerpes pygmaeus tissue:1" ; Times: 1
+	Query: "Ampeliceps coronatus country:&#34;India&#34;" ; Times: 2
+	Query: "zosterops palpebrosa" ; Times: 5
+	Query: "family:strigidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "Chaetocercus tissue:1" ; Times: 2
+	Query: "amnh 183725" ; Times: 2
+	Query: "grallaria AMNH" ; Times: 1
+	Query: "Oenanthe picata country:&#34;India&#34;" ; Times: 1
+	Query: "Myrmothera" ; Times: 1
+	Query: "country:&#34;sierra leone&#34;" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "class:aves locality:sao francisco de paula" ; Times: 1
+	Query: "Myrmotherula menetriesii type:specimen tissue:1" ; Times: 1
+	Query: "amnh 493898" ; Times: 2
+	Query: "Junco hyemalis" ; Times: 5
+	Query: "picumnus pumilus" ; Times: 1
+	Query: "&#34;Criniger ndussumensis&#34; tissue:1" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "muscicapa siberica" ; Times: 1
+	Query: "Grallaria amnh" ; Times: 1
+	Query: "ptiloris victoriae year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;china&#34; genus:aquila institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Puffinus lherminieri skel*" ; Times: 1
+	Query: "Podiceps grisegena skel*" ; Times: 1
+	Query: "hypsipetes madegascariensis" ; Times: 3
+	Query: "AMNH 274635" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "(manabao)" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:atricapillus genus:parus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Ptychoramphus aleuticus skel*" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "pauxi unicornis unicornis" ; Times: 1
+	Query: "amnh 408624" ; Times: 2
+	Query: "urocissa caerulea" ; Times: 6
+	Query: "geococcyx (skel OR skeleton)" ; Times: 1
+	Query: "Crax alector tissue:1" ; Times: 1
+	Query: "706505" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Myrmothera amnh" ; Times: 1
+	Query: "Colinus virginianus coyolcos type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(25.4802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "country:&#34;United States&#34; class:Aves" ; Times: 1
+	Query: "acrocephalus palustris" ; Times: 2
+	Query: "Thripophaga fusciceps" ; Times: 1
+	Query: "family:picidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 2
+	Query: "cyanocompsa cyanoides institutioncode:AMNH" ; Times: 2
+	Query: "Eudyptes chrysolophus" ; Times: 3
+	Query: "country:&#34;china&#34; specificepithet:thura genus:carpodacus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Meiglyptes tukki tissue:1" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 4
+	Query: "distance(location,geopoint(21.7802369569,-106.649505705))&lt;15000" ; Times: 1
+	Query: "parvula class:Aves" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 4
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 1
+	Query: "type:specimen specificepithet:cardinalis genus:Cardinalis year &gt;= 1931 year &lt;= 2015 institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;china&#34; genus:carduelis institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "type:specimen (Nothura AND egg)" ; Times: 1
+	Query: "colibri" ; Times: 1
+	Query: "type:specimen genus:Hylocitrea tissue:1" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "pachyramphus polychopterus amnh colombia" ; Times: 1
+	Query: "Pauxi unicornis" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Phyllomyias urichi" ; Times: 1
+	Query: "habia peruviana" ; Times: 1
+	Query: "AMNH 70120" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "type:specimen class:Aves year &gt;= 1960 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Neophron" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Crax fasciolata)" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "puffinus carneipes skel*" ; Times: 1
+	Query: "cherriei tissue:1" ; Times: 3
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "amnh 41728" ; Times: 1
+	Query: "country:&#34;venezuela&#34; catalognumber:493323 institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:113028 institutioncode:AMNH" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Pyrrhura perlata)" ; Times: 1
+	Query: "ramphocelus limatus" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "Pandion haliaeetus" ; Times: 2
+	Query: "Ardea herodias skel*" ; Times: 1
+	Query: "phylloscopus pulcher" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1904 year &lt;= 1904 month &gt;= 3 month &lt;= 5" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1904 year &lt;= 1904 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "Butastur" ; Times: 1
+	Query: "type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Puffinus auricularis" ; Times: 1
+	Query: "Megapodius laperouse senex" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 4
+	Query: "Puffinus pacificus skel*" ; Times: 1
+	Query: "class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 4
+	Query: "rupicola tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonicus genus:Poecile OR Parus" ; Times: 1
+	Query: "urocissa whiteheadi" ; Times: 5
+	Query: "90670" ; Times: 1
+	Query: "lorius (skel OR skeleton)" ; Times: 1
+	Query: "AMNH 494146" ; Times: 1
+	Query: "pitta cyanea assam" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "phylloscopus neglectus" ; Times: 3
+	Query: "phylloscopus subaffinis" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "genus:euphonia OR chlorophonia (euphonia OR chlorophonia) tissue:1" ; Times: 1
+	Query: "catalognumber:76665 institutioncode:AMNH" ; Times: 2
+	Query: "Crax" ; Times: 1
+	Query: "AMNH 160238" ; Times: 1
+	Query: "year &gt;= 1906 year &lt;= 1906 institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 6
+	Query: "Thamnophilus melanonotus" ; Times: 2
+	Query: "Sakesphorus melanonotus" ; Times: 14
+	Query: "distance(location,geopoint(26.0802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "amnh" ; Times: 1
+	Query: "distance(location,geopoint(25.3802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Cisticola exilis country:&#34;india&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:AMNH (skin)" ; Times: 1
+	Query: "dorsalis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 85260" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &gt;= 1902 year &lt;= 1905" ; Times: 1
+	Query: "genus:certhia country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Brazil class:aves institutioncode:amnh" ; Times: 1
+	Query: "tyto longimembris" ; Times: 3
+	Query: "AMNH" ; Times: 2
+	Query: "AMNH 94174" ; Times: 2
+	Query: "&#34;CInclodes antarcticus&#34;" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "pulsatrix institutioncode:AMNH" ; Times: 2
+	Query: "Aethopyga vigorsii country:&#34;india&#34;" ; Times: 2
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "temnurus temnurus" ; Times: 8
+	Query: "family:accipitridae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Rhodopis vesper" ; Times: 1
+	Query: "amnh 183752" ; Times: 2
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male" ; Times: 1
+	Query: "AMNH 534910" ; Times: 1
+	Query: "family:motacillidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Stercorarius pomarinus skel*" ; Times: 1
+	Query: "specificepithet:meloryphus genus:euscarthmus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 2
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "agilis iowa" ; Times: 2
+	Query: "specificepithet:ornata genus:Poospiza tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Nonnula type:specimen" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "aegotheles cristatus tissue:1" ; Times: 1
+	Query: "Rhinomyias albigularis" ; Times: 8
+	Query: "insularis type:specimen genus:Pachyramphus" ; Times: 1
+	Query: "amaurospiza concolor institutioncode:AMNH" ; Times: 1
+	Query: "genus:luscinia country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "Myiarchus sagrae type:specimen" ; Times: 1
+	Query: "Carduelis tristis 1" ; Times: 1
+	Query: "Quiscalus quiscula (skin)" ; Times: 1
+	Query: "Bulweria bulwerii skel*" ; Times: 1
+	Query: "pachyramphus niger" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "Mexican birds" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "ploceus galbula" ; Times: 3
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "catreus wallichii" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen genus:Rhipidura country:&#34;Solomon Islands&#34; mappable:1 tissue:1" ; Times: 2
+	Query: "Colinus cristatus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:rubrifrons genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:rubicilla genus:carpodacus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; genus:montifringilla institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 2
+	Query: "Puffinus assimilis skel*" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "family:fringillidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 82080" ; Times: 1
+	Query: "genus:Erpornis tissue:1" ; Times: 2
+	Query: "sagittarius" ; Times: 1
+	Query: "turdoides nipalensis" ; Times: 4
+	Query: "asthenes cactorum type:specimen" ; Times: 2
+	Query: "catalognumber:42491 institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:128553" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:alba genus:motacilla institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "Oenanthe alboniger" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT york) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Pterodroma neglecta skel*" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "grallaricula" ; Times: 1
+	Query: "cardinalis cardinalis type:specimen year &gt;= 1931 year &lt;= 2015 tissue:1" ; Times: 2
+	Query: "Cyanocitta stelleri carlottae" ; Times: 2
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Oporornis iowa" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "thibault" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "lonchura malacca" ; Times: 2
+	Query: "polyplectron bicalcaratum" ; Times: 2
+	Query: "type:specimen (tinamus AND egg)" ; Times: 1
+	Query: "country:&#34;china&#34; genus:tetraogallus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "&#34;sylvietta denti&#34; tissue:0" ; Times: 1
+	Query: "&#34;sylvietta denti&#34; tissue:1" ; Times: 1
+	Query: "Sakesphorus Melanonotus" ; Times: 5
+	Query: "pachyramphus polychopterus amnh" ; Times: 1
+	Query: "type:specimen genus:Urocynchramus" ; Times: 1
+	Query: "Pluvialis fulva skel*" ; Times: 1
+	Query: "aves type:specimen year &gt;= 1950 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Fregata minor skel*" ; Times: 1
+	Query: "galloperdix spadicea" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "crypsirina cucullata" ; Times: 5
+	Query: "corythaeola skin" ; Times: 2
+	Query: "Cuculus canorus skel*" ; Times: 1
+	Query: "phytotoma raimondii" ; Times: 1
+	Query: "AMNH 493855" ; Times: 1
+	Query: "phylloscopus armandii" ; Times: 1
+	Query: "fane" ; Times: 1
+	Query: "puffinus newelli *skel" ; Times: 1
+	Query: "phylloscopus maculipennis" ; Times: 2
+	Query: "Puffinus auricularis *skel" ; Times: 1
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "cinerea AMNH" ; Times: 1
+	Query: "catalognumber:265889" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:pectoralis genus:luscinia recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Pterocles orientalis India skin" ; Times: 3
+	Query: "Cyornis rubeculoides klossi" ; Times: 4
+	Query: "distance(location,geopoint(22.9802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "AMNH 274365" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Pterodroma externa skel*" ; Times: 1
+	Query: "catalognumber:76482 institutioncode:AMNH" ; Times: 1
+	Query: "amnh 706505" ; Times: 1
+	Query: "WED 57619" ; Times: 1
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 2
+	Query: "pico cardona recordedby:Dickerman" ; Times: 1
+	Query: "type:specimen specificepithet:albogriseus genus:pachyramphus" ; Times: 2
+	Query: "lagopus leucura" ; Times: 1
+	Query: "emberiza calandra" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius" ; Times: 1
+	Query: "Pittasoma amnh" ; Times: 1
+	Query: "AMNH-M-15460" ; Times: 1
+	Query: "catalognumber:761013 institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "euscarthmus country:&#34;venezuela&#34;" ; Times: 2
+	Query: "specificepithet:niger genus:Pachyramphus" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "microstilbon type:specimen" ; Times: 1
+	Query: "catalognumber:188490 institutioncode:AMNH" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT UAM) month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "Aptenodytes (skel OR skeleton)" ; Times: 1
+	Query: "specificepithet:japonicus genus:Zosterops tissue:1" ; Times: 1
+	Query: "country:&#34;china&#34; genus:calandrella institutioncode:amnh" ; Times: 1
+	Query: "Crax alector alector tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "uria lomvia type:specimen institutioncode:AMNH (skin)" ; Times: 2
+	Query: "insularis type:specimen genus:pachyramphus" ; Times: 1
+	Query: "Amnh 82077" ; Times: 1
+	Query: "&#34;Criniger calurus&#34; tissue:1" ; Times: 1
+	Query: "Puffinus tenuirostris skel*" ; Times: 1
+	Query: "florisuga fusca" ; Times: 2
+	Query: "Grallaricula amnh" ; Times: 1
+	Query: "catalognumber:76346 institutioncode:AMNH" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "passerina cyanea country:&#34;Canada&#34; institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:concinnus genus:Aegithalos tissue:1" ; Times: 1
+	Query: "amnh 92845" ; Times: 1
+	Query: "tissue:1" ; Times: 17
+	Query: "137626" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "cherrei" ; Times: 1
+	Query: "genus:euphonia OR chlorophonia tissue:1" ; Times: 1
+	Query: "Hylopezus amnh" ; Times: 1
+	Query: "catalognumber:4406 institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;china&#34; genus:acrocephalus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Lepidocolaptes tissue:1" ; Times: 4
+	Query: "catalognumber:806721 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 75120" ; Times: 4
+	Query: "picus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT film) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "skeleton type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "Rhinomyias olivaceus" ; Times: 3
+	Query: "phylloscopus coronatus" ; Times: 3
+	Query: "genus:monticola country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 2
+	Query: "distance(location,geopoint(24.9802369569,-108.049505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:inerme genus:ornithion institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 70131" ; Times: 1
+	Query: "regina tissue:1" ; Times: 1
+	Query: "dendrocitta bayleyi" ; Times: 6
+	Query: "chaetocercus astreans type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Pachyramphus" ; Times: 5
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Doricha tissue:1" ; Times: 2
+	Query: "Eremophila alpestris country:&#34;Morocco&#34;" ; Times: 1
+	Query: "genus:Icterus (northropi) AND (NOT harvard)" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 13
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:minimus genus:empidonax year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "Oporornis agilis iowa" ; Times: 1
+	Query: "amnh 247748" ; Times: 2
+	Query: "glyphorynchus spirurus" ; Times: 3
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "country:&#34;sierra leone&#34; year &lt;= 1945" ; Times: 4
+	Query: "Menura year &gt;= 1985 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "batrachostomus auritus" ; Times: 1
+	Query: "miliaria calandra" ; Times: 1
+	Query: "amnh 619472" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Rhinomyias" ; Times: 1
+	Query: "type:specimen catalognumber:648843 institutioncode:amnh" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "institutioncode:amnh" ; Times: 1
+	Query: "graminicola bengalensis" ; Times: 1
+	Query: "megalaima corvina skin" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "199855" ; Times: 1
+	Query: "genus:lophophanes class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:244774 institutioncode:AMNH" ; Times: 1
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "phylloscopus subviridis" ; Times: 2
+	Query: "phylloscopus davisoni" ; Times: 2
+	Query: "distance(location,geopoint(21.2802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "guaiquinima country:&#34;venezuela&#34;" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 5
+	Query: "catalognumber:91475 institutioncode:AMNH" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "country:&#34;china&#34; genus:carpodacus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "sandwichensis skel*" ; Times: 2
+	Query: "phylloscopus tytleri" ; Times: 21
+	Query: "Dendrocitta cinerascens" ; Times: 1
+	Query: "tachyphonus flaviventris" ; Times: 2
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "(euphonia OR chlorophonia) tissue:1" ; Times: 1
+	Query: "platysmurus leucopterus" ; Times: 9
+	Query: "florisuga mellivora institutioncode:AMNH" ; Times: 4
+	Query: "catalognumber:241905" ; Times: 1
+	Query: "microstilbon" ; Times: 2
+	Query: "Rhinomyias insignis" ; Times: 3
+	Query: "batrachostomus moniliger" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:superciliosus genus:parus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "amnh 171935" ; Times: 2
+	Query: "95750" ; Times: 2
+	Query: "genus:ornithion institutioncode:AMNH" ; Times: 1
+	Query: "Sturnus vulgaris country:&#34;india&#34;" ; Times: 1
+	Query: "country:&#34;china&#34; genus:parus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "type:specimen genus:Plectrophenax tissue:1" ; Times: 3
+	Query: "class:aves distance(location,geopoint(-29.869228848968298,-51.2457275390625))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "turdus migratorius" ; Times: 2
+	Query: "ploceus benghalensis skin" ; Times: 1
+	Query: "Amnh 82078" ; Times: 2
+	Query: "lophophorus impejanus" ; Times: 2
+	Query: "type:specimen genus:Calyptophilus tissue:1" ; Times: 1
+	Query: "Selasphorus ardens" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM)" ; Times: 1
+	Query: "phylloscopus occipitalis" ; Times: 5
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "habia nelsoni" ; Times: 3
+	Query: "distance(location,geopoint(27.2802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "family:columbidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "genus:sitta country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "amnh 493875" ; Times: 1
+	Query: "specificepithet:ruber catalognumber:64453 OR 64581 OR 3819 OR 2330 OR 63263 OR 123368" ; Times: 1
+	Query: "tachyphonus axillaris" ; Times: 2
+	Query: "country:&#34;russia&#34; recordedby:hall (Charadriiformes) year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "seicercus burkii" ; Times: 2
+	Query: "country:&#34;Venezuela&#34; recordedby:Dickerman year &gt;= 1977 year &lt;= 1977" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "kechisera Merida" ; Times: 2
+	Query: "Habia rubica" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "Platalea (skel OR skeleton)" ; Times: 1
+	Query: "(skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "country:&#34;venezuela&#34; catalognumber:120922 institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:brachydactyla genus:calandrella institutioncode:amnh" ; Times: 1
+	Query: "Clamator (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "dendrocopos medius tissue:1" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 3
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "specificepithet:meloryphus genus:euscarthmus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Branta sandvicensis skel*" ; Times: 1
+	Query: "specificepithet:meyeni genus:Zosterops tissue:1" ; Times: 1
+	Query: "Electron platyrynchum type:specimen" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "san felix country:&#34;venezuela&#34; catalognumber:493327 institutioncode:AMNH" ; Times: 1
+	Query: "Rhinomyias umbratilis" ; Times: 4
+	Query: "specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male year &gt;= 1960 year &lt;= 2015" ; Times: 2
+	Query: "Epimachus fastuosus" ; Times: 3
+	Query: "zosterops luteirostris" ; Times: 1
+	Query: "Agelaius phoeniceus type:specimen country:&#34;Costa rica&#34; institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "northropi genus:icterus" ; Times: 3
+	Query: "Eulipoa" ; Times: 1
+	Query: "catalognumber:707245 institutioncode:AMNH" ; Times: 1
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;canada&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "Hemipus picatus India" ; Times: 1
+	Query: "Hypocolius" ; Times: 1
+	Query: "Branta canadensis occidentalis AMNH" ; Times: 1
+	Query: "Agelaius phoeniceus type:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Sporophila hypoxantha institutioncode:AMNH" ; Times: 2
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "AMNH 82083" ; Times: 1
+	Query: "amnh 425625" ; Times: 5
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.1802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ)" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 institutioncode:AMNH" ; Times: 2
+	Query: "bahama genus:Icterus" ; Times: 1
+	Query: "type:specimen genus:Scotocerca" ; Times: 2
+	Query: "catalognumber:42889 institutioncode:AMNH" ; Times: 1
+	Query: "Penelope jacucaca" ; Times: 2
+	Query: "distance(location,geopoint(24.1802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "WED 52978" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;canada&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "genus:alectoris class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "Diamantina class:Aves" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "&#34;sylvietta virens&#34; tissue:1" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; (Pieles) year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 6
+	Query: "celeus (skel OR skeleton)" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "Oceanodroma furcata skel*" ; Times: 1
+	Query: "crypsirina temia" ; Times: 38
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "tachycineta bicolor" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 2
+	Query: "specificepithet:carbo genus:Phalacrocorax country:&#34;Canada&#34; institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Massachusetts&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "brachypteryx major" ; Times: 1
+	Query: "institutioncode:AMNH" ; Times: 1
+	Query: "cumbre de valencia" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 4
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "batrachostomus affinis" ; Times: 1
+	Query: "aegotheles cristatus country:&#34;Papua&#34;" ; Times: 1
+	Query: "Crax globulosa tissue:1" ; Times: 1
+	Query: "&#34;sylvietta philippae&#34; tissue:0" ; Times: 1
+	Query: "specificepithet:northropi genus:Icterus" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Rhode Island&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "AMNH 107359" ; Times: 1
+	Query: "(tissue) institutioncode:AMNH" ; Times: 2
+	Query: "megalaima skeleton" ; Times: 2
+	Query: "&#34;1903-07-12&#34; country:&#34;russia&#34; year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Ortalis motmot motmot tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "Cyornis rubeculoides" ; Times: 12
+	Query: "genus:Icterus country:&#34;bahamas&#34;" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 6 month &lt;= 6 institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "catalognumber:433403 institutioncode:AMNH" ; Times: 2
+	Query: "Heliodoxa xanthogonys guyana" ; Times: 1
+	Query: "ploceus angolensis" ; Times: 2
+	Query: "rissa tridactyla type:specimen institutioncode:AMNH (skin)" ; Times: 3
+	Query: "stateprovince:&#34;North Carolina&#34; country:&#34;united states&#34; specificepithet:aestivalis genus:aimophila" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "Rhinomyias brunneatus" ; Times: 1
+	Query: "amnh 321810" ; Times: 1
+	Query: "musophagidae tissue:1" ; Times: 1
+	Query: "Ruti" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "Colinus nigrogularis type:specimen" ; Times: 1
+	Query: "AMNH 82079" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; (Pteroglossus bitorquatus)" ; Times: 1
+	Query: "catalognumber:155809" ; Times: 1
+	Query: "Feia" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 6 month &lt;= 6 tissue:1" ; Times: 1
+	Query: "Amnh 820787" ; Times: 1
+	Query: "AMNH 82077" ; Times: 3
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "Puffinus newelli skel*" ; Times: 1
+	Query: "florisuga mellivora type:specimen institutioncode:AMNH tissue:1" ; Times: 2
+	Query: "turdidae country:&#34;Liberia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "AMNH 266565" ; Times: 2
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Dicaeum cruentatum country:&#34;india&#34;" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus tissue:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT mexico NOT minnesota NOT florida NOT louisianna NOT carolina) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "class:aves distance(location,geopoint(-29.668962525992505,-50.64697265625))&lt;100000" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen year &gt;= 1931 year &lt;= 2015 institutioncode:AMNH" ; Times: 1
+	Query: "picumnus pumilus tissue:1" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 3
+	Query: "Luscinia pectoralis" ; Times: 9
+	Query: "specificepithet:palpebrosus genus:Zosterops tissue:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia" ; Times: 1
+	Query: "turdoides subrufa" ; Times: 1
+	Query: "gryphus" ; Times: 2
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+	Query: "Cyornis rufigastra" ; Times: 2
+	Query: "Pterodroma longirostris skel*" ; Times: 1
+	Query: "genus:formicivora" ; Times: 1
+	Query: "terpsiphone incei" ; Times: 2
+	Query: "650774" ; Times: 1
+	Query: "Penelope jacquacu granti" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:dauuricus genus:corvus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "florisuga fuscus" ; Times: 1
+	Query: "Thinocorus (skel OR skeleton)" ; Times: 1
+	Query: "genus:falco country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;china&#34; genus:phylloscopus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 1
+	Query: "Colinus leucopogon type:specimen AND (cristatus)" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "emberiza striolata" ; Times: 2
+	Query: "(skel OR skeleton)" ; Times: 1
+	Query: "Rhinomyias gularis" ; Times: 2
+	Query: "strix nebulosa" ; Times: 1
+	Query: "Monasa type:specimen" ; Times: 1
+	Query: "catalognumber:154681" ; Times: 1
+	Query: "oxyruncus" ; Times: 2
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "AMNH 73386" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;United States&#34; AND (NOT Alaska NOT michigan NOT wisconsin NOT illinois NOT missouri NOT mexico NOT minnesota) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 2
+	Query: "WED 58779" ; Times: 3
+	Query: "catalognumber:244803 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga AND (NOT Alaska NOT michigan NOT wisconsin) year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7 tissue:1" ; Times: 2
+	Query: "genus:gallinago country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;10000" ; Times: 1
+	Query: "locality:taquara" ; Times: 1
+	Query: "country:&#34;russia&#34; recordedby:hall year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "siptornopsis" ; Times: 1
+	Query: "country:&#34;china&#34; genus:buteo institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Eremophila bilopha" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "passerina cyanea country:&#34;Mexico&#34; institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:761006 institutioncode:AMNH" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "WED 50309" ; Times: 1
+	Query: "amnh 124735" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "amnh 74679" ; Times: 1
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "genus:tarsiger country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.149505705))&lt;15000" ; Times: 1
+	Query: "Keku" ; Times: 2
+	Query: "Alcippe poioicephala" ; Times: 4
+	Query: "Colinus leucopogon type:specimen AND (NOT cristatus)" ; Times: 1
+	Query: "Passerina versicolor purpurascens type:specimen" ; Times: 1
+	Query: "amnh colombia" ; Times: 3
+	Query: "genus:regulus country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "motacilla alba china ku" ; Times: 1
+	Query: "parus major stupae" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "ave" ; Times: 1
+	Query: "amnh 43653" ; Times: 2
+	Query: "country:&#34;china&#34; genus:phoenicurus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "catalognumber:161963" ; Times: 1
+	Query: "ploceus manyar skin" ; Times: 1
+	Query: "Corvus unicolor" ; Times: 1
+	Query: "Oenanthe alboniger country:&#34;India&#34;" ; Times: 1
+	Query: "Fulmarus glacialis skel*" ; Times: 2
+	Query: "distance(location,geopoint(26.1802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:ornatus genus:calcarius year &gt;= 1965 year &lt;= 1965" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "rhodopis vesper" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "locality:campo bom" ; Times: 2
+	Query: "Phonygammus keraudrenii" ; Times: 2
+	Query: "phylloscopus plumbeitarsus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 169 (out of 1045 download events in this period)
+Total number of records downloaded: 296614
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 14
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 6
+	Country: Venezuela ; Times: 5
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 73
+	Country: Austria ; Times: 34
+	Country: Colombia ; Times: 5
+	Country: Thailand ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 11
+	Date: 2015-09-10 ; Times: 7
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 5
+	Date: 2015-09-16 ; Times: 9
+	Date: 2015-09-17 ; Times: 23
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 4
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 11
+	Date: 2015-09-19 ; Times: 9
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-05 ; Times: 4
+	Date: 2015-09-04 ; Times: 18
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 9
+	Date: 2015-09-25 ; Times: 18
+	Date: 2015-09-24 ; Times: 5
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 6
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "country:&#34;china&#34; genus:eremophila recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "family:columbidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;china&#34; genus:acrocephalus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "specificepithet:ruber catalognumber:64453 OR 64581 OR 3819 OR 2330 OR 63263 OR 123368" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; recordedby:Dickerman year &gt;= 1977 year &lt;= 1977" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "Brazil class:aves institutioncode:amnh" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "type:specimen genus:Eulipoa" ; Times: 2
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1904 year &lt;= 1904 month &gt;= 3 month &lt;= 5" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Lophura diardi" ; Times: 1
+	Query: "genus:sitta country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Massachusetts&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "genus:bucephala class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "specificepithet:eos genus:carpodacus country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Penelope jacucaca" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "country:&#34;china&#34; genus:tetrastes recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "year:1859" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:kessleri genus:turdus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 2
+	Query: "country:&#34;china&#34; genus:montifringilla institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "&#34;James Bond&#34;" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Hylophylax poecilinotus" ; Times: 1
+	Query: "genus:merops class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "Cyornis rubeculoides klossi" ; Times: 2
+	Query: "country:&#34;china&#34; specificepithet:atricapillus genus:parus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; genus:eumyias recordedby:owston institutioncode:amnh" ; Times: 2
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Connecticut&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "country:&#34;United States&#34; class:Aves" ; Times: 1
+	Query: "family:picidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "genus:lophophanes class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;Rhode Island&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "synallaxis tithys" ; Times: 1
+	Query: "country:&#34;china&#34; genus:carduelis institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:spinoletta genus:anthus institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "empidonax flaviventris month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 1
+	Query: "genus:alectoris class:aves country:&#34;china&#34; recordedby:owston institutioncode:AMNH" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Pteroglossus bitorquatus)" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "type:specimen class:Aves year &gt;= 1960 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "country:&#34;china&#34; genus:aegithalos recordedby:owston institutioncode:amnh" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "turdidae country:&#34;Liberia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "Pandion haliaeetus" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "class:aves distance(location,geopoint(-29.668962525992505,-50.64697265625))&lt;100000" ; Times: 1
+	Query: "Luscinia pectoralis" ; Times: 1
+	Query: "specificepithet:insignis genus:saxicola class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "genus:mycerobas class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;china&#34; genus:phylloscopus recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "family:corvidae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "genus:falco country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:semicornatus genus:picoides recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "Thamnophilus Melanonotus" ; Times: 1
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:brachydactyla genus:calandrella institutioncode:amnh" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:rupestris institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "genus:gallinago country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "genus:kozlowia class:aves country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "country:&#34;china&#34; genus:buteo institutioncode:amnh year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "Eremophila bilopha" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "passerina cyanea country:&#34;Mexico&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "guaiquinima country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "genus:phylloscopus country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "family:accipitridae country:&#34;china&#34; year &gt;= 1933 year &lt;= 1934 institutioncode:AMNH" ; Times: 1
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "type:specimen genus:Hypocolius" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "country:&#34;china&#34; specificepithet:cabanisi genus:picoides recordedby:weigold institutioncode:amnh" ; Times: 1
+	Query: "genus:apus country:&#34;china&#34; recordedby:schafer institutioncode:AMNH" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+	Query: "PNG" ; Times: 2
+
+
+End of report.
