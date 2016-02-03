@@ -1,0 +1,834 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 871
+Number of records retrieved in searches: 15268
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 204
+	Country: Canada ; Times: 34
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 5
+	Country: France ; Times: 18
+	Country: United States ; Times: 509
+	Country: Germany ; Times: 23
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 5
+	Country: Puerto Rico ; Times: 5
+	Country: New Zealand ; Times: 8
+	Country: Bolivia ; Times: 5
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Denmark ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 26
+	Date: 2015-12-09 ; Times: 22
+	Date: 2015-12-08 ; Times: 32
+	Date: 2015-12-03 ; Times: 32
+	Date: 2015-12-02 ; Times: 62
+	Date: 2015-12-01 ; Times: 69
+	Date: 2015-12-07 ; Times: 53
+	Date: 2015-12-06 ; Times: 23
+	Date: 2015-12-05 ; Times: 7
+	Date: 2015-12-04 ; Times: 60
+	Date: 2015-12-21 ; Times: 26
+	Date: 2015-12-20 ; Times: 8
+	Date: 2015-12-23 ; Times: 16
+	Date: 2015-12-22 ; Times: 12
+	Date: 2015-12-25 ; Times: 9
+	Date: 2015-12-24 ; Times: 18
+	Date: 2015-12-27 ; Times: 37
+	Date: 2015-12-26 ; Times: 32
+	Date: 2015-12-29 ; Times: 13
+	Date: 2015-12-28 ; Times: 16
+	Date: 2015-12-30 ; Times: 31
+	Date: 2015-12-14 ; Times: 36
+	Date: 2015-12-15 ; Times: 33
+	Date: 2015-12-16 ; Times: 28
+	Date: 2015-12-31 ; Times: 42
+	Date: 2015-12-10 ; Times: 24
+	Date: 2015-12-11 ; Times: 15
+	Date: 2015-12-12 ; Times: 48
+	Date: 2015-12-13 ; Times: 6
+	Date: 2015-12-18 ; Times: 22
+	Date: 2015-12-19 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammodramus henslowii (Virginia) AND (NOT West)" ; Times: 1
+	Query: "specificepithet:nesiotis family:rallidae preparations:skin" ; Times: 1
+	Query: "AMNH 257336" ; Times: 1
+	Query: "genus:emberizoides class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cinclus cinclus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Philemon year &gt;= 1954 year &lt;= 1954" ; Times: 1
+	Query: "type:specimen genus:Saltator class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 1
+	Query: "&#34;labrador duck&#34;" ; Times: 1
+	Query: "Podiceps taczanowskii preparations:skin" ; Times: 1
+	Query: "Obi institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:turdinus genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Terpsiphone (Terpsiphone ) AND (Terpsiphone ) tissue:1" ; Times: 2
+	Query: "Gizo class:Aves (Isabel) institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 19627" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:rectunguis family:Cuculidae and NOT CLO" ; Times: 1
+	Query: "wizard" ; Times: 8
+	Query: "type:specimen genus:Machetornis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Brotogeris order:Psittaciformes (chrysoptera)" ; Times: 1
+	Query: "AMNH 106669" ; Times: 1
+	Query: "Otus nudipes type:specimen" ; Times: 1
+	Query: "Lanius ludovicianus (Virginia)" ; Times: 1
+	Query: "Monarcha erythrostictus" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1888 year &lt;= 1890" ; Times: 1
+	Query: "empidonax difficilis cineritius" ; Times: 1
+	Query: "falco severus india" ; Times: 1
+	Query: "type:specimen genus:xolmis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "catalognumber:153306 institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen genus:arundinicola class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 8
+	Query: "Grus canadensis stateprovince:&#34;New Mexico&#34; institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen genus:porphyrospiza class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes (personatus)" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "Lepidogrammus cumingi preparations:skin" ; Times: 1
+	Query: "specificepithet:canicularis genus:aratinga" ; Times: 1
+	Query: "Birds of Maracaju" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (intermedia)" ; Times: 1
+	Query: "Ploceus batesi" ; Times: 1
+	Query: "Fisi class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:spilopterus family:cuculidae preparations:skin" ; Times: 1
+	Query: "Leptopogon superciliaris year &gt;= 1905 year &lt;= 1907" ; Times: 1
+	Query: "amnh 160238" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1800 year &lt;= 1890" ; Times: 1
+	Query: "Arborophila cambodiana" ; Times: 2
+	Query: "Centropus chalybeus family:Cuculidae" ; Times: 1
+	Query: "specificepithet:fluminea family:rallidae preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Mimus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tapera tissue:1" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 3
+	Query: "genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:chlororhynchus family:Cuculidae" ; Times: 2
+	Query: "type:specimen genus:sublegatus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hypsipetes tissue:1" ; Times: 1
+	Query: "zrc" ; Times: 1
+	Query: "Micropsitta bruijnii" ; Times: 1
+	Query: "Astrapia stephaniae preparations:skin" ; Times: 1
+	Query: "coryphaspiza melanotis" ; Times: 1
+	Query: "Calliphlox type:specimen mappable:1" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;goias&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "wilsonia pusilla (Costa Rica) month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "Margarornis squamiger type:specimen" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;ceara&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:TYRANNIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Schiffornis class:Aves stateprovince:&#34;Bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 2
+	Query: "ducula aenea india" ; Times: 1
+	Query: "Threskiornis bernieri preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Pachyramphus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+	Query: "type:specimen family:Hirundinidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Melampitta gigantea preparations:skin" ; Times: 1
+	Query: "Selasphorus platycercus type:specimen tissue:1" ; Times: 1
+	Query: "Pachyramphus albogriseus albogriseus" ; Times: 2
+	Query: "aegypius tissue:1" ; Times: 1
+	Query: "Thapsinillas" ; Times: 4
+	Query: "Pterodroma" ; Times: 3
+	Query: "Pauvis class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "Pachycephala griseonota" ; Times: 1
+	Query: "genus:Thraupis class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:schiffornis class:Aves stateprovince:&#34;espirito santo&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Poharan class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "Nothoprocta cinerascens" ; Times: 2
+	Query: "vireo cassinii baja california" ; Times: 1
+	Query: "type:specimen genus:Terenotriccus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "WHT" ; Times: 1
+	Query: "Aimophila aestivalis type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen genus:Cyanocorax class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "minot" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;piaui&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chaetura andrei institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:563619 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 232139" ; Times: 1
+	Query: "Dendrocitta bayleyi" ; Times: 2
+	Query: "machaeropterus deliciosus" ; Times: 3
+	Query: "aves socotra" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;sao paulo&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "amnh 126739" ; Times: 2
+	Query: "Gizo class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "class:Aves (Solomon Is.) institutioncode:AMNH" ; Times: 1
+	Query: "Numenius borealis" ; Times: 3
+	Query: "catalognumber:706138 institutioncode:AMNH" ; Times: 3
+	Query: "113810" ; Times: 1
+	Query: "attila spadiceus institutioncode:AMNH" ; Times: 1
+	Query: "genus:Porphyrospiza class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "Bostrychia olivacea preparations:skin" ; Times: 2
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "Ploceus bojeri" ; Times: 2
+	Query: "holotype type:specimen (cuba) institutioncode:AMNH" ; Times: 1
+	Query: "melospiza melodia" ; Times: 1
+	Query: "specificepithet:modestus family:rallidae preparations:skin" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 3
+	Query: "Salpinctes obsoletus exsul" ; Times: 1
+	Query: "threskiornis strictipennis" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "genus:vireo stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; (cassinii solitarius)" ; Times: 1
+	Query: "type:specimen specificepithet:meyeni genus:Tachycineta tissue:1" ; Times: 1
+	Query: "locality:Bogava" ; Times: 1
+	Query: "caprimulgus macrurus india" ; Times: 6
+	Query: "Cambodia Aves type:specimen mappable:1" ; Times: 2
+	Query: "randia" ; Times: 1
+	Query: "type:specimen genus:Mionectes class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta tissue:1" ; Times: 1
+	Query: "catalognumber:30416 institutioncode:AMNH" ; Times: 1
+	Query: "pachyramphus albogriseus salvini" ; Times: 1
+	Query: "type:specimen genus:Hemitriccus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen order:Psittaciformes class:aves (pusillus)" ; Times: 1
+	Query: "Pitta cyanea country:&#34;India&#34;" ; Times: 2
+	Query: "192049" ; Times: 1
+	Query: "Urocissa caerulea" ; Times: 4
+	Query: "Selasphorus rufus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "Microligea palustris year &gt;= 1800 year &lt;= 1884" ; Times: 1
+	Query: "Epimachus meyeri preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Brotogeris order:Psittaciformes (chiriri)" ; Times: 1
+	Query: "specificepithet:bocki family:Cuculidae preparations:skin" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 2
+	Query: "acrocephalus agricola afghanistan" ; Times: 1
+	Query: "genus:coryphaspiza class:aves recordedby:venturi" ; Times: 1
+	Query: "Tunucheu class:Aves institutioncode:AMNH" ; Times: 2
+	Query: "type:specimen genus:Schiffornis stateprovince:&#34;Parana&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aeneus maryland" ; Times: 2
+	Query: "type:specimen specificepithet:barbatus genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:virescens genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "type:specimen genus:trichothraupis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "Syrmaticus ellioti preparations:skin" ; Times: 1
+	Query: "genus:Eurocephalus tissue:1" ; Times: 1
+	Query: "Tilagi class:Aves institutioncode:AMNH" ; Times: 2
+	Query: "type:specimen genus:Enicognathus order:Psittaciformes (leptorhynchus) institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "conecuh national forest" ; Times: 1
+	Query: "platysmurus" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "type:specimen genus:TACHYPHONUS class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 1
+	Query: "type:specimen genus:THLYPOPSIS class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 1
+	Query: "Parotia lawesii preparations:skin" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "striata (setophaga OR dendroica)" ; Times: 1
+	Query: "strix leptogrammica india" ; Times: 1
+	Query: "rolli family:Phasianidae preparations:skin" ; Times: 1
+	Query: "Malia tissue:1" ; Times: 1
+	Query: "Coturnicops notata" ; Times: 4
+	Query: "Ammodramus henslowii (Virginia) AND (NOT West NOT susurrans)" ; Times: 1
+	Query: "type:specimen genus:pachyramphus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:TYRANNIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 4
+	Query: "genus:schiffornis class:Aves stateprovince:&#34;bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;piaui&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:dacnis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "schlegelii family:Phasianidae preparations:skin" ; Times: 1
+	Query: "genus:schiffornis class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:laniisoma class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "birds" ; Times: 2
+	Query: "TEMNURUS TEMNURUS" ; Times: 6
+	Query: "emberiza jankowskii" ; Times: 1
+	Query: "Diphyllodes respublica preparations:skin" ; Times: 1
+	Query: "Synallaxis cinnamomea institutioncode:AMNH" ; Times: 1
+	Query: "amnh 62378" ; Times: 2
+	Query: "specificepithet:heinrichi family:Cuculidae" ; Times: 1
+	Query: "specificepithet:plateni family:rallidae preparations:skin" ; Times: 1
+	Query: "melanopareia" ; Times: 2
+	Query: "Vella Lavella (E of N. Guinea)" ; Times: 1
+	Query: "Heliodoxa gularis" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "N.E. of Rendova I. class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:olivieri family:rallidae preparations:skin" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "institutioncode:amnh Poicephalus" ; Times: 2
+	Query: "genus:Tityra class:Aves stateprovince:&#34;maranhao&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:ammodramus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Seiurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mus massachusetts" ; Times: 1
+	Query: "106669" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 2
+	Query: "Lophura pyronota preparations:skin" ; Times: 2
+	Query: "type:specimen genus:Tyrannus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "amnh 618924" ; Times: 1
+	Query: "genus:Schistochlamys class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "228115" ; Times: 1
+	Query: "genus:Schiffornis class:Aves stateprovince:&#34;bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ihering Rio Grande do Sul" ; Times: 1
+	Query: "type:specimen genus:tolmomyias class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:furnariidae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Rhipidura rufifrons granti tissue:1" ; Times: 1
+	Query: "locality:Madiera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pteroglossus sanguineus" ; Times: 1
+	Query: "specificepithet:inquisitor genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:280262" ; Times: 2
+	Query: "type:specimen genus:Tityra order:Passeriformes class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:empidonomus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "order:Carnivora country:&#34;Ethiopia&#34;" ; Times: 2
+	Query: "genus:euphonia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "bRAZIL genus:Tityra class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:Icteridae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 4
+	Query: "dendrocitta occipitalis" ; Times: 7
+	Query: "Ephippiorhynchus senegalensis preparations:skin" ; Times: 1
+	Query: "erythrogaster maryland" ; Times: 2
+	Query: "genus:geospiza class:aves stateprovince:&#34;Galapagos&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Yanita class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "tissue:1" ; Times: 12
+	Query: "phaethornis catalognumber:478854 institutioncode:AMNH" ; Times: 1
+	Query: "Thryothorus leucotis tissue:1" ; Times: 1
+	Query: "AMNH 133259" ; Times: 1
+	Query: "Philemon diemenensis" ; Times: 1
+	Query: "nyctyornis athertoni india" ; Times: 1
+	Query: "Parotia helenae preparations:skin" ; Times: 1
+	Query: "genus:charitospiza class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:phasianus family:cuculidae preparations:skin" ; Times: 1
+	Query: "Excalfactoria adansonii family:Phasianidae preparations:skin" ; Times: 1
+	Query: "type:specimen genus:machaeropterus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:sordida class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "agelastes niger" ; Times: 2
+	Query: "Chaetura vauxi institutioncode:AMNH" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "Kalambangra Is. class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "genus:TANGARA class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cambodia Aves type:specimen" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 4
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Dendrocitta leucogastra" ; Times: 6
+	Query: "cuba institutioncode:AMNH" ; Times: 2
+	Query: "type:specimen genus:arremon class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:castaneoventris family:rallidae preparations:skin" ; Times: 1
+	Query: "Luscinia calliope country:&#34;India&#34;" ; Times: 1
+	Query: "126225" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;Parana&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Upola class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "AMNH 62276" ; Times: 1
+	Query: "Sarothrura elegans preparations:skin" ; Times: 1
+	Query: "Paradigalla brevicauda preparations:skin" ; Times: 1
+	Query: "type:specimen genus:neopelma class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gbifdatasetid:96c93a1e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "class:aves locality:Maracaibo year &lt;= 1914" ; Times: 1
+	Query: "class:aves recordedby:harris year &gt;= 1895 year &lt;= 1899" ; Times: 1
+	Query: "locality:Tapia recordedby:Dinelli year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "Paradisaea apoda preparations:skin" ; Times: 1
+	Query: "Sceloglaux albifacies" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi" ; Times: 1
+	Query: "specificepithet:spiloptera family:rallidae preparations:skin" ; Times: 1
+	Query: "Myioborus melanocephalus type:specimen" ; Times: 1
+	Query: "Arborophila orientalis family:Phasianidae preparations:skin" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "swierstrai family:Phasianidae preparations:skin" ; Times: 1
+	Query: "Paradisaea raggiana preparations:skin" ; Times: 1
+	Query: "birds of Potosi bolivia" ; Times: 4
+	Query: "tachuris" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (auricapillus)" ; Times: 1
+	Query: "specificepithet:antarcticus family:rallidae preparations:skin" ; Times: 1
+	Query: "birds of Urucum" ; Times: 4
+	Query: "Falco peregrinus (Virginia) AND (NOT West)" ; Times: 1
+	Query: "Wilsonia pusilla (Costa Rica) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "pyrrhocorax graculus tissue:1" ; Times: 4
+	Query: "Psittacidae Arizona" ; Times: 2
+	Query: "Erpornis 10977" ; Times: 2
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 2
+	Query: "amnh 198177" ; Times: 1
+	Query: "Arborophila gingica family:Phasianidae preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (chalcopterus) year &gt;= 1968" ; Times: 1
+	Query: "catalognumber:168934 institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:492981 institutioncode:AMNH" ; Times: 2
+	Query: "Ophrysia superciliosa family:Phasianidae preparations:skin" ; Times: 1
+	Query: "acrocephalus orientalis india" ; Times: 1
+	Query: "Ammodramus henslowii (Virginia)" ; Times: 1
+	Query: "specificepithet:cornuta family:rallidae preparations:skin" ; Times: 1
+	Query: "Asthenes berlepschi" ; Times: 1
+	Query: "type:specimen genus:Myiobius class:Aves country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen family:Corvidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Erpornis" ; Times: 1
+	Query: "carduelis cucullata" ; Times: 1
+	Query: "genus:tersina class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pluvianus aegyptius institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "Yanita (San Christoval)" ; Times: 1
+	Query: "country:&#34;Bolivia&#34; recordedby:Steinbach year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "547 Zonotrichia" ; Times: 1
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "type:specimen genus:Myiarchus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "nyctibius leucopterus" ; Times: 1
+	Query: "Diphyllodes magnificus preparations:skin" ; Times: 1
+	Query: "pulsatrix institutioncode:AMNH" ; Times: 1
+	Query: "rhipidura fuliginosa tissue:1" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "calyptomena whiteheadi" ; Times: 1
+	Query: "Tututsu class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "margaroperdix" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:saturatus family:Cuculidae preparations:skin" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 3
+	Query: "type:specimen specificepithet:pallescens genus:Dendrocolaptes" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (modesta)" ; Times: 1
+	Query: "type:specimen genus:thlypopsis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ptilorrhoa tissue:1" ; Times: 2
+	Query: "Rhipidura cockerelli tissue:1" ; Times: 1
+	Query: "Turdus assimilis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Ptiloris intercedens preparations:skin" ; Times: 1
+	Query: "francolinus pondicerianus" ; Times: 1
+	Query: "notiomystis tissue:1" ; Times: 1
+	Query: "birds of Belvedere de Urucum" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:polioptila class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:FLUVICOLA class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;sao paulo&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:todirostrum class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gyps fulvus" ; Times: 2
+	Query: "bracteatus" ; Times: 1
+	Query: "catreus wallichii" ; Times: 3
+	Query: "dendrocitta vagabunda tissue:1" ; Times: 2
+	Query: "Camptorhynchus labradorius" ; Times: 5
+	Query: "type:specimen genus:Donacobius class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:megarhynchus family:Cuculidae" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Seleucidis melanoleucus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker alex" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 1
+	Query: "aves socotra year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "type:specimen family:Cotingidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "Picoides borealis (Virginia)" ; Times: 1
+	Query: "Zosterops ugiensis tissue:1" ; Times: 1
+	Query: "catalognumber:144959 institutioncode:AMNH" ; Times: 3
+	Query: "type:specimen genus:zonotrichia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "seguin texas" ; Times: 1
+	Query: "Redmark class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "Pachyramphus albogriseus salvini" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Habia rubica bolivia santa cruz" ; Times: 1
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "specificepithet:schleiermacheri family:Phasianidae preparations:skin" ; Times: 1
+	Query: "specificepithet:inopinatum family:Phasianidae preparations:skin" ; Times: 1
+	Query: "amnh 68199" ; Times: 2
+	Query: "melampitta gigantea" ; Times: 1
+	Query: "ophrysia superciliosa" ; Times: 1
+	Query: "Yanita class:Aves (San Christoval) institutioncode:AMNH" ; Times: 1
+	Query: "aves candiota brazil" ; Times: 1
+	Query: "gbifdatasetid:96c93a1e-f762-11e1-a439-00145eb45e9a Brasil" ; Times: 1
+	Query: "specificepithet:congensis family:Phasianidae preparations:skin" ; Times: 1
+	Query: "urocissa flavirostris" ; Times: 1
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "amnh 279026" ; Times: 1
+	Query: "gbifdatasetid:96c93a1e-f762-11e1-a439-00145eb45e9a Brazil" ; Times: 3
+	Query: "amnh 62276" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:plumbeiventris family:rallidae preparations:skin" ; Times: 1
+	Query: "mitu year &gt;= 1985 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:bernsteini family:Cuculidae" ; Times: 1
+	Query: "huallagae preparations:skin" ; Times: 1
+	Query: "specificepithet:semiplumbeus family:rallidae preparations:skin" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:787166 institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes country:&#34;argentina&#34;" ; Times: 1
+	Query: "sialia currucoides (california) year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "Pteridophora alberti preparations:skin" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "locality:Tapia recordedby:Dinelli" ; Times: 1
+	Query: "specificepithet:albus family:rallidae preparations:skin" ; Times: 1
+	Query: "specificepithet:akool family:rallidae preparations:skin" ; Times: 1
+	Query: "sterna dougalii" ; Times: 2
+	Query: "type:specimen specificepithet:atricaudus genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Ara tricolor" ; Times: 5
+	Query: "Parotia sefilata preparations:skin" ; Times: 1
+	Query: "genus:laniocera class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Leptopogon taczanowskii type:specimen" ; Times: 1
+	Query: "Phaenicophilus poliocephalus year &gt;= 1881 year &lt;= 1881" ; Times: 1
+	Query: "type:specimen genus:ramphocaenus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anumbius anumbi" ; Times: 1
+	Query: "Monarcha castaneiventris tissue:1" ; Times: 1
+	Query: "Coturnicops ayresi preparations:skin" ; Times: 1
+	Query: "155921" ; Times: 1
+	Query: "anurophasis" ; Times: 1
+	Query: "type:specimen family:bucconidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Terpsiphone (atrocaudata) tissue:1" ; Times: 1
+	Query: "sullivan" ; Times: 1
+	Query: "Parotia wahnesi preparations:skin" ; Times: 1
+	Query: "Cicinnurus regius preparations:skin" ; Times: 1
+	Query: "type:specimen family:Thraupidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hypsipetes madagascariensis tissue:1" ; Times: 1
+	Query: "notiomystis" ; Times: 1
+	Query: "chlorocichla tissue:1" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;parana&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "type:specimen genus:iodopleura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phalacrocorax carbo india" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;MARANHAO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coccyzus euleri" ; Times: 1
+	Query: "genus:piranga class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:elaenia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:cypsnagra class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Warihito-Ghoghe institutioncode:AMNH" ; Times: 1
+	Query: "Calothorax type:specimen mappable:1" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "specificepithet:leucospila family:Rallidae preparations:skin" ; Times: 1
+	Query: "Parotia carolae preparations:skin" ; Times: 1
+	Query: "empidonax" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "maximilian institutioncode:AMNH" ; Times: 1
+	Query: "Buteogallus anthracinus subtilis" ; Times: 1
+	Query: "Epimachus fastosus preparations:skin" ; Times: 1
+	Query: "genus:laniocera class:Aves stateprovince:&#34;roraima&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;BAHIA&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:741095" ; Times: 1
+	Query: "genus:laniocera class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Zosterops metcalfii tissue:1" ; Times: 1
+	Query: "Synallaxis subpudica" ; Times: 1
+	Query: "catalognumber:163717 institutioncode:AMNH" ; Times: 1
+	Query: "turdus merula nigropileus india" ; Times: 1
+	Query: "specificepithet:chalybeus family:Cuculidae" ; Times: 1
+	Query: "genus:Schiffornis class:Aves stateprovince:&#34;espirito santo&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Williams 1955" ; Times: 2
+	Query: "Myiagra ferrocyanea tissue:1" ; Times: 1
+	Query: "genus:Tityra class:Aves stateprovince:&#34;bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tachuris rubrigastra" ; Times: 1
+	Query: "Crypsirina temia" ; Times: 3
+	Query: "Lophura diardi preparations:skin" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "type:specimen family:Vireonidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "recordedby:Lumholtz" ; Times: 1
+	Query: "genus:Zonotrichia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tahamatangi class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "turnix tissue:1" ; Times: 1
+	Query: "Pluvianus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;galapagos&#34; recordedby:harris" ; Times: 1
+	Query: "type:specimen genus:paroaria class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "osburn" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes continent:Africa (taranta)" ; Times: 1
+	Query: "griseostriatus family:Phasianidae preparations:skin" ; Times: 1
+	Query: "type:specimen genus:knipolegus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wilsonia pusilla (Costa Rica) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "catalognumber:163974 institutioncode:AMNH" ; Times: 2
+	Query: "Monarcha barbatus tissue:1" ; Times: 1
+	Query: "Tuifagi class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "platysmurus leucopterus" ; Times: 3
+	Query: "wilsonia pusilla (washington) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen genus:eucometis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:lophospingus class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "Thamnophilus ruficapillus type:specimen" ; Times: 1
+	Query: "Pterodroma longirostris" ; Times: 3
+	Query: "batrachostomus moniliger" ; Times: 3
+	Query: "spizella arborea" ; Times: 1
+	Query: "type:specimen family:Parulidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:columbidae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Pteroglossus beauharnaesii preparations:skin" ; Times: 1
+	Query: "netta rufina india" ; Times: 1
+	Query: "Jackson 1900 Uganda" ; Times: 1
+	Query: "Monarcha cinerascens" ; Times: 1
+	Query: "catalognumber:163877 institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen genus:donacobius class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sialia mexicana year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "73952" ; Times: 1
+	Query: "gyps ruppellii" ; Times: 3
+	Query: "Wilsonia pusilla (Honduras) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "Bostrychia bocagei preparations:skin" ; Times: 1
+	Query: "Iole tissue:1" ; Times: 1
+	Query: "genus:CYANERPES class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "genus:Melanerpes locality:Tapia recordedby:Dinelli" ; Times: 1
+	Query: "genus:TANGARA[ class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:pachyramphus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "locality:Sara country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:lugubris genus:Celeus" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (cyanocephala)" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Crossoptilon harmani preparations:skin" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 3
+	Query: "AMNH 70652" ; Times: 2
+	Query: "AMNH 70653" ; Times: 1
+	Query: "trochocercus year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Parotia lawesii type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus" ; Times: 1
+	Query: "Pycnonotus type:specimen preparations:fluid" ; Times: 1
+	Query: "streptophorus family:Phasianidae preparations:skin" ; Times: 1
+	Query: "acrocephalus agricola india" ; Times: 2
+	Query: "type:specimen genus:Philydor class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Dika class:Aves institutioncode:AMNH" ; Times: 1
+	Query: "pluvianus institutioncode:AMNH" ; Times: 2
+	Query: "genus:volatinia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "rynchops albicollis" ; Times: 1
+	Query: "specificepithet:rectunguis family:Cuculidae" ; Times: 2
+	Query: "type:specimen genus:tURDUS class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "specificepithet:ruficollis family:Cuculidae" ; Times: 1
+	Query: "type:specimen genus:tachyphonus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mounted type:specimen year &lt;= 1940 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:rufipennis family:Cuculidae" ; Times: 1
+	Query: "Pyrrhocorax graculus" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "Ptiloris intercedens type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;maRANHAO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sarothrura lugens preparations:skin" ; Times: 1
+	Query: "type:specimen genus:strix class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "type:specimen genus:TURDUS class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turdus assimilis country:&#34;Panama&#34;" ; Times: 1
+	Query: "sphyrapicus varius year &gt;= 1999 year &lt;= 2000" ; Times: 1
+	Query: "type:specimen genus:legatus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:cyanoloxia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:semifasciata genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:accipitridae class:Aves stateprovince:&#34;Concepcion&#34; country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "amnh 62318" ; Times: 1
+	Query: "amazona vinacea" ; Times: 2
+	Query: "specificepithet:mayri family:Rallidae preparations:skin" ; Times: 1
+	Query: "pyrrhocorax graculus" ; Times: 8
+	Query: "Metopothrix aurantiacus" ; Times: 1
+	Query: "Lophura bulweri preparations:skin" ; Times: 1
+	Query: "type:specimen genus:eudromia class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "Spizixos canifrons" ; Times: 1
+	Query: "type:specimen genus:aimophila class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "specificepithet:bicalcaratum family:Phasianidae preparations:skin" ; Times: 1
+	Query: "sialia mexicana (california) year &gt;= 1908 year &lt;= 1909" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Galapagos&#34; recordedby:harris" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;parana&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen family:pipridae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Threskiornis spinicollis preparations:skin" ; Times: 1
+	Query: "type:specimen class:Aves locality:Ouro Verde country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "type:specimen genus:phylloscartes class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "institutioncode:AMNH" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 4
+	Query: "magnolia (Labrador Newfoundland)" ; Times: 1
+	Query: "Rao Dika institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen genus:pyrocephalus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:hypopyrra genus:laniocera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "Crypsirina cucullata" ; Times: 3
+	Query: "specificepithet:montanus family:Cuculidae" ; Times: 1
+	Query: "Pterodroma cookii orientalis" ; Times: 1
+	Query: "genus:oryzoborus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (maine) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Podiceps andinus preparations:skin" ; Times: 1
+	Query: "amnh 70652" ; Times: 1
+	Query: "type:specimen genus:oryzoborus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:radiolosus family:Cuculidae" ; Times: 1
+	Query: "Astrapia rothschildi preparations:skin" ; Times: 1
+	Query: "coracina bicinia" ; Times: 1
+	Query: "type:specimen genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lophura erythrophthalma preparations:skin" ; Times: 1
+	Query: "phryganophila institutioncode:AMNH" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "cissa tissue:1" ; Times: 1
+	Query: "type:specimen family:parulidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:dacnis class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Iole virescens" ; Times: 1
+	Query: "Urocissa whiteheadi" ; Times: 3
+	Query: "Lanius ludovicianus anthonyi year &gt;= 1897 year &lt;= 1898" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+	Query: "type:specimen genus:Phyllomyias class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:chalcurum family:Phasianidae preparations:skin" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "genus:Iodopleura class:Aves" ; Times: 1
+	Query: "type:specimen family:TROGLODYTIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:meyerii family:Cuculidae" ; Times: 1
+	Query: "Heliangelus exortis amnh" ; Times: 1
+	Query: "Ixos tissue:1" ; Times: 1
+	Query: "Drepanornis bruijnii preparations:skin" ; Times: 1
+	Query: "catalognumber:169294 institutioncode:AMNH" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "type:specimen genus:Nothoprocta class:Aves country:&#34;PARAGUAY&#34;" ; Times: 1
+	Query: "AMNH 98812" ; Times: 2
+	Query: "Sturnella magna" ; Times: 2
+	Query: "basileuterus culicivorus tissue:1" ; Times: 2
+	Query: "neafrapus institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus) year &gt;= 1968" ; Times: 1
+	Query: "catalognumber:401753 institutioncode:AMNH" ; Times: 1
+	Query: "collocalia vanuatu" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Pycnonotus cyaniventris" ; Times: 1
+	Query: "type:specimen family:Icteridae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 1
+	Query: "Synallaxis phryganophila institutioncode:AMNH" ; Times: 1
+	Query: "Arborophila mandellii family:Phasianidae preparations:skin" ; Times: 1
+	Query: "amnh 220928" ; Times: 1
+	Query: "catalognumber:163869 institutioncode:AMNH" ; Times: 1
+	Query: "amnh trogon violaceus" ; Times: 1
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "pachycephala tenebrosa" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Pterodroma cookii beck" ; Times: 1
+	Query: "Accipiter chionogaster" ; Times: 1
+	Query: "menura tissue:1" ; Times: 1
+	Query: "genus:cissopis class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Paradisaea minor preparations:skin" ; Times: 1
+	Query: "minot aves" ; Times: 1
+	Query: "specificepithet:sandwichensis family:rallidae preparations:skin" ; Times: 1
+	Query: "aegolius acadicus mexico" ; Times: 1
+	Query: "Gizo" ; Times: 1
+	Query: "class:Aves year &gt;= 1927 year &lt;= 1927 month &gt;= 11 month &lt;= 11 institutioncode:AMNH" ; Times: 1
+	Query: "Synallaxis cinamomea institutioncode:AMNH" ; Times: 1
+	Query: "anas platyrhynchos india" ; Times: 1
+	Query: "type:specimen genus:CYPSNAGRA class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 1
+	Query: "minas class:aves institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:163764 institutioncode:AMNH" ; Times: 2
+	Query: "caprimulgus atripennis" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "pomarea" ; Times: 1
+	Query: "Rhizothera dulitensis family:Phasianidae preparations:skin" ; Times: 1
+	Query: "antipodes class:aves institutioncode:AMNH" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "genus:Schiffornis class:Aves stateprovince:&#34;MINAS GERAIS&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:polychopterus genus:pachyramphus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "type:specimen genus:pitangus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "type:specimen family:TYRANNIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados)" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus)" ; Times: 1
+	Query: "catalognumber:168760 institutioncode:AMNH" ; Times: 2
+	Query: "coturnix skel" ; Times: 1
+	Query: "bRAZIL genus:Tityra class:Aves stateprovince:&#34;goias&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Nemosia class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados NOT Chapada)" ; Times: 1
+	Query: "type:specimen genus:Andigena class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (krameri)" ; Times: 1
+	Query: "bRAZIL genus:Tityra class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "wilsonia pusilla type:specimen (quebec) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen family:Troglodytidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Threskiornis moluccus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 889 download events in this period)
+Total number of records downloaded: 21977
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 9
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 6
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 5
+	Date: 2015-12-07 ; Times: 3
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 9
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 9
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-13 ; Times: 3
+	Date: 2015-12-29 ; Times: 2
+	Date: 2015-12-18 ; Times: 3
+	Date: 2015-12-19 ; Times: 7
+	Date: 2015-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "anurophasis" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "Terpsiphone (atrocaudata) tissue:1" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "vireo cassinii baja california" ; Times: 1
+	Query: "Wilsonia pusilla (Panama) month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "Selasphorus sasin type:specimen tissue:1" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (maine) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "wilsonia pusilla (oregon) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Selasphorus rufus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Selasphorus scintilla type:specimen" ; Times: 1
+	Query: "grallaricula flavirostris type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "trochocercus year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Obi institutioncode:AMNH" ; Times: 1
+	Query: "class:Aves country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "Calothorax type:specimen mappable:1" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "wilsonia pusilla (washington) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "minas class:aves institutioncode:AMNH" ; Times: 1
+	Query: "birds of Potosi bolivia" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "Pyrrhomyias cinnamomeus type:specimen" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "antipodes class:aves institutioncode:AMNH" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "agelastes niger" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "genus:Opisthocomus year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "terpsiphone year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "wilsonia pusilla (Costa Rica) month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (quebec) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Wilsonia pusilla (Panama) month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
