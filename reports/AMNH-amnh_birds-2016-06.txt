@@ -1,0 +1,1036 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1372
+Number of records retrieved in searches: 24988
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 141
+	Country: Canada ; Times: 8
+	Country: Unknown ; Times: 7
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 8
+	Country: Argentina ; Times: 5
+	Country: Venezuela ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Singapore ; Times: 11
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 35
+	Country: Chile ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Hong Kong ; Times: 9
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 41
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 817
+	Country: Sweden ; Times: 6
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Honduras ; Times: 8
+	Country: Portugal ; Times: 78
+	Country: Mexico ; Times: 119
+	Country: India ; Times: 12
+	Country: United Kingdom ; Times: 36
+	Country: Colombia ; Times: 3
+	Country: South Korea ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 52
+	Date: 2016-06-23 ; Times: 77
+	Date: 2016-06-08 ; Times: 47
+	Date: 2016-06-21 ; Times: 47
+	Date: 2016-06-20 ; Times: 55
+	Date: 2016-06-05 ; Times: 45
+	Date: 2016-06-04 ; Times: 48
+	Date: 2016-06-07 ; Times: 46
+	Date: 2016-06-06 ; Times: 30
+	Date: 2016-06-01 ; Times: 35
+	Date: 2016-06-03 ; Times: 41
+	Date: 2016-06-02 ; Times: 127
+	Date: 2016-06-09 ; Times: 74
+	Date: 2016-06-22 ; Times: 42
+	Date: 2016-06-18 ; Times: 24
+	Date: 2016-06-19 ; Times: 16
+	Date: 2016-06-16 ; Times: 78
+	Date: 2016-06-17 ; Times: 87
+	Date: 2016-06-14 ; Times: 104
+	Date: 2016-06-15 ; Times: 72
+	Date: 2016-06-12 ; Times: 20
+	Date: 2016-06-13 ; Times: 87
+	Date: 2016-06-10 ; Times: 62
+	Date: 2016-06-11 ; Times: 56
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "papua new guinae" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer tissue:1" ; Times: 2
+	Query: "whitemanensis" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "Phaethornis superciliosus institutioncode:AMNH" ; Times: 1
+	Query: "trogon rufus brazil" ; Times: 2
+	Query: "locality:Montepio stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Amazilia leucogaster institutioncode:AMNH" ; Times: 1
+	Query: "selasphorus ardens institutioncode:AMNH" ; Times: 2
+	Query: "Eutoxeres aquila institutioncode:AMNH" ; Times: 1
+	Query: "genus:Terpsiphone tissue:1" ; Times: 7
+	Query: "type:specimen specificepithet:flaviventris genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 10
+	Query: "specificepithet:fulvigula genus:Timeliopsis tissue:1" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "Psephotus pulcherrimus" ; Times: 4
+	Query: "Cyanocorax yncas tissue:1" ; Times: 1
+	Query: "322089" ; Times: 1
+	Query: "Dendroica magnolia institutioncode:AMNH" ; Times: 1
+	Query: "Eupherusa eximia institutioncode:AMNH" ; Times: 1
+	Query: "13164" ; Times: 1
+	Query: "583074" ; Times: 7
+	Query: "14352" ; Times: 2
+	Query: "tissue:1" ; Times: 20
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "type:specimen catalognumber:278402 institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:rothschildi genus:Buthraupis sex:male" ; Times: 1
+	Query: "clytomyias insignis oorti" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "Chlorostilbon alice institutioncode:AMNH" ; Times: 1
+	Query: "annamensis" ; Times: 1
+	Query: "Amazilia viridifrons institutioncode:AMNH" ; Times: 1
+	Query: "podiceps occipitalis" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "chaetura andrei" ; Times: 4
+	Query: "AMNH 3827" ; Times: 1
+	Query: "Icterus icterus AND (galbula) tissue:1" ; Times: 2
+	Query: "120059" ; Times: 1
+	Query: "565477" ; Times: 2
+	Query: "565478" ; Times: 2
+	Query: "Blanford Sind" ; Times: 1
+	Query: "Dendroica magnolia new york tissue:1" ; Times: 1
+	Query: "montifringilla henrici" ; Times: 2
+	Query: "Hylocharis chrysura institutioncode:AMNH" ; Times: 1
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "genus:Melophus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:psittacula genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Calyptorhynchus latirostris tissue:1" ; Times: 1
+	Query: "rhipidura nigromentalis" ; Times: 1
+	Query: "Lunda cirrhata British Columbia" ; Times: 1
+	Query: "Rhinoplax tissue:1" ; Times: 2
+	Query: "feathers" ; Times: 1
+	Query: "248878" ; Times: 2
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "Athene cunicularia Costa Rica" ; Times: 1
+	Query: "324341 AMNH" ; Times: 2
+	Query: "Ramphomicron dorsale institutioncode:AMNH" ; Times: 1
+	Query: "Ptyonoprogne obsoleta" ; Times: 3
+	Query: "querula purpurata" ; Times: 24
+	Query: "162089" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "gracilirostris winterbottomi" ; Times: 2
+	Query: "11139" ; Times: 7
+	Query: "Coeligena coeligena institutioncode:AMNH" ; Times: 2
+	Query: "Phaethornis squalidus institutioncode:AMNH" ; Times: 1
+	Query: "573649" ; Times: 2
+	Query: "239364" ; Times: 1
+	Query: "francolinus ahantensis" ; Times: 2
+	Query: "cracidae mitu mitu" ; Times: 2
+	Query: "Heliodoxa gularis institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "type:specimen specificepithet:xanthogramma genus:Melanodera sex:male" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; institutioncode:AMNH" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "montifringilla nivalis" ; Times: 1
+	Query: "Dendrocitta vagabunda India" ; Times: 1
+	Query: "type:specimen specificepithet:castaneoventris genus:Dubusia sex:male" ; Times: 1
+	Query: "oreomystis" ; Times: 1
+	Query: "oreophasis derbianus" ; Times: 1
+	Query: "empidonax flaviventris new york tissue:1" ; Times: 2
+	Query: "genus:phylloscartes class:Aves stateprovince:&#34;Mato&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phaethornis bourcieri institutioncode:AMNH" ; Times: 1
+	Query: "Dendroica magnolia" ; Times: 1
+	Query: "Aratinga nenday 1" ; Times: 6
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "telespiza type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "tangara labradorides" ; Times: 1
+	Query: "208320" ; Times: 1
+	Query: "type:specimen (ciridops)" ; Times: 2
+	Query: "Asio clamator" ; Times: 2
+	Query: "AMNH 111499" ; Times: 1
+	Query: "doherty africa escarpment" ; Times: 2
+	Query: "328006" ; Times: 1
+	Query: "Phlogophilus hemileucurus institutioncode:AMNH" ; Times: 1
+	Query: "Eriocnemis mirabilis institutioncode:AMNH" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "Tinamus solitarius type:specimen class:Aves institutioncode:AMNH" ; Times: 3
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Isla Natividad Mexico" ; Times: 1
+	Query: "Leucippus baeri institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:133753 institutioncode:AMNH" ; Times: 2
+	Query: "Thalurania watertonii institutioncode:AMNH" ; Times: 2
+	Query: "ortalis ruficauda ruficauda" ; Times: 2
+	Query: "Amazilia lactea institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:Sporophila sex:male (murallae)" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "genus:Lampornis class:Aves year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:melanochlamys genus:Buthraupis sex:male" ; Times: 1
+	Query: "drepanis" ; Times: 3
+	Query: "type:specimen genus:tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1930" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 2
+	Query: "Santa Cruz Island AND Birds AND 1935" ; Times: 1
+	Query: "AMNH ALP 145" ; Times: 1
+	Query: "phacellodomus tissue:1" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 3
+	Query: "sartorii class:aves" ; Times: 1
+	Query: "Penang Hill" ; Times: 1
+	Query: "hedydipna platura type:specimen" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "Taphrospilus hypostictus institutioncode:AMNH" ; Times: 1
+	Query: "haliaeetus vocifer skeleton" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "pterodroma sandwichensis skeleton" ; Times: 1
+	Query: "Pericrocotus roseus" ; Times: 1
+	Query: "catalognumber:822153 institutioncode:AMNH" ; Times: 2
+	Query: "380764" ; Times: 2
+	Query: "type:specimen specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Gallirallus rovianae tissue:1" ; Times: 1
+	Query: "109852 amnh" ; Times: 1
+	Query: "Elanus AND Island" ; Times: 1
+	Query: "dendroica dominica Chihuahua" ; Times: 1
+	Query: "Atthis ellioti institutioncode:AMNH" ; Times: 1
+	Query: "Otus kennicotti" ; Times: 3
+	Query: "Pachyramphus albogriseus" ; Times: 3
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "grallaricula flavirostris" ; Times: 1
+	Query: "Nesoclopeus woodfordi tissue:1" ; Times: 1
+	Query: "type:specimen (Colibri thalassinus) year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "ninox jacquinoti" ; Times: 1
+	Query: "calandrella acutirostris" ; Times: 2
+	Query: "99609" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "type:specimen catalognumber:368768" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "587642" ; Times: 1
+	Query: "Dendroica magnolia institutioncode:AMNH tissue:1" ; Times: 2
+	Query: "Colibri thalassinus institutioncode:AMNH" ; Times: 1
+	Query: "trogon violaceus amazonas" ; Times: 1
+	Query: "Tangara fastuosa" ; Times: 2
+	Query: "Campylopterus curvipennis institutioncode:AMNH" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "Eos histrio AND skeleton" ; Times: 1
+	Query: "Toxostoma ocellatum" ; Times: 1
+	Query: "Pachycephala cinerea winchelli" ; Times: 1
+	Query: "micromonacha lanceolata" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 3
+	Query: "Phalacrocorax melanoleucos tissue:1" ; Times: 1
+	Query: "281873" ; Times: 1
+	Query: "claravis godefrida" ; Times: 1
+	Query: "DOT 6149" ; Times: 1
+	Query: "281874" ; Times: 1
+	Query: "328423" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "aythya baeri" ; Times: 1
+	Query: "catalognumber:9365 institutioncode:AMNH" ; Times: 3
+	Query: "catalognumber:156617 institutioncode:AMNH" ; Times: 2
+	Query: "67447" ; Times: 1
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "Aratinga acuticaudata 1" ; Times: 4
+	Query: "103398" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "type:specimen specificepithet:anthophilus genus:phaethornis country:&#34;colombia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Penelope purpurascens purpurascens" ; Times: 1
+	Query: "Mimus thenca" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1889" ; Times: 1
+	Query: "type:specimen specificepithet:maculatum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "nympha" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "francolinus bicalcaratus" ; Times: 2
+	Query: "Amazilia castaneiventris institutioncode:AMNH" ; Times: 1
+	Query: "Aphantochroa cirrochloris institutioncode:AMNH" ; Times: 1
+	Query: "2083" ; Times: 1
+	Query: "micromonacha lanceolata costa rica" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "Icterus icterus tissue:1" ; Times: 2
+	Query: "Ixonotus tissue:1" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 2
+	Query: "dendroica magnolia" ; Times: 5
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 3
+	Query: "selasphorus ardens" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:AMNH" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "francolinus leucoscepus" ; Times: 1
+	Query: "philentoma institutioncode:AMNH" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "uroglaux" ; Times: 1
+	Query: "buteo rufinus" ; Times: 2
+	Query: "Picus erythropygius Thailand" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "Coturnicops noveboracensis new york" ; Times: 1
+	Query: "1831" ; Times: 1
+	Query: "clappertoni" ; Times: 2
+	Query: "Talpa institutioncode:AMNH" ; Times: 2
+	Query: "Polysticta tissue:1" ; Times: 1
+	Query: "catalognumber:327962" ; Times: 1
+	Query: "129246" ; Times: 1
+	Query: "Molothrus ater stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "type:specimen genus:Nesospiza sex:male" ; Times: 2
+	Query: "specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "locality:Rock Creek county:&#34;Mono&#34;" ; Times: 1
+	Query: "apus batesi" ; Times: 2
+	Query: "type:specimen genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phylloscopus sindianus" ; Times: 1
+	Query: "Abeillia abeillei institutioncode:AMNH" ; Times: 1
+	Query: "order:strigiformes type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1900" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1901" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1902" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1903" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1904" ; Times: 1
+	Query: "Melamprosops type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "aves (Dominican Republic) tissue:1" ; Times: 4
+	Query: "thamnophilus injunctus" ; Times: 1
+	Query: "263856" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "444127" ; Times: 1
+	Query: "Picus chlorolophus Thailand" ; Times: 1
+	Query: "eriocnemis mirabilis institutioncode:AMNH" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 4
+	Query: "Amazona aestiva 1" ; Times: 3
+	Query: "Euplectes afer 1" ; Times: 3
+	Query: "Strix occidentalis lucida" ; Times: 2
+	Query: "type:specimen catalognumber:278399 institutioncode:AMNH" ; Times: 1
+	Query: "805410 AMNH" ; Times: 2
+	Query: "type:specimen catalognumber:278299 institutioncode:AMNH" ; Times: 1
+	Query: "skel specificepithet:marinus genus:larus" ; Times: 2
+	Query: "AMNH 3928" ; Times: 1
+	Query: "country:&#34;Colombia&#34; catalognumber:115813 institutioncode:AMNH" ; Times: 1
+	Query: "trogon curucui brazil" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "type:specimen specificepithet:baeri sex:male (Poospiza OR Compsocoma OR Compsospiza)" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "phacellodomus rufifrons tissue:1" ; Times: 5
+	Query: "ortalis vetula pallidiventris" ; Times: 1
+	Query: "type:specimen catalognumber:392184" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen specificepithet:whitii genus:Poospiza sex:male" ; Times: 1
+	Query: "bias institutioncode:AMNH" ; Times: 1
+	Query: "145108" ; Times: 1
+	Query: "Foudia omissa" ; Times: 1
+	Query: "conopophaga chocoensis" ; Times: 1
+	Query: "Spilornis andaman" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "montifringilla adamsi" ; Times: 2
+	Query: "Cereopsis tissue:1" ; Times: 1
+	Query: "Threnetes leucurus institutioncode:AMNH" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1922" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "Piranga ludoviciana AND Island" ; Times: 1
+	Query: "amytornis ballarae" ; Times: 1
+	Query: "555693" ; Times: 1
+	Query: "AMNH 54757" ; Times: 2
+	Query: "pauxi unicornis unicornis" ; Times: 2
+	Query: "Phaethornis striigularis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 54758" ; Times: 3
+	Query: "Lanius ludovicianus AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Psaltriparus minimus AND Santa Catalina" ; Times: 1
+	Query: "Mimus longicaudatus" ; Times: 1
+	Query: "type:specimen specificepithet:parvulus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Aratinga mitrata 1" ; Times: 3
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "Breninger AND 29 June 1896" ; Times: 1
+	Query: "141630" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "AMNH 54822" ; Times: 1
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "Melanitta AND San Miguel" ; Times: 2
+	Query: "empidonax traillii extimus" ; Times: 1
+	Query: "zuliae" ; Times: 1
+	Query: "myzomela eques" ; Times: 4
+	Query: "Eriocnemis godini institutioncode:AMNH" ; Times: 2
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "Tephrozosterops stalkeri" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "Amazilia viridicauda institutioncode:AMNH" ; Times: 1
+	Query: "Todiramphus chloris tissue:1" ; Times: 1
+	Query: "Pachycephala cinerea" ; Times: 1
+	Query: "Thraupidae type:specimen" ; Times: 1
+	Query: "208317" ; Times: 1
+	Query: "Phaethornis hispidus institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "type:specimen specificepithet:mesoleuca sex:male" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 3
+	Query: "208318" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "gymnoglaux" ; Times: 1
+	Query: "Carpodacus waltoni" ; Times: 1
+	Query: "francolinus hildebrandti" ; Times: 1
+	Query: "gbifdatasetid:96c93a1e-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "type:specimen specificepithet:edwardsi genus:Buthraupis sex:male" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "Sceloglaux albifacies" ; Times: 2
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "harpagus bidentatus" ; Times: 1
+	Query: "type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "catalognumber:236324" ; Times: 1
+	Query: "catalognumber:236323" ; Times: 1
+	Query: "type:specimen specificepithet:atropileus genus:Hemispingus sex:male (auricularis)" ; Times: 1
+	Query: "Passerina caerulea AND Island" ; Times: 1
+	Query: "Megascops kennicotti" ; Times: 2
+	Query: "Opisthoprora euryptera institutioncode:AMNH" ; Times: 1
+	Query: "172508" ; Times: 1
+	Query: "francolinus gularis" ; Times: 3
+	Query: "Aves tissue:1" ; Times: 1
+	Query: "type:specimen catalognumber:278332 institutioncode:AMNH" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "carolinus" ; Times: 1
+	Query: "Estrilda troglodytes 1" ; Times: 3
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "cypseloides lemosi class:aves" ; Times: 1
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "type:specimen genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "35018" ; Times: 2
+	Query: "type:specimen specificepithet:gloriosa genus:Diglossa sex:male" ; Times: 1
+	Query: "buteo rufinus cirtensis" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "francolinus jacksoni" ; Times: 2
+	Query: "Tangara palmarum" ; Times: 1
+	Query: "type:specimen specificepithet:bairdi genus:Acanthidops sex:male" ; Times: 1
+	Query: "225762" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "566492" ; Times: 1
+	Query: "Spilornis minimus" ; Times: 1
+	Query: "Gallirallus philippensis tissue:1" ; Times: 1
+	Query: "Phyllopezus" ; Times: 4
+	Query: "francolinus RUFOPICTUS" ; Times: 1
+	Query: "167471" ; Times: 1
+	Query: "337782" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Lepidopyga goudoti institutioncode:AMNH" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 1
+	Query: "Aglaeactis aliciae institutioncode:AMNH" ; Times: 1
+	Query: "Amazilia saucerottei institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "aegolius harrisii" ; Times: 2
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "attila phoenicurus" ; Times: 1
+	Query: "Amazilia luciae institutioncode:AMNH" ; Times: 2
+	Query: "amazilia rutila tissue:1" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "spixii" ; Times: 3
+	Query: "specificepithet:familiaris genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "monasa morphoeus year &gt;= 1980 tissue:1" ; Times: 1
+	Query: "ninox jacquinoti tissue:1" ; Times: 1
+	Query: "ketupa ketupu institutioncode:AMNH" ; Times: 1
+	Query: "aerodramus orientalis" ; Times: 3
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:fuscipennis genus:Philydor" ; Times: 3
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "112237" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "hedydipna metallica type:specimen" ; Times: 2
+	Query: "150223" ; Times: 1
+	Query: "phytotoma raimondii" ; Times: 3
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "Mimus triurus" ; Times: 1
+	Query: "16754" ; Times: 2
+	Query: "pterodroma sandwichensis (skel OR skeleton )" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "Orthotomus sutorius Vietnam" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 2
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Gujarat" ; Times: 3
+	Query: "Rhodonessa" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "pharomachrus moccino" ; Times: 2
+	Query: "type:specimen catalognumber:278258 institutioncode:AMNH" ; Times: 1
+	Query: "malurus campbelli" ; Times: 1
+	Query: "neomorphus" ; Times: 2
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "aegolius ridgwayi" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "Campylopterus hyperythrus institutioncode:AMNH" ; Times: 1
+	Query: "127778" ; Times: 1
+	Query: "Amazilia fimbriata institutioncode:AMNH" ; Times: 1
+	Query: "DOT 6150" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "Rhodinocichla" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 46
+	Query: "country:&#34;Mexico&#34; catalognumber:27097" ; Times: 1
+	Query: "AMNH 54760" ; Times: 1
+	Query: "AMNH 54761" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 1
+	Query: "bison bison   " ; Times: 3
+	Query: "Foudia AND skeleton" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 6
+	Query: "stipiturus mallee" ; Times: 2
+	Query: "genus:Henicorhina class:Aves country:&#34;Mexico&#34; year &gt;= 2005 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "sitta canadensis mexico" ; Times: 2
+	Query: "Nothura minor" ; Times: 1
+	Query: "brachypteraciidae institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "francolinus squamatus" ; Times: 3
+	Query: "francolinus type:specimen tissue:1" ; Times: 1
+	Query: "goura" ; Times: 1
+	Query: "leucippus baeri institutioncode:AMNH" ; Times: 1
+	Query: "pseudobias institutioncode:AMNH" ; Times: 1
+	Query: "oreornis" ; Times: 1
+	Query: "NR 7523" ; Times: 1
+	Query: "Androdon aequatorialis institutioncode:AMNH" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "Urochroa bougueri institutioncode:AMNH" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Phacellodomus rufifrons tissue:1" ; Times: 2
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "type:specimen catalognumber:278321 institutioncode:AMNH" ; Times: 1
+	Query: "Philesturnus tissue:1" ; Times: 1
+	Query: "amnh 34193" ; Times: 2
+	Query: "Phaethornis malaris institutioncode:AMNH" ; Times: 1
+	Query: "Ortalis type:specimen tissue:1" ; Times: 1
+	Query: "francolinus schlegelii" ; Times: 1
+	Query: "Laniisoma tissue:1" ; Times: 3
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "Philentoma institutioncode:AMNH" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "141802" ; Times: 1
+	Query: "Selasphorus type:specimen country:&#34;panama&#34; (cerro flores) institutioncode:AMNH" ; Times: 4
+	Query: "celeus obrieni" ; Times: 2
+	Query: "type:specimen specificepithet:FUMIFRONS genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "Sitta type:specimen (montium) institutioncode:AMNH" ; Times: 1
+	Query: "comoros aves" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "country:&#34;Colombia&#34; catalognumber:115812 institutioncode:AMNH" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "strix occidentalis lucida" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1914" ; Times: 1
+	Query: "galloperdix spadicea" ; Times: 2
+	Query: "Mimus graysoni" ; Times: 1
+	Query: "eleothreptus" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "dendroica magnolia type:specimen year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "Sceloglaux" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 6
+	Query: "Phaethornis philippii institutioncode:AMNH" ; Times: 1
+	Query: "211571" ; Times: 1
+	Query: "Carpodacus davidianus" ; Times: 2
+	Query: "Selasphorus ardens type:specimen" ; Times: 3
+	Query: "Campylopterus largipennis institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1893 year &lt;= 1893" ; Times: 2
+	Query: "crax globulosa" ; Times: 1
+	Query: "specificepithet:syrmatophorus genus:phaethornis country:&#34;Colombia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "Amazilia wagneri institutioncode:AMNH" ; Times: 2
+	Query: "152658" ; Times: 1
+	Query: "type:specimen (Culicivora caudacuta)" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "Cistothorus palustris Jalisco" ; Times: 1
+	Query: "Chloroceryle aenea brazil" ; Times: 1
+	Query: "Meadows AND Island NOT British" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "Poicephalus Kenya" ; Times: 7
+	Query: "Eos bornea AND skeleton" ; Times: 1
+	Query: "Aglaeactis cupripennis institutioncode:AMNH" ; Times: 1
+	Query: "Dendroica dominica Chihuahua" ; Times: 3
+	Query: "Nyctibius jamaicensis" ; Times: 3
+	Query: "type:specimen specificepithet:syrmatophorus genus:phaethornis country:&#34;colombia&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Lanius ludovicianus AND Santa BArbara Island" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "Colibri delphinae institutioncode:AMNH" ; Times: 1
+	Query: "amytornis dorotheae" ; Times: 1
+	Query: "cairina tissue:1" ; Times: 1
+	Query: "137030" ; Times: 1
+	Query: "catalognumber:184713" ; Times: 1
+	Query: "monasa morpheus" ; Times: 1
+	Query: "strix aluco tissue:1" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1903" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+	Query: "parus songarus" ; Times: 1
+	Query: "Calyptorhynchus funereus tissue:1" ; Times: 1
+	Query: "platyspiza type:specimen" ; Times: 3
+	Query: "aphelocoma wollweberi" ; Times: 1
+	Query: "DOT 3682" ; Times: 1
+	Query: "327962" ; Times: 1
+	Query: "oreornis chrysogenys" ; Times: 1
+	Query: "francolinus erckelii" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Opisthoprora euryptera" ; Times: 1
+	Query: "Francolinus pondicerianus" ; Times: 2
+	Query: "phoeniconaias minor AMNH" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "francolinus capensis" ; Times: 1
+	Query: "monasa morpheus year &gt;= 1980" ; Times: 1
+	Query: "Dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "224153" ; Times: 1
+	Query: "Oxyura AND Santa Cruz" ; Times: 1
+	Query: "Leucochloris albicollis institutioncode:AMNH" ; Times: 1
+	Query: "genus:Iguana institutioncode:AMNH" ; Times: 2
+	Query: "genus:tiaris class:Aves stateprovince:&#34;Mato&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phaethornis mexicanus institutioncode:AMNH" ; Times: 1
+	Query: "eriocnemis godini institutioncode:AMNH" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "Circus maillardi" ; Times: 1
+	Query: "threskiornis moluccus amnh" ; Times: 1
+	Query: "catalognumber:161331" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "Adelomyia melanogenys institutioncode:AMNH" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "uroglaux dimorpha" ; Times: 1
+	Query: "134397" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "myzomela erythromelas" ; Times: 2
+	Query: "565129" ; Times: 2
+	Query: "ramphastos tucanus" ; Times: 1
+	Query: "565124" ; Times: 2
+	Query: "AMNH R-12345" ; Times: 1
+	Query: "495001 AMNH" ; Times: 2
+	Query: "Carpodacus eos" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; institutioncode:AMNH" ; Times: 1
+	Query: "francolinus afer" ; Times: 1
+	Query: "collectioncode:birds institutioncode:AMNH" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "435012 amnh" ; Times: 2
+	Query: "559582" ; Times: 1
+	Query: "559583" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "poicephalus senegalensis AMNH" ; Times: 1
+	Query: "&#34;1897-08-04&#34; AND Island" ; Times: 1
+	Query: "francolinus nobilis" ; Times: 3
+	Query: "aimophila ruficeps obscura" ; Times: 1
+	Query: "204047" ; Times: 1
+	Query: "211792" ; Times: 1
+	Query: "acanthiza katherina" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Urocynchramus pylzowi" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "xanthomixis institutioncode:AMNH" ; Times: 1
+	Query: "164118" ; Times: 1
+	Query: "a.w. anthony" ; Times: 1
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "AMNH 39095" ; Times: 3
+	Query: "Lanius ludovicianus AND &#34;Santa Barbara Island&#34;" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "aerodramus ocistus" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "monasa morphoeus year &gt;= 1999" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "cranioleuca zaratensis" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "R 175527" ; Times: 1
+	Query: "Florisuga fuscus" ; Times: 11
+	Query: "pterodroma sandwichensis" ; Times: 3
+	Query: "pinula" ; Times: 1
+	Query: "Boissonneaua matthewsii institutioncode:AMNH" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1905" ; Times: 1
+	Query: "Dendroica magnolia tissue:1" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "94314" ; Times: 1
+	Query: "toxostoma lecontei arenicola" ; Times: 3
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "Tachyeres tissue:1" ; Times: 7
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 4
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "type:specimen specificepithet:longicauda genus:Embernagra sex:male" ; Times: 1
+	Query: "Childs AND Island" ; Times: 1
+	Query: "Agapornis personatus 1" ; Times: 3
+	Query: "Phaethornis eurynome institutioncode:AMNH" ; Times: 1
+	Query: "Ploceus melanocephalus 1" ; Times: 2
+	Query: "Goethalsia bella institutioncode:AMNH" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "Basileuterus tissue:1" ; Times: 1
+	Query: "Glaucidium brodiei institutioncode:AMNH" ; Times: 1
+	Query: "institutioncode:AMNH catalognumber:1727" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "AMNH 209344" ; Times: 2
+	Query: "157870" ; Times: 1
+	Query: "Marmaronetta tissue:1" ; Times: 1
+	Query: "Amazilia viridigaster institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 38985" ; Times: 2
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "francolinus hartlaubi" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "vultur gryphus" ; Times: 5
+	Query: "Icterus continent:South America tissue:1" ; Times: 1
+	Query: "radjah tissue:1" ; Times: 1
+	Query: "turdus" ; Times: 1
+	Query: "threskiornis molucca amnh" ; Times: 2
+	Query: "(margarobyas OR gymnoglaux)" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "Rhinomyias brunneata" ; Times: 7
+	Query: "gymnoglaux type:specimen" ; Times: 1
+	Query: "tadorna tissue:1" ; Times: 1
+	Query: "324387" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "Carpodacus pulcherrimus" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophrys genus:Poospiza sex:male" ; Times: 1
+	Query: "catalognumber:178445" ; Times: 1
+	Query: "Amazilia chionogaster institutioncode:AMNH" ; Times: 1
+	Query: "Amandava subflava 1" ; Times: 3
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eulampis holosericeus institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:178448" ; Times: 1
+	Query: "catalognumber:178449" ; Times: 1
+	Query: "type:specimen genus:Carpospiza" ; Times: 1
+	Query: "mergellus tissue:1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "myzomela blasii" ; Times: 1
+	Query: "genus:Carpospiza" ; Times: 1
+	Query: "dendroica magnolia tissue:1" ; Times: 2
+	Query: "coscoroba tissue:1" ; Times: 1
+	Query: "Selasphorus scintilla type:specimen country:&#34;panama&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Branta AND California AND Island" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "doherty africa" ; Times: 1
+	Query: "Calyptorhynchus baudinii tissue:1" ; Times: 1
+	Query: "Santa Rosa Island AND Birds AND 1923" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "Amazilia violiceps institutioncode:AMNH" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 2
+	Query: "francolinus castaneicollis" ; Times: 3
+	Query: "Drepanis" ; Times: 1
+	Query: "Rhodopis vesper institutioncode:AMNH" ; Times: 1
+	Query: "Geothlypis poliocephala tissue:1" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "R.161282" ; Times: 1
+	Query: "catalognumber:830555 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:calandra genus:Emberiza tissue:1" ; Times: 2
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "Eutoxeres condamini institutioncode:AMNH" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "type:specimen catalognumber:278331 institutioncode:AMNH" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "murio" ; Times: 1
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "Thalurania watertoni institutioncode:AMNH" ; Times: 1
+	Query: "type:specimen specificepithet:gilvicollis genus:Micrastur class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phaethornis subochraceus institutioncode:AMNH" ; Times: 2
+	Query: "Phaethornis pretrei institutioncode:AMNH" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "anas formosa tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:leucura genus:Lagopus continent:North America" ; Times: 1
+	Query: "Amazilia amazilia institutioncode:AMNH" ; Times: 3
+	Query: "catalognumber:800000 institutioncode:AMNH" ; Times: 2
+	Query: "type:specimen (drepanis)" ; Times: 6
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "institutioncode:AMNH" ; Times: 1
+	Query: "guinea fowl" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "monasa morphoeus tissue:1" ; Times: 1
+	Query: "709738" ; Times: 1
+	Query: "Phaeochroa cuvierii institutioncode:AMNH" ; Times: 1
+	Query: "Crax globulosa tissue:1" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1926" ; Times: 1
+	Query: "apus alexandri" ; Times: 1
+	Query: "francolinus icterorhynchus" ; Times: 1
+	Query: "type:specimen specificepithet:garleppi sex:male (Poospiza OR Compsocoma OR Compsospiza)" ; Times: 1
+	Query: "Allenia fusca" ; Times: 1
+	Query: "continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "251568" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "Sitta canadensis" ; Times: 2
+	Query: "104912" ; Times: 1
+	Query: "Glaucidium tephronotum institutioncode:AMNH" ; Times: 1
+	Query: "dendroica magnolia type:specimen country:&#34;canada&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Phoenicopterus year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "type:specimen specificepithet:poliocephalum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Rhinomyias brunneatus" ; Times: 1
+	Query: "certhidea type:specimen" ; Times: 2
+	Query: "131078" ; Times: 1
+	Query: "Mergellus tissue:1" ; Times: 1
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "claravis geoffroyi" ; Times: 1
+	Query: "Amazilia edward institutioncode:AMNH" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "Coeligena prunellei institutioncode:AMNH" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "73277" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "Phaethornis aethopyga institutioncode:AMNH" ; Times: 2
+	Query: "Icterus auratus" ; Times: 2
+	Query: "M-1831" ; Times: 1
+	Query: "psittacus erithacus AMNH" ; Times: 1
+	Query: "myzomela cardinalis" ; Times: 1
+	Query: "phalacrocorax urile amnh" ; Times: 1
+	Query: "dendroica magnolia month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "catalognumber:198383" ; Times: 1
+	Query: "japonica 1794" ; Times: 1
+	Query: "AMNH 324387" ; Times: 2
+	Query: "specificepithet:syrmatophorus genus:phaethornis institutioncode:AMNH" ; Times: 1
+	Query: "Dendroica magnolia stateprovince:&#34;New York&#34; month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "micromonacha lanceolata colombia" ; Times: 1
+	Query: "type:specimen specificepithet:castaneoventris genus:Delothraupis sex:male" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "type:specimen specificepithet:acunhae genus:Nesospiza sex:male" ; Times: 1
+	Query: "genus:Teretistris" ; Times: 3
+	Query: "Eriocnemis mosquera institutioncode:AMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34; year &gt;= 2005 year &lt;= 2016 tissue:1" ; Times: 2
+	Query: "poicephalus AMNH" ; Times: 2
+	Query: "ailuroedus guttaticollis" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 81
+	Query: "prionops institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "strix aluco" ; Times: 4
+	Query: "AMNH 73387" ; Times: 2
+	Query: "type:specimen specificepithet:gularis genus:Paroaria sex:male" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "Sitta type:specimen ( nagaensis) institutioncode:AMNH" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "genus:tiaris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "threskiornis strictipennis amnh" ; Times: 1
+	Query: "Chaetocercus astreans institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:virgata stateprovince:&#34;alaska&#34; year &lt;= 1926 month &lt;= 1926" ; Times: 1
+	Query: "Numenius arquata tissue:1" ; Times: 1
+	Query: "Amazilia versicolor institutioncode:AMNH" ; Times: 1
+	Query: "Doryfera ludovicae institutioncode:AMNH" ; Times: 1
+	Query: "150922" ; Times: 1
+	Query: "Heliangelus regalis institutioncode:AMNH" ; Times: 1
+	Query: "169051" ; Times: 1
+	Query: "clytomyias insignis" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "sericocaudatus" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1899" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1897" ; Times: 1
+	Query: "Philentoma institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Francolinus nahani" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1892" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "basileuterus culicivorus" ; Times: 3
+	Query: "buphagus" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "Spilornis davisoni" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "selasphorus sasin year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "34780" ; Times: 2
+	Query: "type:specimen specificepithet:olivascens genus:Sicalis sex:male (mendozae)" ; Times: 1
+	Query: "Meadows AND Island NOT ALaska" ; Times: 1
+	Query: "type:specimen genus:Calochaetes sex:male" ; Times: 1
+	Query: "Circus cyaneus AND Island" ; Times: 1
+	Query: "type:specimen genus:Orchesticus sex:male" ; Times: 1
+	Query: "genus:Acanthiza tissue:1" ; Times: 1
+	Query: "ara macao" ; Times: 2
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "Pachycephala cinerea plateni" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "monasa morphoeus year &gt;= 1980" ; Times: 1
+	Query: "Meadows AND Island NOT British NOT Singapore" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "anthus peruvianus" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "128775" ; Times: 1
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "Nettapus tissue:1" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Leucippus taczanowskii institutioncode:AMNH" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1052 download events in this period)
+Total number of records downloaded: 26073
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 47
+	Country: Denmark ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 30
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 16
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-08 ; Times: 9
+	Date: 2016-06-21 ; Times: 8
+	Date: 2016-06-20 ; Times: 7
+	Date: 2016-06-05 ; Times: 8
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-14 ; Times: 9
+	Date: 2016-06-06 ; Times: 3
+	Date: 2016-06-01 ; Times: 9
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-10 ; Times: 10
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "philentoma institutioncode:AMNH" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "iguania" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Nothura minor" ; Times: 1
+	Query: "brachypteraciidae institutioncode:AMNH" ; Times: 1
+	Query: "goura" ; Times: 2
+	Query: "xanthomixis institutioncode:AMNH" ; Times: 1
+	Query: "Thraupis melanoptera" ; Times: 1
+	Query: "gymnoglaux type:specimen" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Platysteiridae tissue:1" ; Times: 1
+	Query: "order:strigiformes type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "Carpodacus pulcherrimus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "Philentoma institutioncode:AMNH" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "comoros aves" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "bias institutioncode:AMNH" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "aegolius harrisii" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "Carpodacus davidianus" ; Times: 1
+	Query: "catalognumber:9365 institutioncode:AMNH" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "type:specimen (Culicivora caudacuta)" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Dendroica magnolia institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Tangara fastuosa" ; Times: 1
+	Query: "birds norte de santander" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Philentoma tissue:1" ; Times: 1
+	Query: "Carpodacus waltoni" ; Times: 1
+	Query: "genus:Iguana institutioncode:AMNH" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Tangara palmarum" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Carpodacus eos" ; Times: 1
+	Query: "catalognumber:822153 institutioncode:AMNH" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "prionops institutioncode:AMNH" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "aegolius ridgwayi" ; Times: 2
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "specificepithet:fuscipennis genus:Philydor" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "Hemipus tissue:1" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "ara macao" ; Times: 4
+	Query: "pharomachrus moccino" ; Times: 2
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "E. cayennensis" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+
+End of report.
