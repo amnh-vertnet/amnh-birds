@@ -1,0 +1,2541 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4743
+Number of records retrieved in searches: 151946
+Number of different countries where searches have been originated: 33
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 95
+	Country: Canada ; Times: 54
+	Country: Qatar ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Peru ; Times: 5
+	Country: Unknown ; Times: 110
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 77
+	Country: Ireland ; Times: 26
+	Country: Argentina ; Times: 28
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Singapore ; Times: 5
+	Country: Germany ; Times: 101
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Denmark ; Times: 7
+	Country: Cuba ; Times: 8
+	Country: United States ; Times: 1411
+	Country: Sweden ; Times: 40
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: India ; Times: 287
+	Country: United Kingdom ; Times: 2426
+	Country: Colombia ; Times: 1
+	Country: Paraguay ; Times: 14
+	Country: Japan ; Times: 3
+	Country: Eswatini ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 833
+	Date: 2020-04-04 ; Times: 68
+	Date: 2020-04-23 ; Times: 177
+	Date: 2020-04-06 ; Times: 137
+	Date: 2020-04-22 ; Times: 37
+	Date: 2020-04-05 ; Times: 27
+	Date: 2020-04-20 ; Times: 93
+	Date: 2020-04-07 ; Times: 911
+	Date: 2020-04-26 ; Times: 26
+	Date: 2020-04-01 ; Times: 81
+	Date: 2020-04-24 ; Times: 32
+	Date: 2020-04-25 ; Times: 40
+	Date: 2020-04-28 ; Times: 202
+	Date: 2020-04-29 ; Times: 72
+	Date: 2020-04-08 ; Times: 232
+	Date: 2020-04-09 ; Times: 104
+	Date: 2020-04-27 ; Times: 61
+	Date: 2020-04-02 ; Times: 53
+	Date: 2020-04-03 ; Times: 412
+	Date: 2020-04-19 ; Times: 104
+	Date: 2020-04-18 ; Times: 163
+	Date: 2020-04-13 ; Times: 215
+	Date: 2020-04-12 ; Times: 36
+	Date: 2020-04-11 ; Times: 78
+	Date: 2020-04-10 ; Times: 55
+	Date: 2020-04-17 ; Times: 187
+	Date: 2020-04-16 ; Times: 71
+	Date: 2020-04-15 ; Times: 33
+	Date: 2020-04-14 ; Times: 140
+	Date: 2020-04-30 ; Times: 63
+
+List of queries that retrieved data from the resource: 
+	Query: "Actitis hypoleucos" ; Times: 6
+	Query: "vntype:specimen specificepithet:curvirostra genus:Loxia institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 600948" ; Times: 1
+	Query: "Zenaida macroura" ; Times: 3
+	Query: "Turdus chrysolaus" ; Times: 9
+	Query: "AMNH 424535" ; Times: 2
+	Query: "AMNH 424534" ; Times: 2
+	Query: "AMNH 424537" ; Times: 3
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "leucogenys Gilgit" ; Times: 2
+	Query: "Aethopyga ignicauda India" ; Times: 2
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34; AND (NOT Luzon NOT Negros NOT Panay)" ; Times: 2
+	Query: "AMNH 552592" ; Times: 1
+	Query: "AMNH 432200" ; Times: 1
+	Query: "AMNH 803400" ; Times: 1
+	Query: "Passer domesticus" ; Times: 8
+	Query: "Gymnogyps californianus" ; Times: 3
+	Query: "AMNH 281831" ; Times: 1
+	Query: "Tyto alba insularis" ; Times: 1
+	Query: "Tringa glareola" ; Times: 6
+	Query: "AMNH 446578" ; Times: 1
+	Query: "AMNH 693795" ; Times: 1
+	Query: "catalognumber:631486" ; Times: 1
+	Query: "AMNH 693796" ; Times: 1
+	Query: "AMNH 693798" ; Times: 1
+	Query: "AMNH 216893" ; Times: 1
+	Query: "260296" ; Times: 2
+	Query: "AMNH 216896" ; Times: 2
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "class:Aves locality:Ucayali country:&#34;Peru&#34; recordedby:Schunke" ; Times: 2
+	Query: "pterodroma neglecta year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "AMNH 84641" ; Times: 1
+	Query: "AMNH 486553" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichas genus:Geothlypis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 487840" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristata genus:Galerida institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 611201" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 1
+	Query: "phlegopsis confinis" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:gilvus genus:Vireo institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 211543" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 2
+	Query: "Peltohyas australis" ; Times: 2
+	Query: "Ciconia boyciana" ; Times: 4
+	Query: "Agriornis insolens" ; Times: 2
+	Query: "class:aves country:mozambique" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavipes genus:Hylophilus institutioncode:AMNH" ; Times: 1
+	Query: "Haliaeetus leucoryphus india" ; Times: 1
+	Query: "Burhinus bistriatus vocifer" ; Times: 1
+	Query: "genus:Columba locality:Bougainville" ; Times: 1
+	Query: "Pitta sordida mulleri" ; Times: 1
+	Query: "Crax daubentoni" ; Times: 7
+	Query: "Falco chicquera india" ; Times: 1
+	Query: "AMNH 828116" ; Times: 1
+	Query: "AMNH 611112" ; Times: 1
+	Query: "AMNH 254383" ; Times: 1
+	Query: "Locustella lanceolata India" ; Times: 1
+	Query: "173507" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorurus genus:Pipilo institutioncode:AMNH" ; Times: 1
+	Query: "coracina ripleyi" ; Times: 1
+	Query: "AMNH 825667" ; Times: 1
+	Query: "Oenanthe deserti India" ; Times: 2
+	Query: "Fulica atra" ; Times: 3
+	Query: "coturnix chinensis" ; Times: 4
+	Query: "Branta canadensis" ; Times: 5
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "AMNH 769981" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 3
+	Query: "specificepithet:cyanirostris genus:Knipolegus" ; Times: 1
+	Query: "AMNH 528594" ; Times: 1
+	Query: "Houbaropsis bengalensis" ; Times: 1
+	Query: "pavo cristatus" ; Times: 9
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "AMNH 708504" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Neophron percnopterus india" ; Times: 1
+	Query: "AMNH Bird Collection Skin-824711" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "AMNH 734051" ; Times: 2
+	Query: "cryptospiza ruwenzori" ; Times: 4
+	Query: "skeleton specificepithet:minor family:phoenicopteridae" ; Times: 1
+	Query: "Geositta paytae" ; Times: 1
+	Query: "Anas platyrhynchos sex:male AND (diazi)" ; Times: 1
+	Query: "aMNH 76059" ; Times: 1
+	Query: "specificepithet:varius family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Pitta brachyura india" ; Times: 1
+	Query: "AMNH 159231" ; Times: 1
+	Query: "AMNH 410775" ; Times: 2
+	Query: "AMNH 159232" ; Times: 1
+	Query: "AMNH 159234" ; Times: 1
+	Query: "Phyllastrephus albigularis" ; Times: 4
+	Query: "puffinus comoros" ; Times: 1
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Alcedo atthis" ; Times: 4
+	Query: "AMNH 684408" ; Times: 2
+	Query: "catalognumber:19860 institutioncode:AMNH" ; Times: 2
+	Query: "Piranga olivacea" ; Times: 5
+	Query: "vntype:specimen specificepithet:castro country:&#34;united states&#34;" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 7
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "AMNH 229475" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "claravis godefrida" ; Times: 2
+	Query: "AMNH 488237" ; Times: 1
+	Query: "specificepithet:dominica genus:Pluvialis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Anas formosa" ; Times: 13
+	Query: "AMNH 651462" ; Times: 2
+	Query: "AMNH 229479" ; Times: 1
+	Query: "habia affinis" ; Times: 1
+	Query: "AMNH 362759" ; Times: 1
+	Query: "tolmomyias paraensis" ; Times: 2
+	Query: "catalognumber:11751 institutioncode:AMNH" ; Times: 2
+	Query: "Doryfera johannae" ; Times: 3
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "vntype:specimen specificepithet:tahitica genus:Hirundo institutioncode:AMNH" ; Times: 1
+	Query: "Passerina amoena cyanea" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 3
+	Query: "conecuh national forest" ; Times: 3
+	Query: "vntype:specimen specificepithet:sulphuratus genus:Pitangus institutioncode:AMNH" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "AMNH 734236" ; Times: 3
+	Query: "AMNH 422493" ; Times: 1
+	Query: "AMNH 422494" ; Times: 1
+	Query: "wing" ; Times: 1
+	Query: "Cutia nipalensis india" ; Times: 1
+	Query: "Aviceda jerdoni india" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "tichodroma muraria india" ; Times: 1
+	Query: "Mycerobas melanozanthos India" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 10
+	Query: "AMNH 314290" ; Times: 1
+	Query: "AMNH 314291" ; Times: 1
+	Query: "orthotomus meisei" ; Times: 1
+	Query: "AMNH 189783" ; Times: 1
+	Query: "AMNH 189786" ; Times: 1
+	Query: "Tyto manusi" ; Times: 2
+	Query: "Vestiaria coccinea" ; Times: 3
+	Query: "Geotrygon versicolor" ; Times: 3
+	Query: "Ochthoeca leucometopa" ; Times: 2
+	Query: "catalognumber:62173 institutioncode:AMNH" ; Times: 2
+	Query: "Piranga lutea" ; Times: 5
+	Query: "AMNH 258041" ; Times: 1
+	Query: "AMNH 258042" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitida genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "AMNH 549975" ; Times: 1
+	Query: "AMNH 549974" ; Times: 1
+	Query: "23472" ; Times: 1
+	Query: "AMNH 266448" ; Times: 1
+	Query: "AMNH 197705" ; Times: 1
+	Query: "vntype:specimen specificepithet:japonicus genus:Zosterops institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 720503" ; Times: 1
+	Query: "Drepanornis albertisi" ; Times: 17
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes institutioncode:AMNH" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 2
+	Query: "Zoothera monticola Assam" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerascens genus:Myiarchus institutioncode:AMNH" ; Times: 1
+	Query: "Pericrocotus speciosus Kashmir" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Leucopternis melanops" ; Times: 7
+	Query: "Gallinago nigripennis" ; Times: 6
+	Query: "AMNH 171235" ; Times: 1
+	Query: "catalognumber:161898 institutioncode:AMNH" ; Times: 2
+	Query: "moose" ; Times: 2
+	Query: "Ampeliceps coronatus india" ; Times: 1
+	Query: "AMNH 552371" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "AMNH 268390" ; Times: 1
+	Query: "AMNH 257392" ; Times: 1
+	Query: "specificepithet:auriculata genus:Zenaida country:&#34;Argentina&#34; hastissue:1" ; Times: 1
+	Query: "AMNH 552570" ; Times: 1
+	Query: "235170" ; Times: 1
+	Query: "puffinus persicus" ; Times: 2
+	Query: "Bugeranus carunculatus" ; Times: 4
+	Query: "passerina cyanea amoena" ; Times: 1
+	Query: "Rallus limicola friedmanni" ; Times: 1
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "AMNH 317420" ; Times: 1
+	Query: "Pluvialis dominica" ; Times: 2
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "AMNH 611762" ; Times: 2
+	Query: "AMNH 527307" ; Times: 1
+	Query: "vntype:specimen specificepithet:carduelis genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 268024" ; Times: 1
+	Query: "Butorides striata" ; Times: 9
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "AMNH 390089" ; Times: 1
+	Query: "Anser indicus" ; Times: 5
+	Query: "Dendronanthus indicus India" ; Times: 1
+	Query: "Haliaeetus pelagicus" ; Times: 7
+	Query: "Rallus aquaticus" ; Times: 8
+	Query: "AMNH 390083" ; Times: 1
+	Query: "AMNH 118619" ; Times: 1
+	Query: "vntype:specimen specificepithet:lincolnii genus:Melospiza institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 552485" ; Times: 1
+	Query: "prinia kasokae" ; Times: 4
+	Query: "Pseudoleistes virescens" ; Times: 3
+	Query: "Astrapia nigra" ; Times: 7
+	Query: "AMNH 551665" ; Times: 1
+	Query: "nesasio solomonensis" ; Times: 1
+	Query: "Arses telescopthalmus" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 2
+	Query: "AMNH 703291" ; Times: 1
+	Query: "Piranga rubriceps" ; Times: 3
+	Query: "AMNH 191566" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 1
+	Query: "Merganetta armata" ; Times: 5
+	Query: "Buteo albigula" ; Times: 4
+	Query: "Tachycineta leucopyga" ; Times: 7
+	Query: "AMNH 671362" ; Times: 1
+	Query: "Fringilla teydea" ; Times: 5
+	Query: "AMNH 703086" ; Times: 1
+	Query: "Chrysocolaptes festivus india" ; Times: 1
+	Query: "140425" ; Times: 1
+	Query: "Hypsipetes philippinus" ; Times: 4
+	Query: "AMNH 611108" ; Times: 1
+	Query: "AMNH 611109" ; Times: 1
+	Query: "cryptospiza ocularis" ; Times: 7
+	Query: "AMNH 611107" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "AMNH 611105" ; Times: 1
+	Query: "AMNH 819219" ; Times: 1
+	Query: "pachyptila crassirostris" ; Times: 13
+	Query: "vntype:specimen specificepithet:concinnus genus:Aegithalos institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 254156" ; Times: 1
+	Query: "AMNH 415132" ; Times: 2
+	Query: "aMNH 76465" ; Times: 1
+	Query: "AMNH 794051" ; Times: 1
+	Query: "Athene cunicularia brachyptera" ; Times: 1
+	Query: "Sitta pusilla Bahama" ; Times: 2
+	Query: "AMNH 302321" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinus genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "173959" ; Times: 1
+	Query: "173958" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "173957" ; Times: 1
+	Query: "173956" ; Times: 1
+	Query: "173951" ; Times: 1
+	Query: "173953" ; Times: 1
+	Query: "173952" ; Times: 1
+	Query: "Garrulax jerdoni" ; Times: 1
+	Query: "173736" ; Times: 1
+	Query: "AMNH 194447" ; Times: 1
+	Query: "clytorhynchus nigrogularis" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 6
+	Query: "hypothymis coelestis" ; Times: 1
+	Query: "AMNH 548901" ; Times: 1
+	Query: "AMNH 211679" ; Times: 1
+	Query: "Tragopan blythii" ; Times: 2
+	Query: "AMNH 610855" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "Saxicola caprata India" ; Times: 3
+	Query: "vntype:specimen specificepithet:melanophrys genus:Manorina institutioncode:AMNH" ; Times: 1
+	Query: "Turdus ruficollis India" ; Times: 2
+	Query: "vntype:specimen hassex:1 hastissue:1" ; Times: 1
+	Query: "Leptopogon erythrops" ; Times: 1
+	Query: "Phylloscopus fuligiventer" ; Times: 4
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Perdicula asiatica" ; Times: 3
+	Query: "Mergus squamatus" ; Times: 5
+	Query: "AMNH 215194" ; Times: 1
+	Query: "AMNH 215197" ; Times: 1
+	Query: "AMNH 294178" ; Times: 2
+	Query: "26816" ; Times: 3
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "Criniger phaeocephalus" ; Times: 4
+	Query: "specificepithet:glaucus genus:Anodorhynchus" ; Times: 3
+	Query: "Bambusicola fytchii" ; Times: 3
+	Query: "121600" ; Times: 2
+	Query: "Bycanistes brevis" ; Times: 4
+	Query: "houbaropsis bengalensis" ; Times: 1
+	Query: "specificepithet:morio genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "preparations:Skeleton parabuteo" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "specificepithet:occidentalis genus:strix institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:ruficollis genus:tachybaptus (skeleton) institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 343781" ; Times: 1
+	Query: "AMNH 234264" ; Times: 1
+	Query: "cacomantis websteri" ; Times: 2
+	Query: "AMNH 429357" ; Times: 1
+	Query: "Sitta formosa india" ; Times: 1
+	Query: "AMNH 177259" ; Times: 1
+	Query: "AMNH 527686" ; Times: 2
+	Query: "AMNH 740914" ; Times: 1
+	Query: "Terpsiphone vulpina" ; Times: 1
+	Query: "233348" ; Times: 1
+	Query: "amnh 244291" ; Times: 1
+	Query: "specificepithet:sanctaemariae genus:Cymbilaimus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Phoenicurus frontalis India" ; Times: 2
+	Query: "vntype:specimen specificepithet:versicolor genus:Strepera institutioncode:AMNH" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 3
+	Query: "Corvus splendens" ; Times: 9
+	Query: "Phaetusa simplex" ; Times: 2
+	Query: "C. psittacula" ; Times: 6
+	Query: "vntype:specimen specificepithet:bonariensis genus:Molothrus institutioncode:AMNH" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 3
+	Query: "Aegithalos bonvaloti" ; Times: 4
+	Query: "Cyanopica cyanus" ; Times: 8
+	Query: "Paradoxornis flavirostris india" ; Times: 1
+	Query: "catalognumber:11760 institutioncode:AMNH" ; Times: 2
+	Query: "genus:culicicapa country:&#34;philippines&#34;" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "oceanites oceanicus AMNH year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:glandarius genus:Garrulus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 346774" ; Times: 1
+	Query: "AMNH 314401" ; Times: 1
+	Query: "AMNH 703121" ; Times: 2
+	Query: "AMNH 349279" ; Times: 1
+	Query: "(18677)" ; Times: 1
+	Query: "Lonchura malacca India" ; Times: 3
+	Query: "cuello" ; Times: 1
+	Query: "AMNH 487229" ; Times: 1
+	Query: "Limosa limosa India" ; Times: 1
+	Query: "AMNH 693809" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "Apus berliozi" ; Times: 3
+	Query: "AMNH 783640" ; Times: 1
+	Query: "Pelecanus thagus" ; Times: 3
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Buteo polyosoma" ; Times: 5
+	Query: "Icterus galbula" ; Times: 4
+	Query: "Buteogallus aequinoctialis" ; Times: 4
+	Query: "Aegithalos glaucogularis" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "AMNH 585469" ; Times: 2
+	Query: "AMNH 552364" ; Times: 1
+	Query: "AMNH 552362" ; Times: 1
+	Query: "AMNH 585468" ; Times: 1
+	Query: "specificepithet:icterophrys genus:Satrapa country:&#34;Peru&#34;" ; Times: 1
+	Query: "AMNH 268389" ; Times: 1
+	Query: "vntype:specimen specificepithet:troglodytes genus:Troglodytes institutioncode:AMNH" ; Times: 1
+	Query: "260679" ; Times: 1
+	Query: "locality:deserto" ; Times: 1
+	Query: "Pterodroma defilippiana" ; Times: 8
+	Query: "ornatus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 552567" ; Times: 1
+	Query: "Phylloscopus griseolus" ; Times: 9
+	Query: "cyanocompsa lucida" ; Times: 1
+	Query: "AMNH 428578" ; Times: 3
+	Query: "AMNH 678015" ; Times: 1
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "Cyornis tickelliae India" ; Times: 1
+	Query: "vntype:specimen specificepithet:fuliginosa genus:Rhyacornis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 678017" ; Times: 1
+	Query: "AMNH 527333" ; Times: 1
+	Query: "AMNH 577665" ; Times: 1
+	Query: "Criniger ndussumensis" ; Times: 2
+	Query: "Lonchura leucosticta" ; Times: 8
+	Query: "61477" ; Times: 1
+	Query: "AMNH 445154" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "Vireo huttoni victoria" ; Times: 1
+	Query: "AMNH 601215" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "AMNH 528650" ; Times: 1
+	Query: "specificepithet:ucayalae country:&#34;Peru&#34;" ; Times: 3
+	Query: "AMNH 552491" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "AMNH 362392" ; Times: 1
+	Query: "AMNH 551614" ; Times: 1
+	Query: "AMNH 779240" ; Times: 1
+	Query: "AMNH 22106" ; Times: 1
+	Query: "preparations:skin" ; Times: 1
+	Query: "AMNH 445735" ; Times: 1
+	Query: "vntype:specimen specificepithet:cardinalis genus:Cardinalis institutioncode:AMNH" ; Times: 1
+	Query: "36314" ; Times: 1
+	Query: "740914" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "AMNH 676921" ; Times: 1
+	Query: "Garrulax sannio" ; Times: 3
+	Query: "102423" ; Times: 1
+	Query: "AMNH 26849" ; Times: 1
+	Query: "AMNH 749205" ; Times: 1
+	Query: "AMNH 549969" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "catalognumber:190965 institutioncode:AMNH" ; Times: 2
+	Query: "Accipiter trivirgatus india" ; Times: 1
+	Query: "Ibidorhyncha struthersii" ; Times: 1
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "AMNH 552385" ; Times: 1
+	Query: "vntype:specimen specificepithet:analis genus:Catamenia institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Stachyris oglei india" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:nitens genus:Malimbus hastissue:1" ; Times: 1
+	Query: "AMNH 81306" ; Times: 1
+	Query: "AMNH 276026" ; Times: 1
+	Query: "AMNH 226421" ; Times: 1
+	Query: "Passer cinnamomeus India" ; Times: 2
+	Query: "Phylloscopus magnirostris India" ; Times: 1
+	Query: "Pelecanus philippensis" ; Times: 2
+	Query: "class:aves country:&#34;Rhodesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMNH 552533" ; Times: 1
+	Query: "Apus apus" ; Times: 3
+	Query: "Phalacrocorax fuscicollis" ; Times: 4
+	Query: "Rhodospiza obsoleta" ; Times: 2
+	Query: "173960" ; Times: 1
+	Query: "173961" ; Times: 1
+	Query: "173965" ; Times: 1
+	Query: "173966" ; Times: 1
+	Query: "173967" ; Times: 1
+	Query: "Fort Clark 1893" ; Times: 1
+	Query: "catalognumber:316134 institutioncode:AMNH" ; Times: 1
+	Query: "90115" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulea genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "amnh 81452" ; Times: 1
+	Query: "Pseudibis papillosa" ; Times: 1
+	Query: "29346" ; Times: 1
+	Query: "amnh 42862" ; Times: 2
+	Query: "AMNH 59423" ; Times: 1
+	Query: "AMNH 211643" ; Times: 1
+	Query: "Porphyrio alleni" ; Times: 3
+	Query: "specificepithet:griseiceps genus:Phyllomyias country:&#34;Peru&#34;" ; Times: 1
+	Query: "aMNH 77035" ; Times: 1
+	Query: "AMNH 488578" ; Times: 2
+	Query: "AMNH 434262" ; Times: 1
+	Query: "vntype:specimen specificepithet:minimus genus:Psaltriparus institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:96235 institutioncode:AMNH" ; Times: 1
+	Query: "Thamnophilus subfasciatus" ; Times: 1
+	Query: "AMNH 215188" ; Times: 2
+	Query: "Bubo bubo india" ; Times: 3
+	Query: "AMNH 734099" ; Times: 3
+	Query: "skeleton specificepithet:cristatus genus:podiceps" ; Times: 1
+	Query: "AMNH 159240" ; Times: 1
+	Query: "vntype:specimen specificepithet:schach genus:Lanius institutioncode:AMNH" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "26821" ; Times: 2
+	Query: "vntype:specimen specificepithet:alba genus:Motacilla institutioncode:AMNH" ; Times: 1
+	Query: "astrapia nigra" ; Times: 3
+	Query: "Passer ammodendri" ; Times: 8
+	Query: "vntype:specimen specificepithet:riparia genus:Riparia institutioncode:AMNH" ; Times: 1
+	Query: "Grus leucogeranus" ; Times: 4
+	Query: "pelecanoides georgicus" ; Times: 4
+	Query: "vntype:specimen specificepithet:tibicen genus:Gymnorhina institutioncode:AMNH" ; Times: 1
+	Query: "chloropsis palawanensis" ; Times: 3
+	Query: "AMNH 676922" ; Times: 1
+	Query: "Phylloscopus coronatus India" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Delichon urbica" ; Times: 3
+	Query: "elevation" ; Times: 1
+	Query: "169550" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "Pseudonestor xanthophrys" ; Times: 3
+	Query: "Rhyticeros undulatus india" ; Times: 1
+	Query: "AMNH 528669" ; Times: 1
+	Query: "Neomorphus salvini" ; Times: 1
+	Query: "vntype:specimen specificepithet:tenuirostris genus:Acanthorhynchus institutioncode:AMNH" ; Times: 1
+	Query: "Garrulax albogularis india" ; Times: 1
+	Query: "vntype:specimen specificepithet:novaehollandiae genus:Phylidonyris institutioncode:AMNH" ; Times: 1
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "Sternula albifrons" ; Times: 2
+	Query: "AMNH 488392" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Crax blumenbachii" ; Times: 3
+	Query: "vntype:specimen specificepithet:hodgsoni genus:Anthus institutioncode:AMNH" ; Times: 1
+	Query: "Gyps himalayensis" ; Times: 4
+	Query: "SKIN-824270" ; Times: 1
+	Query: "specificepithet:squamifrons genus:Sporopipes hastissue:1" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "AMNH 644877" ; Times: 1
+	Query: "AMNH 598135" ; Times: 1
+	Query: "Pellorneum palustre india" ; Times: 1
+	Query: "Acrocephalus stentoreus India" ; Times: 1
+	Query: "Eremophila alpestris India" ; Times: 3
+	Query: "AMNH 50611" ; Times: 1
+	Query: "Xanthopsar flavus" ; Times: 3
+	Query: "Accipiter gentilis india" ; Times: 1
+	Query: "vntype:specimen specificepithet:bridgesii genus:Drymornis institutioncode:AMNH" ; Times: 3
+	Query: "B. marmoratus" ; Times: 5
+	Query: "vntype:specimen specificepithet:fulva genus:Petrochelidon institutioncode:AMNH" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "AMNH 407726" ; Times: 1
+	Query: "AMNH 311248" ; Times: 1
+	Query: "AMNH 311249" ; Times: 1
+	Query: "cardinalis littoralis" ; Times: 1
+	Query: "oriolus oriolus India" ; Times: 6
+	Query: "catalognumber:160824 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 314413" ; Times: 1
+	Query: "Cyornis magnirostris India" ; Times: 1
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "183608" ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 4
+	Query: "AMNH 319974" ; Times: 2
+	Query: "Sicalis olivascens" ; Times: 5
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "AMNH 262711" ; Times: 1
+	Query: "heterophasia tonkinensis" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "catalognumber:92722 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 528116" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 3
+	Query: "vntype:specimen genus:Plegadis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:doliatus genus:Thamnophilus institutioncode:AMNH" ; Times: 1
+	Query: "bankhead national forest" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 7
+	Query: "Tyrannus melancholichus" ; Times: 1
+	Query: "vntype:specimen specificepithet:saularis genus:Copsychus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata genus:Dendroica institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:cannabina genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 336489" ; Times: 1
+	Query: "AMNH 212031" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "257262" ; Times: 1
+	Query: "catalognumber:316135 institutioncode:AMNH" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 3
+	Query: "Ocyceros birostris india" ; Times: 1
+	Query: "vntype:specimen specificepithet:flammea genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Acanthiza institutioncode:AMNH" ; Times: 1
+	Query: "Icterus auratus" ; Times: 1
+	Query: "AMNH 151527" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 8
+	Query: "Phalacrocorax capillatus" ; Times: 4
+	Query: "Prinia bairdii" ; Times: 8
+	Query: "AMNH 205611" ; Times: 1
+	Query: "garrodia nereis" ; Times: 2
+	Query: "catalognumber:182740" ; Times: 1
+	Query: "Pycnonotus finlaysoni" ; Times: 4
+	Query: "oreostruthus pallidus" ; Times: 1
+	Query: "AMNH 527329" ; Times: 1
+	Query: "Urocissa erythrorhyncha India" ; Times: 1
+	Query: "AMNH 645003" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "hastissue:1" ; Times: 12
+	Query: "101040" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Catharus institutioncode:AMNH" ; Times: 1
+	Query: "melampitta gigantea" ; Times: 2
+	Query: "Athene cunicularia rostrata" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Carduelis carduelis" ; Times: 3
+	Query: "Sylvia curruca india" ; Times: 1
+	Query: "vntype:specimen specificepithet:corax genus:Corvus institutioncode:AMNH" ; Times: 1
+	Query: "Gallinago stricklandii" ; Times: 4
+	Query: "AMNH 310401" ; Times: 1
+	Query: "AMNH 310400" ; Times: 1
+	Query: "ANSP bird skin" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 9
+	Query: "Osmaston kashmir" ; Times: 1
+	Query: "Calandrella acutirostris India" ; Times: 2
+	Query: "Phylloscopus schwarzi" ; Times: 10
+	Query: "grinnell florida" ; Times: 1
+	Query: "Regulus regulus" ; Times: 3
+	Query: "Psittacula himalayana india" ; Times: 1
+	Query: "Rallus caerulescens" ; Times: 1
+	Query: "Tremoleras" ; Times: 2
+	Query: "90476" ; Times: 1
+	Query: "specificepithet:cucullatus genus:Ploceus hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:luciae genus:Vermivora institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:bicolor genus:lonchura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Empidonax canescens" ; Times: 1
+	Query: "Buceros bicornis" ; Times: 1
+	Query: "AMNH 425411" ; Times: 1
+	Query: "AMNH 425412" ; Times: 1
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "catalognumber:163274" ; Times: 1
+	Query: "222755" ; Times: 1
+	Query: "173970" ; Times: 1
+	Query: "AMNH 788032" ; Times: 1
+	Query: "AMNH 788031" ; Times: 1
+	Query: "AMNH 788030" ; Times: 1
+	Query: "Seicercus affinis" ; Times: 4
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "vntype:specimen specificepithet:major genus:Parus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:tyrannulus genus:Myiarchus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 390043" ; Times: 1
+	Query: "AMNH 585461" ; Times: 1
+	Query: "Turdus kessleri" ; Times: 15
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "leucogenys Kashmir" ; Times: 1
+	Query: "terpsiphone nicobarica" ; Times: 1
+	Query: "AMNH 703094" ; Times: 2
+	Query: "vntype:specimen specificepithet:socialis genus:Prinia institutioncode:AMNH" ; Times: 1
+	Query: "Apus batesi" ; Times: 3
+	Query: "AMNH 407727" ; Times: 1
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Anous tenuirostris" ; Times: 6
+	Query: "Gymnomystax mexicanus" ; Times: 2
+	Query: "AMNH 414553" ; Times: 2
+	Query: "Essequibo 1906" ; Times: 1
+	Query: "vntype:specimen specificepithet:alpestris genus:Eremophila institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 837003" ; Times: 2
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:gilvus genus:Mimus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 488497" ; Times: 1
+	Query: "Gallinago gallinago faeroeensis" ; Times: 1
+	Query: "AMNH 268969" ; Times: 1
+	Query: "specificepithet:major genus:quiscalus county:&#34;currituck&#34;" ; Times: 1
+	Query: "AMNH 211665" ; Times: 1
+	Query: "AMNH 280516" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:mellori genus:Corvus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 528610" ; Times: 1
+	Query: "AMNH 770013" ; Times: 1
+	Query: "AMNH 770011" ; Times: 1
+	Query: "catalognumber:2861 institutioncode:AMNH" ; Times: 1
+	Query: "233035" ; Times: 1
+	Query: "175761" ; Times: 1
+	Query: "Certhia discolor india" ; Times: 1
+	Query: "Paroreomyza montana" ; Times: 8
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "AMNH 343698" ; Times: 2
+	Query: "AMNH 329414" ; Times: 1
+	Query: "vntype:specimen specificepithet:flava genus:Motacilla institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 363189" ; Times: 2
+	Query: "AMNH 528050" ; Times: 1
+	Query: "AMNH 220346" ; Times: 1
+	Query: "Pericrocotus ethologus" ; Times: 4
+	Query: "Phylloscopus claudiae India" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Phylloscopus occipitalis" ; Times: 7
+	Query: "15034" ; Times: 1
+	Query: "Alcedo hercules india" ; Times: 1
+	Query: "catalognumber:94413 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 61365" ; Times: 1
+	Query: "AMNH 61363" ; Times: 2
+	Query: "rhegmatorhina badia" ; Times: 1
+	Query: "Ardea goliath" ; Times: 2
+	Query: "genus:Pseudocolopteryx country:&#34;Chile&#34;" ; Times: 1
+	Query: "183611" ; Times: 1
+	Query: "183610" ; Times: 1
+	Query: "183613" ; Times: 1
+	Query: "AMNH 269659" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila institutioncode:AMNH" ; Times: 1
+	Query: "Ixobrychus minutus" ; Times: 5
+	Query: "232908" ; Times: 1
+	Query: "Tyto inexspectata" ; Times: 1
+	Query: "Sporopipes frontalis" ; Times: 8
+	Query: "Enicurus leschenaulti India" ; Times: 1
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "specificepithet:cinerea genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "myrmecocichla sudanensis" ; Times: 1
+	Query: "thamnomanes" ; Times: 1
+	Query: "Poospiza cabanisi" ; Times: 3
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "stateprovince:&#34;California&#34; institutioncode:AMNH Junco hyemalis" ; Times: 1
+	Query: "Pycnonotus barbatus" ; Times: 4
+	Query: "AMNH 460219" ; Times: 1
+	Query: "vntype:specimen specificepithet:goiavier genus:Pycnonotus institutioncode:AMNH" ; Times: 1
+	Query: "Graminicola bengalensis india" ; Times: 1
+	Query: "genus:Spizaetus country:&#34;Peru&#34;" ; Times: 1
+	Query: "AMNH 212027" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Lalage tricolor" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Fringilla polatzeki" ; Times: 5
+	Query: "Chionis" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 6
+	Query: "AMNH 205609" ; Times: 1
+	Query: "AMNH 416790" ; Times: 1
+	Query: "Dinopium javanense india" ; Times: 1
+	Query: "catalognumber:805589" ; Times: 1
+	Query: "skeleton specificepithet:major genus:podiceps" ; Times: 1
+	Query: "vntype:specimen specificepithet:nudigenis genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "AMNH 268298" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "year &gt;= 1990 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "aMNH 71902" ; Times: 1
+	Query: "Tyto alba bargei" ; Times: 2
+	Query: "habia alfaroana" ; Times: 1
+	Query: "catalognumber:316133 institutioncode:AMNH" ; Times: 1
+	Query: "sex:Male" ; Times: 2
+	Query: "Junco hyemalis institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:107688 institutioncode:AMNH" ; Times: 9
+	Query: "AMNH 193200" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "AMNH 424021" ; Times: 2
+	Query: "otus asio india" ; Times: 1
+	Query: "AMNH 157636" ; Times: 2
+	Query: "Pheucticus ludovicianus" ; Times: 9
+	Query: "AMNH 157634" ; Times: 2
+	Query: "AMNH 157633" ; Times: 2
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "centropus manam" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Vermivora institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 531072" ; Times: 2
+	Query: "catalognumber:11730 institutioncode:AMNH" ; Times: 2
+	Query: "dicaeum bonga" ; Times: 1
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "amnh 17125" ; Times: 1
+	Query: "AMNH 659477" ; Times: 1
+	Query: "guttata stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "catalognumber:72476 institutioncode:AMNH" ; Times: 2
+	Query: "Ochthoeca polionota" ; Times: 1
+	Query: "362272" ; Times: 1
+	Query: "Harpactes wardi" ; Times: 1
+	Query: "class:aves hastissue:1" ; Times: 2
+	Query: "AMNH 213207" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "vntype:specimen specificepithet:tristis genus:Acridotheres institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 213208" ; Times: 1
+	Query: "AMNH 611644" ; Times: 1
+	Query: "AMNH 800299" ; Times: 1
+	Query: "38543" ; Times: 1
+	Query: "vntype:specimen hastissue:1" ; Times: 1
+	Query: "Hirundapus caudacutus" ; Times: 1
+	Query: "AMNH 611648" ; Times: 1
+	Query: "AMNH 611399" ; Times: 1
+	Query: "AMNH 611398" ; Times: 1
+	Query: "AMNH 794004" ; Times: 1
+	Query: "AMNH 788021" ; Times: 1
+	Query: "Falco severus india" ; Times: 1
+	Query: "AMNH 734752" ; Times: 2
+	Query: "JAG 2175 AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:hypoleuca genus:Ficedula institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 552058" ; Times: 1
+	Query: "AMNH 790719" ; Times: 1
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "ortygospiza ugandae" ; Times: 2
+	Query: "Turdus migratorius" ; Times: 13
+	Query: "AMNH 731070" ; Times: 2
+	Query: "Halcyon pileata india" ; Times: 1
+	Query: "AMNH 731280" ; Times: 2
+	Query: "AMNH 731282" ; Times: 3
+	Query: "AMNH-474347" ; Times: 1
+	Query: "AMNH 703426" ; Times: 1
+	Query: "AMNH 788016" ; Times: 1
+	Query: "AMNH 211684" ; Times: 1
+	Query: "Arborophila mandellii" ; Times: 1
+	Query: "country:&#34;Mexico&#34; institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "Regulus regulus India" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "vntype:specimen specificepithet:plumbea genus:Polioptila institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 528466" ; Times: 1
+	Query: "AMNH 528467" ; Times: 1
+	Query: "Ammodramus savannarum floridanus" ; Times: 1
+	Query: "AMNH 221627" ; Times: 1
+	Query: "Fringilla montifringilla" ; Times: 5
+	Query: "vntype:specimen specificepithet:montanus genus:Passer institutioncode:AMNH" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 8
+	Query: "vntype:specimen class:Actinopterygii institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "prinia bihe" ; Times: 2
+	Query: "AMNH 34264" ; Times: 1
+	Query: "Apus nipalensis" ; Times: 3
+	Query: "Tyto aurantia" ; Times: 2
+	Query: "Tyto sororcula" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 15
+	Query: "Pluvialis apricaria" ; Times: 2
+	Query: "vntype:specimen specificepithet:everetti genus:Zosterops institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoleuca genus:Grallina institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 177260" ; Times: 1
+	Query: "AMNH 703250" ; Times: 1
+	Query: "Arborophila torqueola" ; Times: 3
+	Query: "AMNH 433532" ; Times: 1
+	Query: "AMNH 194328" ; Times: 1
+	Query: "AMNH 528590" ; Times: 1
+	Query: "Cochoa viridis India" ; Times: 1
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:bewickii genus:Thryomanes institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen genus:tersina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 3
+	Query: "Sitta himalayensis india" ; Times: 2
+	Query: "AMNH 215238" ; Times: 1
+	Query: "AMNH 297329" ; Times: 2
+	Query: "Columba oenas" ; Times: 3
+	Query: "specificepithet:helenae genus:hypothymis country:&#34;philippines&#34;" ; Times: 2
+	Query: "AMNH 215235" ; Times: 1
+	Query: "Pithecophaga jefferyi" ; Times: 1
+	Query: "catalognumber:161838 institutioncode:AMNH" ; Times: 3
+	Query: "Todus angustirostris" ; Times: 4
+	Query: "AMNH 528043" ; Times: 1
+	Query: "Athene brama" ; Times: 2
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "Calliope calliope India" ; Times: 1
+	Query: "Tyto deroepstorffi" ; Times: 1
+	Query: "catalognumber:62171 institutioncode:AMNH" ; Times: 2
+	Query: "climacteris meridionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:Parus institutioncode:AMNH" ; Times: 1
+	Query: "Larus heermanni" ; Times: 6
+	Query: "AMNH 527823" ; Times: 1
+	Query: "myiarchus platyrhynchus" ; Times: 2
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "AMNH 435052" ; Times: 1
+	Query: "AMNH 434058" ; Times: 2
+	Query: "AMNH 435054" ; Times: 1
+	Query: "AMNH 435055" ; Times: 1
+	Query: "specificepithet:albifrons genus:Pithys country:&#34;Peru&#34;" ; Times: 2
+	Query: "Tarsiger cyanurus" ; Times: 4
+	Query: "Criniger flaveolus" ; Times: 4
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "AMNH 552618" ; Times: 1
+	Query: "AMNH 552619" ; Times: 1
+	Query: "AMNH 130841" ; Times: 1
+	Query: "haslength:1" ; Times: 3
+	Query: "Grus antigone" ; Times: 6
+	Query: "AMNH 549331" ; Times: 1
+	Query: "AMNH 549330" ; Times: 1
+	Query: "Ficedula albicollis" ; Times: 9
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:AMNH" ; Times: 1
+	Query: "zosterops reichenowi" ; Times: 1
+	Query: "Fregata aquila" ; Times: 3
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 2
+	Query: "AMNH 208307" ; Times: 1
+	Query: "terpsiphone ignea" ; Times: 2
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "AMNH 552534" ; Times: 1
+	Query: "Yuhina gularis india" ; Times: 2
+	Query: "AMNH 748722" ; Times: 1
+	Query: "Buteo augur" ; Times: 4
+	Query: "AMNH 318326" ; Times: 1
+	Query: "13890" ; Times: 2
+	Query: "AMNH 318324" ; Times: 1
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "AMNH 363439" ; Times: 2
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "amnh 671380" ; Times: 1
+	Query: "AMNH 317200" ; Times: 2
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Dendrocitta formosae" ; Times: 9
+	Query: "AMNH 191697" ; Times: 1
+	Query: "AMNH 191696" ; Times: 1
+	Query: "genus:atlapetes country:&#34;guatemala&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 3
+	Query: "56798" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 14
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "AMNH 551621" ; Times: 1
+	Query: "oxyruncus baiao" ; Times: 1
+	Query: "Macroagelaius imthurni" ; Times: 2
+	Query: "Netta rufina" ; Times: 6
+	Query: "vntype:specimen genus:Quiscalus institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34; AND (NOT Luzon)" ; Times: 1
+	Query: "catalognumber:133241 institutioncode:AMNH" ; Times: 1
+	Query: "Calidris canutus" ; Times: 3
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Cory Island" ; Times: 1
+	Query: "vntype:specimen specificepithet:iliacus genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "Corvus corone" ; Times: 9
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Emberiza fucata India" ; Times: 1
+	Query: "vntype:specimen specificepithet:rixosa genus:Machetornis institutioncode:AMNH" ; Times: 1
+	Query: "Ochthoeca superciliosa" ; Times: 1
+	Query: "Turdus ignobilis arthuri" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "AMNH 305914" ; Times: 1
+	Query: "AMNH 261736" ; Times: 1
+	Query: "Pteruthius melanotis India" ; Times: 2
+	Query: "AMNH 226419" ; Times: 1
+	Query: "m george w" ; Times: 1
+	Query: "AMNH 469133" ; Times: 2
+	Query: "AMNH 552060" ; Times: 1
+	Query: "AMNH 552062" ; Times: 1
+	Query: "AMNH 140798" ; Times: 1
+	Query: "AMNH 140799" ; Times: 1
+	Query: "AMNH 552067" ; Times: 1
+	Query: "specificepithet:dinemelli genus:Dinemellia hastissue:1" ; Times: 2
+	Query: "Phegornis mitchellii" ; Times: 4
+	Query: "Aegithalos iredalei india" ; Times: 2
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "vntype:specimen specificepithet:proregulus genus:Phylloscopus institutioncode:AMNH" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 7
+	Query: "AMNH 611038" ; Times: 1
+	Query: "AMNH 611036" ; Times: 1
+	Query: "Chondrohierax Cuba" ; Times: 1
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "Bubo coromandus india" ; Times: 1
+	Query: "Agelaius phoeniceus" ; Times: 4
+	Query: "Alcippe poioicephala india" ; Times: 2
+	Query: "9566 family:Apodidae institutioncode:AMNH" ; Times: 1
+	Query: "582371" ; Times: 1
+	Query: "AMNH 703434" ; Times: 1
+	Query: "Aythya americana" ; Times: 4
+	Query: "AMNH 211691" ; Times: 1
+	Query: "AMNH 211697" ; Times: 3
+	Query: "AMNH 211695" ; Times: 1
+	Query: "vntype:specimen specificepithet:saturata genus:Aethopyga institutioncode:AMNH" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "asio otus india" ; Times: 1
+	Query: "AMNH 314282" ; Times: 1
+	Query: "Todus todus" ; Times: 3
+	Query: "AMNH 528456" ; Times: 1
+	Query: "specificepithet:ruficollis genus:tachybaptus (skeleton)" ; Times: 1
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Gallinago macrodactyla" ; Times: 1
+	Query: "AMNH 721473" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 2
+	Query: "Emberiza fucata" ; Times: 8
+	Query: "Ciconia ciconia" ; Times: 6
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "AMNH 486675" ; Times: 2
+	Query: "AMNH 434333" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 4
+	Query: "Taccocua leschenaultii" ; Times: 2
+	Query: "AMNH 433521" ; Times: 1
+	Query: "AMNH 445848" ; Times: 1
+	Query: "AMNH 769979" ; Times: 1
+	Query: "AMNH 769978" ; Times: 1
+	Query: "specificepithet:meeki genus:Charmosyna institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 2
+	Query: "Sturnus vulgaris india" ; Times: 2
+	Query: "AMNH 194314" ; Times: 1
+	Query: "Scolopax mira" ; Times: 1
+	Query: "AMNH 294532" ; Times: 1
+	Query: "vntype:specimen specificepithet:sinuatus genus:Cardinalis institutioncode:AMNH" ; Times: 1
+	Query: "Riparia riparia India" ; Times: 1
+	Query: "AMNH 734775" ; Times: 2
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes institutioncode:AMNH" ; Times: 1
+	Query: "Lonchura atricapilla India" ; Times: 2
+	Query: "Creagrus furcatus" ; Times: 6
+	Query: "Emberiza pusilla" ; Times: 8
+	Query: "AMNH 318238" ; Times: 2
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Egretta intermedia" ; Times: 9
+	Query: "Prinia rufescens India" ; Times: 3
+	Query: "AMNH 407745" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 6
+	Query: "leucometopa" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratoria genus:Eophona institutioncode:AMNH" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Vireo huttoni 1904" ; Times: 1
+	Query: "AMNH 71470" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "Turdus nigrescens" ; Times: 9
+	Query: "AMNH 549922" ; Times: 1
+	Query: "AMNH 549147" ; Times: 1
+	Query: "262275" ; Times: 1
+	Query: "catalognumber:109617 institutioncode:AMNH" ; Times: 4
+	Query: "AMNH 527704" ; Times: 1
+	Query: "AMNH; Junco Hyemalis" ; Times: 1
+	Query: "Lophura ignita" ; Times: 3
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "AMNH 528147" ; Times: 1
+	Query: "genus:eumyias country:&#34;philippines&#34;" ; Times: 2
+	Query: "Lophura inornata" ; Times: 3
+	Query: "Rallus antarcticus" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 3
+	Query: "catalognumber:45934 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 528149" ; Times: 1
+	Query: "homeyeri vntype:specimen" ; Times: 1
+	Query: "Ploceus megarhynchus India" ; Times: 1
+	Query: "Rimator pasquieri" ; Times: 1
+	Query: "AMNH 9559" ; Times: 1
+	Query: "Amazilia millerii" ; Times: 3
+	Query: "vntype:specimen specificepithet:bilineata genus:Amphispiza institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 50086" ; Times: 1
+	Query: "AMNH 50085" ; Times: 1
+	Query: "180276" ; Times: 2
+	Query: "Phalacrocorax aristotelis" ; Times: 4
+	Query: "Phylloscopus humei India" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "francolinus francolinus india" ; Times: 5
+	Query: "specificepithet:occidentalis genus:strix (female) institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "locality:samarai" ; Times: 2
+	Query: "otis tarda mappable:1" ; Times: 1
+	Query: "Ploceus benghalensis India" ; Times: 1
+	Query: "Gallinago nemoricola" ; Times: 1
+	Query: "AMNH 791603" ; Times: 1
+	Query: "AMNH 8779" ; Times: 1
+	Query: "AMNH 644881" ; Times: 1
+	Query: "Prinia subflava" ; Times: 6
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "vntype:specimen specificepithet:punctatus genus:Pardalotus institutioncode:AMNH" ; Times: 1
+	Query: "aMNH 87241" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Tragopan satyra" ; Times: 3
+	Query: "catalognumber:226032" ; Times: 1
+	Query: "specificepithet:gierowii genus:Euplectes hastissue:1" ; Times: 1
+	Query: "Turdus helleri" ; Times: 9
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "AMNH 17255" ; Times: 2
+	Query: "6081" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Criniger calurus" ; Times: 7
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "specificepithet:speciosa genus:stachyris country:&#34;philippines&#34;" ; Times: 1
+	Query: "caprimulgus maculicaudus" ; Times: 2
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:ruficauda country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:philomelos genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "Aphrodroma brevirostris" ; Times: 3
+	Query: "Ketupa flavipes india" ; Times: 1
+	Query: "AMNH 293535" ; Times: 1
+	Query: "Pycnonotus flavescens India" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Hypergerus atriceps" ; Times: 7
+	Query: "AMNH 749269" ; Times: 1
+	Query: "Buteo buteo" ; Times: 5
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Circaetus gallicus" ; Times: 2
+	Query: "AMNH 486406" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanocephalus genus:Euphagus institutioncode:AMNH" ; Times: 1
+	Query: "Batrachostomus hodgsoni" ; Times: 1
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "F. domesticus" ; Times: 5
+	Query: "AMNH 445685" ; Times: 1
+	Query: "AMNH 445683" ; Times: 1
+	Query: "AMNH 445681" ; Times: 1
+	Query: "AMNH 487916" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "AMNH 445689" ; Times: 1
+	Query: "AMNH 703130" ; Times: 2
+	Query: "AMNH 486399" ; Times: 1
+	Query: "AMNH 200080" ; Times: 1
+	Query: "AMNH 407786" ; Times: 1
+	Query: "AMNH 803217" ; Times: 1
+	Query: "Brachypteryx leucophrys India" ; Times: 1
+	Query: "cacomantis merulinus india" ; Times: 1
+	Query: "AMNH 799010" ; Times: 1
+	Query: "vntype:specimen specificepithet:ludovicianus genus:Thryothorus institutioncode:AMNH" ; Times: 1
+	Query: "Arborophila rufogularis" ; Times: 6
+	Query: "Emberiza melanocephala India" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrocercus genus:Dicrurus institutioncode:AMNH" ; Times: 1
+	Query: "perdicula inglisi" ; Times: 2
+	Query: "specificepithet:tyrannus genus:Tyrannus country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Turdus obscurus India" ; Times: 1
+	Query: "phyllastrephus xavieri" ; Times: 6
+	Query: "Buteo lineatus" ; Times: 7
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "aMNH 98253" ; Times: 1
+	Query: "sex:Male hastissue:1" ; Times: 1
+	Query: "Pteronetta hartlaubi" ; Times: 6
+	Query: "AMNH 348669" ; Times: 1
+	Query: "leucorhoa hastissue:1" ; Times: 1
+	Query: "Enicurus maculatus India" ; Times: 2
+	Query: "genus:quiscalus county:&#34;currituck&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "neobritannicus" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 2
+	Query: "AMNH 517450" ; Times: 2
+	Query: "Cisticola cantans" ; Times: 7
+	Query: "Eriocnemis mirabilis" ; Times: 1
+	Query: "Oenanthe isabellina India" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "Nipponia nippon" ; Times: 1
+	Query: "Tyranniscus leucogonys" ; Times: 1
+	Query: "Gilgit leucogenys" ; Times: 1
+	Query: "AMNH 744373" ; Times: 2
+	Query: "specificepithet:uralensis genus:strix institutioncode:AMNH" ; Times: 1
+	Query: "Tachycineta cyaneoviridis" ; Times: 4
+	Query: "Pycnonotus xanthorrhous" ; Times: 7
+	Query: "Phylloscopus nitidus India" ; Times: 1
+	Query: "vntype:specimen specificepithet:regulus genus:Regulus institutioncode:AMNH" ; Times: 1
+	Query: "Coracina melaschistos" ; Times: 4
+	Query: "vultur gryphus" ; Times: 3
+	Query: "Lamprotornis superbus hastissue:1" ; Times: 1
+	Query: "164255" ; Times: 1
+	Query: "vntype:specimen specificepithet:cafer genus:Pycnonotus institutioncode:AMNH" ; Times: 1
+	Query: "coracina bicinia" ; Times: 1
+	Query: "122876" ; Times: 1
+	Query: "Phalacrocorax capensis" ; Times: 4
+	Query: "AMNH 181258" ; Times: 1
+	Query: "Saltator similis" ; Times: 5
+	Query: "baja california sur Geothlypis trichas" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippinus genus:Ploceus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:Mimus institutioncode:AMNH" ; Times: 1
+	Query: "Turdus atrogularis India" ; Times: 2
+	Query: "specificepithet:punensis genus:phrygilus" ; Times: 1
+	Query: "catalognumber:83994 institutioncode:AMNH" ; Times: 2
+	Query: "Aegithina leucogenys" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "oceanodroma leucorhoa vntype:specimen hastissue:1" ; Times: 1
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "AMNH 283651" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 4
+	Query: "AMNH 811391" ; Times: 1
+	Query: "AMNH 811390" ; Times: 1
+	Query: "Dicaeum ignipectus India" ; Times: 2
+	Query: "Amazilia edward" ; Times: 3
+	Query: "knud" ; Times: 2
+	Query: "vntype:specimen specificepithet:ater genus:Molothrus institutioncode:AMNH" ; Times: 1
+	Query: "Rhytipterna immunda" ; Times: 1
+	Query: "Amandava amandava India" ; Times: 1
+	Query: "catalognumber:335918 institutioncode:AMNH" ; Times: 2
+	Query: "Chondrohierax" ; Times: 3
+	Query: "26884" ; Times: 2
+	Query: "26886" ; Times: 2
+	Query: "Turdus pallidus" ; Times: 9
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "AMNH 527817" ; Times: 1
+	Query: "Enicurus scouleri India" ; Times: 1
+	Query: "Turdus arthuri" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 7
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Ficedula superciliaris India" ; Times: 1
+	Query: "AMNH 584768" ; Times: 1
+	Query: "Indicator xanthonotus india" ; Times: 1
+	Query: "AMNH 765883" ; Times: 1
+	Query: "AMNH 531317" ; Times: 1
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "catalognumber:184572 institutioncode:AMNH" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "AMNH 720499" ; Times: 1
+	Query: "catalognumber:62170 institutioncode:AMNH" ; Times: 2
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "preparations:skeleton" ; Times: 1
+	Query: "amnh 99319" ; Times: 1
+	Query: "vntype:specimen specificepithet:montifringilla genus:Fringilla institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 314346" ; Times: 1
+	Query: "244897" ; Times: 1
+	Query: "genus:Schiffornis" ; Times: 1
+	Query: "Hylophylax" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 6
+	Query: "Turdus albocinctus India" ; Times: 1
+	Query: "Anser fabalis" ; Times: 5
+	Query: "genus:Melopsittacus hastissue:1" ; Times: 1
+	Query: "AMNH 207103" ; Times: 2
+	Query: "Anas platyrhynchos lifestage:immature sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Charadrius placidus" ; Times: 3
+	Query: "AMNH 196363" ; Times: 1
+	Query: "Amazilia violiceps" ; Times: 3
+	Query: "181465" ; Times: 1
+	Query: "Zenker Cameroon" ; Times: 1
+	Query: "specificepithet:cyanicollis genus:Galbula country:&#34;Peru&#34;" ; Times: 1
+	Query: "AMNH 445474" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubecula genus:Erithacus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Carpodacus institutioncode:AMNH" ; Times: 1
+	Query: "Phylloscopus tristis India" ; Times: 2
+	Query: "AMNH 527411" ; Times: 1
+	Query: "catalognumber:11749 institutioncode:AMNH" ; Times: 2
+	Query: "Melanocorypha bimaculata Kashmir" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 3
+	Query: "vntype:specimen specificepithet:frontalis genus:Sericornis institutioncode:AMNH" ; Times: 1
+	Query: "Strix leptogrammica india" ; Times: 1
+	Query: "catalognumber:11733 institutioncode:AMNH" ; Times: 2
+	Query: "Lampropsar tanagrinus" ; Times: 3
+	Query: "Athene cunicularia juninensis" ; Times: 1
+	Query: "Tinamus castaneiceps" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "vntype:specimen specificepithet:ludovicianus genus:Lanius institutioncode:AMNH" ; Times: 1
+	Query: "Nothocrax urumutum" ; Times: 3
+	Query: "AMNH 262138" ; Times: 1
+	Query: "Apus barbatus" ; Times: 3
+	Query: "Catreus wallichii" ; Times: 3
+	Query: "Dives dives" ; Times: 2
+	Query: "Phalacrocorax harrisi" ; Times: 4
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Buteo japonicus" ; Times: 4
+	Query: "Apus melba" ; Times: 7
+	Query: "631622" ; Times: 1
+	Query: "AMNH 749272" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "173737" ; Times: 1
+	Query: "Ficedula zanthopygia" ; Times: 5
+	Query: "Rimator malacoptilus india" ; Times: 1
+	Query: "Leucosticte brandti" ; Times: 8
+	Query: "AMNH 749071" ; Times: 1
+	Query: "Garrulax nuchalis india" ; Times: 1
+	Query: "AMNH R-103852" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 6
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "specificepithet:principalis genus:campephilus preparations:skeleton" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 3
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "AMNH 81193" ; Times: 1
+	Query: "AMNH 799009" ; Times: 2
+	Query: "AMNH 667860" ; Times: 3
+	Query: "sylvia cyrenaicae" ; Times: 1
+	Query: "AMNH 279277" ; Times: 1
+	Query: "Dicaeum erythrorhynchos India" ; Times: 1
+	Query: "vntype:specimen specificepithet:difficilis genus:Empidonax institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 552086" ; Times: 1
+	Query: "Crossoptilon harmani" ; Times: 3
+	Query: "Drepanornis" ; Times: 2
+	Query: "Emberiza rustica" ; Times: 8
+	Query: "Phalacrocorax magellanicus" ; Times: 4
+	Query: "AMNH 445787" ; Times: 1
+	Query: "AMNH 445783" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "catalognumber:166973 institutioncode:AMNH" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Locustella naevia India" ; Times: 1
+	Query: "catalognumber:94418 institutioncode:AMNH" ; Times: 3
+	Query: "AMNH 444433" ; Times: 1
+	Query: "AMNH 611520" ; Times: 1
+	Query: "Monticola gularis" ; Times: 4
+	Query: "vntype:specimen specificepithet:coronata genus:Paroaria institutioncode:AMNH" ; Times: 1
+	Query: "Paradigalla" ; Times: 1
+	Query: "AMNH 611298" ; Times: 1
+	Query: "specificepithet:goodfellowi genus:rhinomyias country:&#34;philippines&#34;" ; Times: 1
+	Query: "AMNH 254266" ; Times: 1
+	Query: "Abroscopus schisticeps india" ; Times: 1
+	Query: "genus:rhynchocyclus family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:cassini genus:Malimbus hastissue:1" ; Times: 2
+	Query: "specificepithet:chloronotus genus:Orthotomus" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "41044" ; Times: 2
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Schunke" ; Times: 1
+	Query: "Aethopyga gouldiae India" ; Times: 1
+	Query: "Lipaugus rufescens" ; Times: 1
+	Query: "Motacilla maderaspatensis India" ; Times: 1
+	Query: "AMNH 363255" ; Times: 2
+	Query: "Cyornis rubeculoides India" ; Times: 2
+	Query: "canirallus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cineraceus genus:Sturnus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 578872" ; Times: 1
+	Query: "AMNH 578873" ; Times: 1
+	Query: "AMNH 608063" ; Times: 1
+	Query: "vntype:specimen specificepithet:aeneus genus:Molothrus institutioncode:AMNH" ; Times: 1
+	Query: "Nesopsar nigerrimus" ; Times: 3
+	Query: "Garrulax rufogularis india" ; Times: 1
+	Query: "Buteo jamaicensis abieticola" ; Times: 1
+	Query: "AMNH 648712" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "AMNH 734620" ; Times: 2
+	Query: "AMNH 768956" ; Times: 4
+	Query: "Psittacula finschii india" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "Molothrus aeneus" ; Times: 2
+	Query: "AMNH 177230" ; Times: 1
+	Query: "Falco columbarius india" ; Times: 1
+	Query: "10650 family:Apodidae institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 531073" ; Times: 1
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "AMNH 531075" ; Times: 1
+	Query: "Molothrus ater" ; Times: 2
+	Query: "rallus striatus" ; Times: 3
+	Query: "AMNH 220603" ; Times: 1
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "AMNH 734753" ; Times: 2
+	Query: "569551" ; Times: 1
+	Query: "AMNH 283648" ; Times: 1
+	Query: "AMNH 283644" ; Times: 1
+	Query: "AMNH 811389" ; Times: 1
+	Query: "AMNH 686235" ; Times: 1
+	Query: "Urocissa flavirostris India" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "pterodroma arminjoniana" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Ficedula hyperythra India" ; Times: 1
+	Query: "AMNH 363125" ; Times: 1
+	Query: "Cyornis banyumas India" ; Times: 1
+	Query: "Turdus plebejus" ; Times: 9
+	Query: "AMNH 363122" ; Times: 1
+	Query: "vntype:specimen specificepithet:subcristata genus:Serpophaga institutioncode:AMNH" ; Times: 1
+	Query: "Microhierax caerulescens india" ; Times: 1
+	Query: "Amazona agilis" ; Times: 1
+	Query: "AMNH 269126" ; Times: 1
+	Query: "G.M. Henry vntype:specimen recordedby:G.M. Henry" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Quiscalus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:auroreus genus:Phoenicurus institutioncode:AMNH" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "1919 Loveridge Uganda" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitidus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigrogularis genus:Icterus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 646046" ; Times: 1
+	Query: "171739" ; Times: 2
+	Query: "AMNH 646040" ; Times: 1
+	Query: "23208" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Pauxi pauxi" ; Times: 3
+	Query: "AMNH 528161" ; Times: 1
+	Query: "AMNH 528163" ; Times: 1
+	Query: "vntype:specimen specificepithet:pica genus:Pica institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 528166" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "AMNH 343702" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Circus cyaneus india" ; Times: 1
+	Query: "class:Aves catalognumber:171739" ; Times: 1
+	Query: "Buteo hemilasius" ; Times: 6
+	Query: "country:&#34;Mexico&#34; institutioncode:AMNH" ; Times: 1
+	Query: "wing collection" ; Times: 1
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "Ochthoeca salvini" ; Times: 1
+	Query: "AMNH 258169" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Catharus guttatus" ; Times: 5
+	Query: "AMNH 549329" ; Times: 1
+	Query: "Sylviparus modestus India" ; Times: 1
+	Query: "153538" ; Times: 1
+	Query: "Geositta saxicolina" ; Times: 1
+	Query: "catalognumber:45933 institutioncode:AMNH" ; Times: 2
+	Query: "Anthus cervinus India" ; Times: 1
+	Query: "specificepithet:murina family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "pharomachrus antisianus" ; Times: 2
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza institutioncode:AMNH" ; Times: 1
+	Query: "Pycnonotus leucogenys India" ; Times: 1
+	Query: "bulweria fallax" ; Times: 1
+	Query: "AMNH 766021" ; Times: 1
+	Query: "pheucticus melanocephalus ludovicianus" ; Times: 2
+	Query: "AMNH 552479" ; Times: 1
+	Query: "Apus niansae" ; Times: 3
+	Query: "AMNH 324290" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "AMNH 446468" ; Times: 1
+	Query: "centropus jobiensis" ; Times: 1
+	Query: "aMNH 76260" ; Times: 1
+	Query: "Ficedula strophiata India" ; Times: 2
+	Query: "Monticola cinclorhyncha India" ; Times: 1
+	Query: "AMNH 547451" ; Times: 2
+	Query: "Anomalospiza imberbis" ; Times: 8
+	Query: "160588" ; Times: 1
+	Query: "Accipiter gularis india" ; Times: 1
+	Query: "Heterophasia capistrata india" ; Times: 2
+	Query: "vntype:specimen order:Perciformes class:Actinopterygii institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco institutioncode:AMNH" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Larus vegae" ; Times: 3
+	Query: "Leptoptilos dubius" ; Times: 1
+	Query: "AMNH 749214" ; Times: 1
+	Query: "Ceyx pictus" ; Times: 4
+	Query: "AMNH 108902" ; Times: 1
+	Query: "pterodroma neglecta year &gt;= 1989 year &lt;= 2019" ; Times: 1
+	Query: "AMNH 749041" ; Times: 1
+	Query: "AMNH 749042" ; Times: 1
+	Query: "Muscisaxicola fluviatilis" ; Times: 1
+	Query: "vntype:specimen genus:Busarellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanocephalus genus:Pheucticus institutioncode:AMNH" ; Times: 1
+	Query: "genus:Caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "AMNH 247477" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 9
+	Query: "Apus pacificus" ; Times: 7
+	Query: "Ketupa ketupu india" ; Times: 1
+	Query: "AMNH 803218" ; Times: 1
+	Query: "AMNH 560842" ; Times: 2
+	Query: "genus:psittacus hastissue:1" ; Times: 1
+	Query: "amnh 191350" ; Times: 1
+	Query: "AMNH 803214" ; Times: 1
+	Query: "puffinus assimilis kermadec" ; Times: 1
+	Query: "Lanius isabellinus India" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Turdus pelios" ; Times: 9
+	Query: "J. cuello" ; Times: 1
+	Query: "AMNH 552099" ; Times: 1
+	Query: "Carpodacus grandis" ; Times: 3
+	Query: "AMNH 604689" ; Times: 1
+	Query: "Numenius arquata India" ; Times: 1
+	Query: "AMNH 445791" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Oreomystis bairdi" ; Times: 3
+	Query: "order:Perciformes institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:lugubris genus:Quiscalus institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:94419 institutioncode:AMNH" ; Times: 3
+	Query: "AMNH 611516" ; Times: 1
+	Query: "AMNH 488517" ; Times: 1
+	Query: "Numenius phaeopus India" ; Times: 1
+	Query: "AMNH 488518" ; Times: 1
+	Query: "Halcyon coromanda india" ; Times: 1
+	Query: "AMNH 611518" ; Times: 1
+	Query: "Gampsorhynchus rufulus india" ; Times: 1
+	Query: "Apus affinis" ; Times: 3
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Terpsiphone viridis" ; Times: 4
+	Query: "AMNH 211494" ; Times: 1
+	Query: "Columba rupestris" ; Times: 3
+	Query: "AMNH 527286" ; Times: 1
+	Query: "AMNH 330586" ; Times: 1
+	Query: "AMNH 330587" ; Times: 1
+	Query: "AMNH 801782" ; Times: 1
+	Query: "AmnH 734662" ; Times: 2
+	Query: "vntype:specimen specificepithet:lineata genus:Acanthiza institutioncode:AMNH" ; Times: 1
+	Query: "lifestage:Adult sex:Male" ; Times: 1
+	Query: "specificepithet:noguchii genus:Sapheopipo" ; Times: 2
+	Query: "AMNH 283645" ; Times: 1
+	Query: "Poospiza thoracica" ; Times: 3
+	Query: "Leucopternis semiplumbeus" ; Times: 4
+	Query: "Hirundo smithii India" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 417263" ; Times: 1
+	Query: "Emberiza aureola India" ; Times: 1
+	Query: "AMNH 445989" ; Times: 1
+	Query: "Leucopternis kuhli" ; Times: 7
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 8
+	Query: "atrirostris" ; Times: 1
+	Query: "Prinia flaviventris India" ; Times: 1
+	Query: "specificepithet:murina genus:Xolmis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Aethopyga nipalensis India" ; Times: 2
+	Query: "Anthus similis India" ; Times: 1
+	Query: "vntype:specimen specificepithet:frugilegus genus:Corvus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 644619" ; Times: 1
+	Query: "sex:female" ; Times: 1
+	Query: "Phylloscopus maculipennis India" ; Times: 1
+	Query: "AMNH 539274" ; Times: 1
+	Query: "AMNH 539272" ; Times: 1
+	Query: "AMNH 410664" ; Times: 1
+	Query: "catalognumber:643394" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Buteo rufinus india" ; Times: 2
+	Query: "Dendrocopos mahrattensis india" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendi genus:Dendroica institutioncode:AMNH" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 12
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "Tyto alba tuidara" ; Times: 1
+	Query: "AMNH 362386" ; Times: 1
+	Query: "AMNH 768321" ; Times: 1
+	Query: "country:&#34;Paraguay&#34; (willim) year &gt;= 1941 month &gt;= 4" ; Times: 3
+	Query: "Psalidoprocne pristoptera" ; Times: 7
+	Query: "Vultur gryphus" ; Times: 11
+	Query: "pelecanoides garnotii" ; Times: 8
+	Query: "AMNH 224624" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "Leiothrix lutea india" ; Times: 2
+	Query: "AMNH 447677" ; Times: 1
+	Query: "taraba duidae" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 8
+	Query: "AMNH 527833" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "AMNH 527839" ; Times: 1
+	Query: "Ochthoeca poliogastra" ; Times: 1
+	Query: "specificepithet:rubrocapilla genus:Pipra country:&#34;Peru&#34; year &gt;= 1925 year &lt;= 1930" ; Times: 1
+	Query: "AMNH 624055" ; Times: 2
+	Query: "AMNH 324626" ; Times: 2
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "AMNH 624050" ; Times: 2
+	Query: "AMNH 624051" ; Times: 2
+	Query: "Tachycineta euchrysea" ; Times: 4
+	Query: "aMNH 230928" ; Times: 1
+	Query: "Quiscalus palustris" ; Times: 1
+	Query: "AMNH 528170" ; Times: 1
+	Query: "AMNH 528171" ; Times: 1
+	Query: "AMNH 749017" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "vntype:specimen specificepithet:coelebs genus:Fringilla institutioncode:AMNH" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 1
+	Query: "AMNH 407697" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "gypaetus" ; Times: 2
+	Query: "specificepithet:cinerea genus:Xolmis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Terpsiphone atrocaudata" ; Times: 4
+	Query: "AMNH 212051" ; Times: 1
+	Query: "AMNH 278652" ; Times: 1
+	Query: "AMNH 628778" ; Times: 1
+	Query: "Dendrocopos hyperythrus india" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanocorys genus:Calamospiza institutioncode:AMNH" ; Times: 1
+	Query: "AMNH" ; Times: 1
+	Query: "AMNH 451822" ; Times: 1
+	Query: "pseudocolopteryx" ; Times: 3
+	Query: "Colaptes fernandinae" ; Times: 17
+	Query: "Poospiza lateralis" ; Times: 3
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Pteruthius rufiventer India" ; Times: 1
+	Query: "AMNH 551822" ; Times: 1
+	Query: "AMNH 446676" ; Times: 1
+	Query: "AMNH 191304" ; Times: 2
+	Query: "AMNH 766015" ; Times: 1
+	Query: "todirostrum annectens" ; Times: 1
+	Query: "AMNH 766016" ; Times: 1
+	Query: "AMNH 703056" ; Times: 2
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "Anas penelope" ; Times: 11
+	Query: "vntype:specimen specificepithet:atricapilla genus:Zonotrichia institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:citrinella genus:Emberiza institutioncode:AMNH" ; Times: 1
+	Query: "Chionis minor" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruber genus:Phacellodomus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Coereba institutioncode:AMNH" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "AMNH 254066" ; Times: 1
+	Query: "specificepithet:insignis genus:rhinomyias country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:163323" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronoides genus:Corvus institutioncode:AMNH" ; Times: 1
+	Query: "Chondrohierax wilsoni" ; Times: 2
+	Query: "AMNH 808935" ; Times: 1
+	Query: "Apus unicolor" ; Times: 3
+	Query: "100852" ; Times: 2
+	Query: "streptopelia comorensis" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "Aquila rapax india" ; Times: 2
+	Query: "Amazona collaria" ; Times: 1
+	Query: "drepanis pacifica" ; Times: 2
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Acridotheres grandis India" ; Times: 1
+	Query: "genus:Buteo" ; Times: 1
+	Query: "AMNH strix occidentalis" ; Times: 1
+	Query: "Tarsiger chrysaeus India" ; Times: 1
+	Query: "AMNH 702989" ; Times: 1
+	Query: "catalognumber:196042 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 298573" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 205234" ; Times: 2
+	Query: "AMNH 604691" ; Times: 1
+	Query: "AMNH 604692" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "Apus horus" ; Times: 3
+	Query: "Pycnonotus bimaculatus" ; Times: 1
+	Query: "AMNH 387331" ; Times: 1
+	Query: "aethopyga owstoni" ; Times: 1
+	Query: "Sitta insularis" ; Times: 1
+	Query: "Transcaspian" ; Times: 1
+	Query: "AMNH 488504" ; Times: 1
+	Query: "Ploceus ocularis" ; Times: 8
+	Query: "Cyanochen cyanopterus" ; Times: 13
+	Query: "260158" ; Times: 2
+	Query: "Carpodacus erythrinus India" ; Times: 3
+	Query: "AMNH 254241" ; Times: 1
+	Query: "AMNH 254088" ; Times: 1
+	Query: "AMNH 254089" ; Times: 1
+	Query: "Ceyx argentatus" ; Times: 2
+	Query: "Vireo huttoni carolinae" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 5
+	Query: "Scolopax celebensis" ; Times: 1
+	Query: "Aegithalos concinnus india" ; Times: 2
+	Query: "AMNH 731278" ; Times: 2
+	Query: "Garrulax gularis india" ; Times: 1
+	Query: "Tyto alba furcata" ; Times: 1
+	Query: "class:Aves catalognumber:61477" ; Times: 1
+	Query: "AMNH 703109" ; Times: 1
+	Query: "Tickellia hodgsoni india" ; Times: 1
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "Acrocephalus orientalis India" ; Times: 1
+	Query: "AMNH 528410" ; Times: 1
+	Query: "AMNH 417270" ; Times: 1
+	Query: "AMNH 417271" ; Times: 1
+	Query: "Turdus eunomus India" ; Times: 1
+	Query: "Quiscalus quiscula" ; Times: 2
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "AMNH 647710" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:Phainopepla institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 173246" ; Times: 1
+	Query: "Perdicula manipurensis" ; Times: 1
+	Query: "AMNH 173241" ; Times: 1
+	Query: "vntype:specimen specificepithet:psaltria genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 539269" ; Times: 1
+	Query: "vntype:specimen specificepithet:ludoviciana genus:Piranga institutioncode:AMNH" ; Times: 1
+	Query: "preparations:Skeleton" ; Times: 1
+	Query: "AMNH 446543" ; Times: 1
+	Query: "AMNH 644621" ; Times: 1
+	Query: "Elminia longicauda" ; Times: 4
+	Query: "vntype:specimen specificepithet:splendens genus:Corvus institutioncode:AMNH" ; Times: 1
+	Query: "colius leucophthalmus" ; Times: 2
+	Query: "Leucopternis princeps" ; Times: 4
+	Query: "catalognumber:92723 institutioncode:AMNH" ; Times: 2
+	Query: "Gallinago andina" ; Times: 1
+	Query: "AMNH 269125" ; Times: 1
+	Query: "vntype:specimen specificepithet:thalassina genus:Tachycineta institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:cedrorum genus:Bombycilla institutioncode:AMNH" ; Times: 1
+	Query: "Cettia brunnifrons india" ; Times: 1
+	Query: "AMNH 678010" ; Times: 1
+	Query: "AMNH 678013" ; Times: 1
+	Query: "AMNH 731059" ; Times: 2
+	Query: "AMNH 238810" ; Times: 2
+	Query: "Garrulax caerulatus india" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "passerina cyanea vntype:specimen" ; Times: 1
+	Query: "Chrysomus thilius" ; Times: 2
+	Query: "AMNH 362399" ; Times: 1
+	Query: "AMNH 576157" ; Times: 1
+	Query: "G.M. Henry" ; Times: 1
+	Query: "280599" ; Times: 1
+	Query: "catalognumber:12080 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 434261" ; Times: 2
+	Query: "264497" ; Times: 1
+	Query: "Syrmaticus humiae" ; Times: 3
+	Query: "AMNH 159243" ; Times: 1
+	Query: "280600" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 5
+	Query: "AMNH 34295" ; Times: 1
+	Query: "333703" ; Times: 1
+	Query: "AMNH 250899" ; Times: 1
+	Query: "Hemicircus india" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "AMNH 693825" ; Times: 1
+	Query: "AMNH 693822" ; Times: 1
+	Query: "Zoothera monticola india" ; Times: 1
+	Query: "Dicaeum trigonostigma" ; Times: 4
+	Query: "Quelea quelea" ; Times: 8
+	Query: "Tachyeres brachypterus" ; Times: 6
+	Query: "amnh 769952" ; Times: 1
+	Query: "Pheucticus ludovicianus melanocephalus" ; Times: 1
+	Query: "Buteo solitarius" ; Times: 4
+	Query: "Corvus pectoralis" ; Times: 9
+	Query: "Pomatorhinus ruficollis india" ; Times: 1
+	Query: "genus:Colaptes class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Metallura eupogon" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 2
+	Query: "AMNH 185249" ; Times: 2
+	Query: "Prinia sylvatica India" ; Times: 2
+	Query: "AMNH 487919" ; Times: 1
+	Query: "AMNH 549490" ; Times: 1
+	Query: "AMNH 549494" ; Times: 1
+	Query: "AMNH 278649" ; Times: 2
+	Query: "Cephalopyrus flammiceps India" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "AMNH 278647" ; Times: 1
+	Query: "AMNH 644615" ; Times: 1
+	Query: "AMNH 242609" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 4
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "cacomantis meeki" ; Times: 2
+	Query: "Aegithalos leucogenys" ; Times: 6
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "AMNH 269140" ; Times: 1
+	Query: "Cladorhynchus leucocephalus" ; Times: 2
+	Query: "AMNH 269147" ; Times: 1
+	Query: "AMNH 812106" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gramineus genus:Pooecetes institutioncode:AMNH" ; Times: 1
+	Query: "genus:caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "AMNH 59100" ; Times: 1
+	Query: "catalognumber:62172 institutioncode:AMNH" ; Times: 1
+	Query: "262413" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 3
+	Query: "Emberiza flaviventris" ; Times: 3
+	Query: "claravis geoffroyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:coccothraustes genus:Coccothraustes institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 787713" ; Times: 1
+	Query: "AMNH 787712" ; Times: 1
+	Query: "AMNH 787714" ; Times: 1
+	Query: "vntype:specimen specificepithet:torquatus genus:Cracticus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 314399" ; Times: 1
+	Query: "Chaetoptila angustipluma" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 3
+	Query: "AMNH 749029" ; Times: 1
+	Query: "Hemicircus canente india" ; Times: 1
+	Query: "AMNH 749025" ; Times: 1
+	Query: "Emberiza leucocephalos" ; Times: 8
+	Query: "vntype:specimen specificepithet:pilaris genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "AMNH 194362" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Ansell" ; Times: 1
+	Query: "AMNH 247491" ; Times: 1
+	Query: "ramphocinclus" ; Times: 1
+	Query: "AMNH 247495" ; Times: 1
+	Query: "specificepithet:petechia country:&#34;mexico&#34; hastissue:1" ; Times: 6
+	Query: "genus:Junco institutioncode:AMNH" ; Times: 1
+	Query: "Criniger ochraceus" ; Times: 4
+	Query: "specificepithet:obscurus genus:Myadestes" ; Times: 2
+	Query: "AMNH 702994" ; Times: 1
+	Query: "AMNH 255435" ; Times: 1
+	Query: "AMNH 696357" ; Times: 1
+	Query: "AMNH 211483" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "AMNH 255439" ; Times: 1
+	Query: "specificepithet:tombacea genus:Galbula country:&#34;Peru&#34; year &gt;= 1925 year &lt;= 1930" ; Times: 2
+	Query: "AMNH 125377" ; Times: 1
+	Query: "Eophona migratoria" ; Times: 8
+	Query: "AMNH 788042" ; Times: 1
+	Query: "Karnovsky" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:miller year &gt;= 1896 year &lt;= 1897" ; Times: 3
+	Query: "AMNH 334597" ; Times: 1
+	Query: "AMNH 334592" ; Times: 1
+	Query: "AMNH 216904" ; Times: 2
+	Query: "catalognumber:161845 institutioncode:AMNH" ; Times: 2
+	Query: "vireo" ; Times: 2
+	Query: "Garrulax perspicillatus" ; Times: 3
+	Query: "Rallus aquaticus korejewi" ; Times: 1
+	Query: "vntype:specimen specificepithet:daurica genus:Hirundo institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen genus:Mesembrinibis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pelecanus crispus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "genus:contopus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Alcedo meninting country:&#34;India&#34;" ; Times: 1
+	Query: "AMNH 113795" ; Times: 1
+	Query: "AMNH 445753" ; Times: 1
+	Query: "AMNH 731062" ; Times: 2
+	Query: "Ploceus manyar India" ; Times: 1
+	Query: "Phalacrocorax featherstoni" ; Times: 4
+	Query: "173504" ; Times: 1
+	Query: "specificepithet:obscurus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:cyanirostris genus:Knipolegus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "Tyto alba nigrescens" ; Times: 1
+	Query: "locality:samarai island" ; Times: 1
+	Query: "Athene cunicularia nanodes" ; Times: 1
+	Query: "AMNH 528402" ; Times: 1
+	Query: "AMNH 362562" ; Times: 1
+	Query: "AMNH 180212" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 3
+	Query: "specificepithet:ruficeps genus:orthotomus country:&#34;philippines&#34;" ; Times: 1
+	Query: "AMNH 611402" ; Times: 1
+	Query: "AMNH 611401" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:lalage country:&#34;philippines&#34;" ; Times: 2
+	Query: "specificepithet:griseocephalus genus:Dendropicos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 5
+	Query: "wizard" ; Times: 2
+	Query: "Hypsipetes amaurotis" ; Times: 4
+	Query: "Phylloscopus occipitalis India" ; Times: 1
+	Query: "Prinia rufescens Assam India" ; Times: 1
+	Query: "vntype:specimen specificepithet:merula genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "family:Emberizidae hastissue:1" ; Times: 1
+	Query: "Garrulax galbanus india" ; Times: 1
+	Query: "AMNH 611304" ; Times: 1
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Foudia hastissue:1" ; Times: 1
+	Query: "specificepithet:taczanowskii genus:podiceps" ; Times: 1
+	Query: "specificepithet:nigricans family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:garrulus genus:Bombycilla institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:hypoleuca genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lanius vittatus India" ; Times: 2
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 9
+	Query: "Thalassarche melanophris" ; Times: 1
+	Query: "hassex:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:verticalis genus:Tyrannus institutioncode:AMNH" ; Times: 1
+	Query: "Stercorarius maccormicki" ; Times: 2
+	Query: "Ardea alba" ; Times: 9
+	Query: "genus:rhinomyias country:&#34;philippines&#34;" ; Times: 2
+	Query: "bicknelli vntype:specimen" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 4
+	Query: "aMNH 98252" ; Times: 1
+	Query: "Tyto capensis" ; Times: 1
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "Columba jouyi" ; Times: 3
+	Query: "Ninox superciliaris" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "catalognumber:11754 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 410674" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:24665 institutioncode:AMNH" ; Times: 2
+	Query: "Phoenicurus hodgsoni India" ; Times: 1
+	Query: "Myiarchus erythrocercus" ; Times: 2
+	Query: "genus:Anodorhynchus" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 4
+	Query: "ploceus maxwelli" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 3
+	Query: "Aix galericulata" ; Times: 2
+	Query: "specificepithet:palustris genus:Quiscalus institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "L. canus" ; Times: 6
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "AMNH 488221" ; Times: 1
+	Query: "AMNH 730484" ; Times: 2
+	Query: "AMNH 598086" ; Times: 2
+	Query: "AMNH 644962" ; Times: 1
+	Query: "specificepithet:viridis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Tragopan temminckii" ; Times: 7
+	Query: "vntype:specimen specificepithet:neglecta genus:Sturnella institutioncode:AMNH" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "Coturnix coromandelica" ; Times: 1
+	Query: "vntype:specimen specificepithet:tolmiei genus:Oporornis institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen genus:Milvago class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "AMNH 786278" ; Times: 1
+	Query: "Anthus richardi India" ; Times: 1
+	Query: "AMNH 549481" ; Times: 1
+	Query: "AMNH 132491" ; Times: 1
+	Query: "AMNH 786277" ; Times: 1
+	Query: "111653" ; Times: 1
+	Query: "pachyptila desolata kerguelen" ; Times: 2
+	Query: "AMNH 733227" ; Times: 2
+	Query: "Tyto alba hellmayri" ; Times: 1
+	Query: "AMNH 189724" ; Times: 1
+	Query: "catalognumber:102477 institutioncode:AMNH" ; Times: 2
+	Query: "Davison jerdoni" ; Times: 1
+	Query: "Eophona personata" ; Times: 8
+	Query: "AMNH-235434" ; Times: 1
+	Query: "specificepithet:severus genus:falco country:&#34;philippines&#34;" ; Times: 1
+	Query: "Lymnocryptes minimus" ; Times: 2
+	Query: "Amazilia rutila" ; Times: 7
+	Query: "specificepithet:xanthonotus genus:oriolus country:&#34;philippines&#34;" ; Times: 1
+	Query: "AMNH 585459" ; Times: 1
+	Query: "AMNH 656570" ; Times: 2
+	Query: "Ketupa zeylonensis india" ; Times: 1
+	Query: "Honda Japan" ; Times: 2
+	Query: "Lipaugus unirufus mexico" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "AMNH 254179" ; Times: 2
+	Query: "AMNH 191679" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 5
+	Query: "genus:Agapornis hastissue:1" ; Times: 2
+	Query: "AMNH 346237" ; Times: 1
+	Query: "vntype:specimen specificepithet:fuscus genus:Pipilo institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 233806" ; Times: 1
+	Query: "vntype:specimen specificepithet:sinica genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "recordedby:price year &gt;= 1896 year &lt;= 1897" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Passer montanus India" ; Times: 2
+	Query: "Rallus wetmorei" ; Times: 1
+	Query: "AMNH 424983" ; Times: 1
+	Query: "vntype:specimen specificepithet:serripennis genus:Stelgidopteryx institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 207099" ; Times: 2
+	Query: "AMNH 207098" ; Times: 1
+	Query: "vntype:specimen recordedby:Picchi" ; Times: 1
+	Query: "AMNH 207090" ; Times: 1
+	Query: "vntype:specimen specificepithet:tristis genus:Carduelis institutioncode:AMNH" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "specificepithet:tyrannus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Gallinago imperialis" ; Times: 1
+	Query: "Seicercus burkii" ; Times: 4
+	Query: "AMNH 606905" ; Times: 2
+	Query: "vntype:specimen specificepithet:celata genus:Vermivora institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 487187" ; Times: 1
+	Query: "Anthus campestris India" ; Times: 2
+	Query: "(49095)" ; Times: 1
+	Query: "AMNH 487180" ; Times: 1
+	Query: "AMNH 216758" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "AMNH 763765" ; Times: 2
+	Query: "vntype:specimen specificepithet:viscivorus genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 193169" ; Times: 1
+	Query: "Ortalis cinereiceps" ; Times: 3
+	Query: "AMNH 247484" ; Times: 1
+	Query: "AMNH 531338" ; Times: 1
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 193164" ; Times: 1
+	Query: "AMNH 71903" ; Times: 1
+	Query: "strigops" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 4
+	Query: "ploceus neumanni" ; Times: 4
+	Query: "Phyllastrephus icterinus" ; Times: 4
+	Query: "aMNH 71901" ; Times: 1
+	Query: "Phylloscopus canariensis" ; Times: 4
+	Query: "AMNH 222139" ; Times: 1
+	Query: "Aplonis panayensis india" ; Times: 1
+	Query: "AMNH 527347" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Circus pygargus india" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "AMNH 624053" ; Times: 2
+	Query: "Piranga hepatica" ; Times: 5
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia institutioncode:AMNH" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "AMNH 216914" ; Times: 1
+	Query: "AMNH 216915" ; Times: 1
+	Query: "AMNH 216916" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "puffinus bannermani" ; Times: 1
+	Query: "skeleton juvenile family:podicipedidae" ; Times: 3
+	Query: "AMNH 703016" ; Times: 2
+	Query: "genus:antilophia" ; Times: 1
+	Query: "AMNH 792906" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "specificepithet:maracana country:&#34;Argentina&#34;" ; Times: 4
+	Query: "Amazilia beryllina" ; Times: 3
+	Query: "vntype:specimen specificepithet:tigrinus genus:Lanius institutioncode:AMNH" ; Times: 1
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Tringa guttifer" ; Times: 1
+	Query: "India leucogenys" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "catalognumber:17746 institutioncode:AMNH" ; Times: 2
+	Query: "catalognumber:107309 institutioncode:AMNH" ; Times: 2
+	Query: "Minla cyanouroptera" ; Times: 3
+	Query: "AMNH 44011" ; Times: 2
+	Query: "Acridotheres ginginianus India" ; Times: 2
+	Query: "vntype:specimen specificepithet:lateralis genus:Zosterops institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 550868" ; Times: 1
+	Query: "AMNH 51783" ; Times: 1
+	Query: "skeleton family:podicipedidae lifestage:juvenile" ; Times: 1
+	Query: "Pycnonotus taivanus" ; Times: 4
+	Query: "AMNH 417256" ; Times: 1
+	Query: "catalognumber:190641 institutioncode:AMNH" ; Times: 2
+	Query: "pasquieri" ; Times: 2
+	Query: "AMNH 444453" ; Times: 2
+	Query: "Motacilla cinerea" ; Times: 5
+	Query: "AMNH 268928" ; Times: 2
+	Query: "AMNH 268924" ; Times: 2
+	Query: "vntype:specimen specificepithet:melanocephala genus:Manorina institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:63993 institutioncode:AMNH" ; Times: 1
+	Query: "Pnoepyga pusilla India" ; Times: 3
+	Query: "Acrocephalus concinens India" ; Times: 1
+	Query: "Hypocnemis lepidonota" ; Times: 1
+	Query: "catalognumber:74498 institutioncode:AMNH" ; Times: 2
+	Query: "Anas diazi" ; Times: 4
+	Query: "AMNH 566408" ; Times: 1
+	Query: "AMNH 173916" ; Times: 1
+	Query: "AMNH 566404" ; Times: 1
+	Query: "AMNH 800598" ; Times: 1
+	Query: "AMNH 110850" ; Times: 2
+	Query: "AMNH 211520" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "Agapornis nigrigenis" ; Times: 1
+	Query: "Apus apus pekinensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:galbula genus:Icterus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 96427" ; Times: 1
+	Query: "268489" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Apalis flavida" ; Times: 4
+	Query: "catalognumber:269509 institutioncode:AMNH" ; Times: 1
+	Query: "Mitu tuberosa" ; Times: 3
+	Query: "catalognumber:631622" ; Times: 1
+	Query: "AMNH 531632" ; Times: 2
+	Query: "specificepithet:nigrogularis genus:clytorhynchus" ; Times: 1
+	Query: "locality:Stoneman" ; Times: 1
+	Query: "catalognumber:161839 institutioncode:AMNH" ; Times: 2
+	Query: "platyrinchus nattereri" ; Times: 1
+	Query: "Circus melanoleucos" ; Times: 4
+	Query: "AMNH 528612" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "maracana" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "AMNH 528217" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "AMNH 528214" ; Times: 1
+	Query: "AMNH 528218" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Sayornis institutioncode:AMNH" ; Times: 1
+	Query: "aMNH 41461" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctulata genus:Lonchura institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Aphelocoma institutioncode:AMNH" ; Times: 1
+	Query: "Anser albifrons" ; Times: 10
+	Query: "AMNH 215392" ; Times: 1
+	Query: "Loxioides bailleui" ; Times: 3
+	Query: "AMNH 488236" ; Times: 1
+	Query: "AMNH 191517" ; Times: 1
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "bonasa umbellus" ; Times: 1
+	Query: "AMNH 211037" ; Times: 1
+	Query: "Motacilla alba" ; Times: 5
+	Query: "AMNH 527882" ; Times: 1
+	Query: "Heterophasia pulchella india" ; Times: 1
+	Query: "AMNH 289306" ; Times: 1
+	Query: "Spizella passerina" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus institutioncode:AMNH" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 15
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "AMNH 500867" ; Times: 1
+	Query: "Tyranniscus griseiceps" ; Times: 1
+	Query: "Empidonax Schaldach" ; Times: 1
+	Query: "genus:luscinia country:&#34;philippines&#34;" ; Times: 1
+	Query: "144863" ; Times: 1
+	Query: "AMNH 71341" ; Times: 1
+	Query: "AMNH 527404" ; Times: 1
+	Query: "84344" ; Times: 1
+	Query: "AMNH 222650" ; Times: 1
+	Query: "Phylloscopus forresti" ; Times: 4
+	Query: "oceanodroma matsudairae AMNH" ; Times: 1
+	Query: "Brachypteryx cruralis India" ; Times: 1
+	Query: "specificepithet:nigerrimus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "AMNH 451813" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 2
+	Query: "Anas falcata" ; Times: 13
+	Query: "Tichodroma muraria india" ; Times: 1
+	Query: "AMNH 349297" ; Times: 1
+	Query: "AMNH 50331" ; Times: 1
+	Query: "vntype:specimen specificepithet:paradisi genus:Terpsiphone institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 349293" ; Times: 1
+	Query: "Baeopogon indicator" ; Times: 4
+	Query: "AMNH 693801" ; Times: 1
+	Query: "AMNH 294351" ; Times: 1
+	Query: "AMNH 693803" ; Times: 1
+	Query: "AMNH 693805" ; Times: 1
+	Query: "AMNH 693804" ; Times: 1
+	Query: "Diglossa brunneiventris" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco institutioncode:AMNH" ; Times: 1
+	Query: "Cinclus pallasii india" ; Times: 1
+	Query: "chloropsis flavipennis" ; Times: 1
+	Query: "AMNH 549100" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "AMNH 748443" ; Times: 1
+	Query: "genus:branta specificepithet:canadensis" ; Times: 1
+	Query: "AMNH 744907" ; Times: 2
+	Query: "specificepithet:major genus:Parus country:&#34;Germany&#34;" ; Times: 1
+	Query: "Calandrella brachydactyla India" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "AMNH 628776" ; Times: 1
+	Query: "country:&#34;Rhodesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:glaucus genus:anodorhynchus" ; Times: 1
+	Query: "AMNH 171710" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "catalognumber:190656 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 650601" ; Times: 1
+	Query: "Aythya ferina" ; Times: 11
+	Query: "AMNH 334615" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Aratinga acuticaudata" ; Times: 3
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Heliopais personata" ; Times: 1
+	Query: "Zoothera dauma india" ; Times: 1
+	Query: "cinclus minor" ; Times: 1
+	Query: "199167" ; Times: 2
+	Query: "vntype:specimen specificepithet:tapera genus:Progne institutioncode:AMNH" ; Times: 1
+	Query: "Hymenolaimus malacorhynchos" ; Times: 11
+	Query: "833324" ; Times: 1
+	Query: "AMNH 254188" ; Times: 1
+	Query: "AMNH 594370" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 15
+	Query: "napothera bakeri" ; Times: 1
+	Query: "Gallinago nigripennis angolensis" ; Times: 1
+	Query: "AMNH 446550" ; Times: 1
+	Query: "genus:tolmomyias family:Tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Dendrocitta frontalis India" ; Times: 1
+	Query: "Veracruz mirador mexico" ; Times: 2
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "locality:bahía de banderas" ; Times: 4
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "vntype:specimen specificepithet:migratorius genus:Turdus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 22650" ; Times: 1
+	Query: "Pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "asio flammeus india" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucophrys genus:Zonotrichia institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 703021" ; Times: 2
+	Query: "Amazilia viridicauda" ; Times: 3
+	Query: "AMNH 270889" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "vntype:specimen specificepithet:caeruleus genus:Myophonus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 703029" ; Times: 2
+	Query: "Larus atricilla" ; Times: 6
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Cochoa purpurea India" ; Times: 1
+	Query: "catalognumber:37404 institutioncode:AMNH" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "vntype:specimen specificepithet:grammacus genus:Chondestes institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Furnarius institutioncode:AMNH" ; Times: 1
+	Query: "Gecinulus grantia india" ; Times: 1
+	Query: "catalognumber:532749 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 652924" ; Times: 2
+	Query: "Gorsachius goisagi" ; Times: 9
+	Query: "Podoces hendersoni" ; Times: 8
+	Query: "Anhinga rufa" ; Times: 7
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "catalognumber:72475 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 527797" ; Times: 1
+	Query: "Dicaeum agile India" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "AMNH 211731" ; Times: 1
+	Query: "Synallaxis kollari" ; Times: 1
+	Query: "Gallinago nigripennis nigripennis" ; Times: 1
+	Query: "Hemispingus frontalis" ; Times: 2
+	Query: "AMNH 63839" ; Times: 1
+	Query: "catalognumber:96237 institutioncode:AMNH" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "vntype:specimen specificepithet:bicolor genus:Tiaris institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:diops genus:Hemitriccus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoeniceus genus:Agelaius institutioncode:AMNH" ; Times: 1
+	Query: "Scolopax saturata" ; Times: 1
+	Query: "Muscicapa ferruginea India" ; Times: 1
+	Query: "AMNH 488331" ; Times: 1
+	Query: "AMNH 686243" ; Times: 1
+	Query: "AMNH 488339" ; Times: 1
+	Query: "catalognumber:161822 institutioncode:AMNH" ; Times: 1
+	Query: "Melamprosops phaeosoma" ; Times: 3
+	Query: "AMNH 211601" ; Times: 1
+	Query: "AMNH 211603" ; Times: 1
+	Query: "40612" ; Times: 2
+	Query: "Ortalis guttata" ; Times: 3
+	Query: "AMNH 159214" ; Times: 2
+	Query: "AMNH 528207" ; Times: 1
+	Query: "AMNH 193574" ; Times: 1
+	Query: "Turdus unicolor India" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "Cettia major India" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:Contopus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 528684" ; Times: 1
+	Query: "catalognumber:45148 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 528682" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Hirundo institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:malimbicus genus:Malimbus hastissue:1" ; Times: 1
+	Query: "114601 institutioncode:AMNH" ; Times: 2
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: "AMNH 434342" ; Times: 1
+	Query: "Petrochelidon fluvicola India" ; Times: 1
+	Query: "AMNH 319716" ; Times: 1
+	Query: "Cyornis poliogenys India" ; Times: 1
+	Query: "AMNH 528336" ; Times: 1
+	Query: "AMNH otus spilocephalus" ; Times: 1
+	Query: "Prinia cinereocapilla India" ; Times: 1
+	Query: "40578" ; Times: 2
+	Query: "vntype:specimen specificepithet:jacarina genus:Volatinia institutioncode:AMNH" ; Times: 1
+	Query: "Apus bradfieldi" ; Times: 3
+	Query: "Phoenicurus ochruros" ; Times: 4
+	Query: "Burhinus indicus" ; Times: 1
+	Query: "Aceros waldeni" ; Times: 4
+	Query: "AMNH 549359" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 4
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis institutioncode:AMNH" ; Times: 1
+	Query: "Microhierax melanoleucos india" ; Times: 1
+	Query: "vntype:specimen specificepithet:petechia genus:Dendroica institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:bendirei genus:Toxostoma institutioncode:AMNH" ; Times: 1
+	Query: "811713" ; Times: 1
+	Query: "AMNH 265435" ; Times: 2
+	Query: "Rallus madagascariensis" ; Times: 1
+	Query: "AMNH 265436" ; Times: 1
+	Query: "AMNH 410650" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "AMNH 693817" ; Times: 1
+	Query: "206916" ; Times: 1
+	Query: "cyanolimnas cerverai" ; Times: 1
+	Query: "AMNH 407765" ; Times: 1
+	Query: "AMNH 296842" ; Times: 1
+	Query: "Phoenicurus schisticeps India" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "AMNH 346745" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 2
+	Query: "calamonastes undosus" ; Times: 1
+	Query: "AMNH 483020" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoenicurus genus:Phoenicurus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 51870" ; Times: 1
+	Query: "Oceanodroma furcata hastissue:1" ; Times: 1
+	Query: "catalognumber:161824 institutioncode:AMNH" ; Times: 2
+	Query: "Sitta pusilla insularis" ; Times: 2
+	Query: "specificepithet:sericeus genus:orthotomus country:&#34;philippines&#34;" ; Times: 3
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "Phalacrocorax fuscescens" ; Times: 4
+	Query: "AMNH 487899" ; Times: 2
+	Query: "AMNH 269657" ; Times: 1
+	Query: "Tor tor" ; Times: 9
+	Query: "AMNH 363783" ; Times: 1
+	Query: "AMNH 749014" ; Times: 1
+	Query: "Phylloscopus armandii" ; Times: 9
+	Query: "catalognumber:66572 institutioncode:AMNH" ; Times: 2
+	Query: "Muscicapa sibirica India" ; Times: 2
+	Query: "AMNH 749019" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 9
+	Query: "Syma torotoro" ; Times: 3
+	Query: "specificepithet:chloromeros genus:Pipra country:&#34;Peru&#34; year &gt;= 1925 year &lt;= 1930" ; Times: 1
+	Query: "Apus pallidus" ; Times: 3
+	Query: "AMNH 254190" ; Times: 1
+	Query: "AMNH 254191" ; Times: 2
+	Query: "AMNH 150290" ; Times: 1
+	Query: "Lophonetta specularioides" ; Times: 6
+	Query: "Dicaeum chrysorrheum India" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "Grus monacha" ; Times: 1
+	Query: "AMNH 388609" ; Times: 1
+	Query: "surniculus dicruroides" ; Times: 2
+	Query: "AMNH 446541" ; Times: 1
+	Query: "AMNH 446542" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 4
+	Query: "AMNH 654285" ; Times: 2
+	Query: "Accipiter nisus" ; Times: 7
+	Query: "Turdus bewsheri" ; Times: 1
+	Query: "corvus enca" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "specificepithet:erythronota" ; Times: 1
+	Query: "preparations:Skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Criniger chloronotus" ; Times: 4
+	Query: "AMNH 424857" ; Times: 3
+	Query: "seicercus tephrocephalus India" ; Times: 1
+	Query: "AMNH 703522" ; Times: 1
+	Query: "Tyto alba contempta" ; Times: 1
+	Query: "Apus caffer" ; Times: 3
+	Query: "catalognumber:161823 institutioncode:AMNH" ; Times: 4
+	Query: "semipalmata minnesota" ; Times: 1
+	Query: "Tachyeres leucocephalus" ; Times: 6
+	Query: "chrysophorus" ; Times: 1
+	Query: "22916" ; Times: 2
+	Query: "AMNH 415294" ; Times: 1
+	Query: "Oreophasis derbianus" ; Times: 4
+	Query: "AMNH 788362" ; Times: 1
+	Query: "tichodroma muraria" ; Times: 1
+	Query: "Chionis alba" ; Times: 3
+	Query: "Turdus merula" ; Times: 14
+	Query: "vntype:specimen specificepithet:cucullatus genus:Icterus institutioncode:AMNH" ; Times: 1
+	Query: "Phalacrocorax neglectus" ; Times: 4
+	Query: "AMNH 800591" ; Times: 1
+	Query: "Monticola rufiventris India" ; Times: 1
+	Query: "AMNH 611301" ; Times: 1
+	Query: "AMNH 611302" ; Times: 1
+	Query: "AMNH 789140" ; Times: 1
+	Query: "AMNH 446522" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Zosterops luteirostris" ; Times: 2
+	Query: "168093" ; Times: 1
+	Query: "Heterophasia gracilis india" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "AMNH 527780" ; Times: 1
+	Query: "AMNH 527783" ; Times: 1
+	Query: "AMNH 611122" ; Times: 1
+	Query: "institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:aberti genus:Pipilo institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 424984" ; Times: 1
+	Query: "Oceanodroma leucorhoa hastissue:1" ; Times: 1
+	Query: "AMNH 211724" ; Times: 1
+	Query: "AMNH 424980" ; Times: 1
+	Query: "Heterophasia melanoleuca" ; Times: 3
+	Query: "phyllastrephus icterinus" ; Times: 8
+	Query: "Troglodytes troglodytes" ; Times: 2
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "AMNH 528102" ; Times: 2
+	Query: "AMNH 231614" ; Times: 1
+	Query: "Rhea americana" ; Times: 3
+	Query: "AMNH 552004" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:polyosoma genus:Buteo country:&#34;Peru&#34;" ; Times: 1
+	Query: "pussy" ; Times: 1
+	Query: "Liosceles erithacus" ; Times: 1
+	Query: "Pnoepyga albiventer India" ; Times: 2
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "specificepithet:amethystina genus:Calliphlox country:&#34;Peru&#34;" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "AMNH 488329" ; Times: 1
+	Query: "Cinnycerthia Junin" ; Times: 1
+	Query: "phaethornis hyalinus" ; Times: 1
+	Query: "aMNH 73347" ; Times: 1
+	Query: "AMNH 754991" ; Times: 1
+	Query: "AMNH 488327" ; Times: 1
+	Query: "AMNH 734044" ; Times: 2
+	Query: "AMNH 79979" ; Times: 1
+	Query: "AMNH 734049" ; Times: 2
+	Query: "Arborophila atrogularis" ; Times: 2
+	Query: "Circus macrourus india" ; Times: 1
+	Query: "AMNH 644793" ; Times: 1
+	Query: "aMNH 76060" ; Times: 2
+	Query: "oceanites oceanicus antarctica" ; Times: 1
+	Query: "833323" ; Times: 1
+	Query: "AMNH 684433" ; Times: 1
+	Query: "aMNH 78049" ; Times: 1
+	Query: "aMNH 78048" ; Times: 2
+	Query: "vntype:specimen specificepithet:saya genus:Sayornis institutioncode:AMNH" ; Times: 1
+	Query: "aMNH 78047" ; Times: 1
+	Query: "aMNH 78046" ; Times: 1
+	Query: "vntype:specimen order:Perciformes class:Actinopterygii collectioncode:birds institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "catalognumber:96234 institutioncode:AMNH" ; Times: 2
+	Query: "Asarcornis scutulata" ; Times: 4
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "AMNH 221629" ; Times: 1
+	Query: "vntype:specimen specificepithet:peregrina genus:Vermivora institutioncode:AMNH" ; Times: 1
+	Query: "aMNH 76276" ; Times: 1
+	Query: "vntype:specimen specificepithet:inornata genus:Prinia institutioncode:AMNH" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "Anthus trivialis India" ; Times: 2
+	Query: "Pitta anerythra" ; Times: 1
+	Query: "Pomatorhinus ochraceiceps india" ; Times: 1
+	Query: "class:aves locality:deserto" ; Times: 1
+	Query: "Garrulus bispecularis India" ; Times: 1
+	Query: "Conirostrum albifrons" ; Times: 3
+	Query: "vntype:specimen specificepithet:brachydactyla genus:Certhia institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:160831 institutioncode:AMNH" ; Times: 2
+	Query: "zosterops mindorensis" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "AMNH 189773" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "G.M. Henry vntype:specimen" ; Times: 1
+	Query: "catalognumber:96236 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 703268" ; Times: 2
+	Query: "Hirundo concolor India" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "Amazilia lactea" ; Times: 4
+	Query: "AMNH 289564" ; Times: 1
+	Query: "AMNH 289567" ; Times: 2
+	Query: "Buteo rufofuscus" ; Times: 4
+	Query: "AMNH 644807" ; Times: 1
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "vntype:specimen specificepithet:sinensis genus:Pycnonotus institutioncode:AMNH" ; Times: 1
+	Query: "Cyornis unicolor India" ; Times: 1
+	Query: "AMNH 415848" ; Times: 1
+	Query: "AMNH 139892" ; Times: 1
+	Query: "AMNH 611296" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Recurvirostra avosetta" ; Times: 2
+	Query: "Falco jugger india" ; Times: 1
+	Query: "AMNH 407773" ; Times: 1
+	Query: "specificepithet:major genus:podiceps (skeleton)" ; Times: 1
+	Query: "simoni genus:Synallaxis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 169 (out of 1171 download events in this period)
+Total number of records downloaded: 23675
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: United States ; Times: 119
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 10
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 22
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-22 ; Times: 14
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-20 ; Times: 9
+	Date: 2020-04-07 ; Times: 7
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 15
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-27 ; Times: 21
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-18 ; Times: 10
+	Date: 2020-04-13 ; Times: 4
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 13
+	Date: 2020-04-16 ; Times: 13
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "specificepithet:maracana country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Athene cunicularia nanodes" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Gallinago andina" ; Times: 1
+	Query: "Tyto manusi" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Myrmotherula cherriei" ; Times: 1
+	Query: "Tyto alba hellmayri" ; Times: 2
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "Gallinago nigripennis angolensis" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Turdus ignobilis arthuri" ; Times: 1
+	Query: "Rallus tenuirostris" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Gallinago nemoricola" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "class:Aves country:&#34;Italy&#34; continent:Europe year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "canirallus" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Cameroon&#34; OR &#34;Cameroun&#34; OR &#34;Kamerun&#34; continent:Africa" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Tyto alba insularis" ; Times: 1
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "Gallinago gallinago faeroeensis" ; Times: 1
+	Query: "Tyto aurantia" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "Tyto alba contempta" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Tyto novaehollandiae" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Synallaxis kollari" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:erythronota" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 2
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "family:Emberizidae hastissue:1" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Tyto sororcula" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Gallinago macrodactyla" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Scolopax saturata" ; Times: 1
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 1
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "Nipponia nippon" ; Times: 2
+	Query: "Zonotrichia querula Texas" ; Times: 1
+	Query: "Burhinus bistriatus vocifer" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+	Query: "Campylorhynchus griseus" ; Times: 1
+	Query: "lurocalis" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Tyto inexspectata" ; Times: 1
+	Query: "Athene brama" ; Times: 1
+	Query: "Gallinago hardwickii" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Scolopax mira" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Amazona collaria" ; Times: 1
+	Query: "Aves Jammu" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Tyto capensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Tyto alba tuidara" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "Rallus wetmorei" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "Athene cunicularia brachyptera" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "vntype:specimen specificepithet:bridgesii genus:Drymornis institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Burhinus indicus" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 2
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Butler" ; Times: 1
+	Query: "AMNH; Junco Hyemalis" ; Times: 1
+	Query: "Rhytipterna immunda" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Gallinago imperialis" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Gallinago stricklandii" ; Times: 1
+	Query: "hypothymis coelestis" ; Times: 1
+	Query: "Calidris fuscicollis Texas" ; Times: 1
+	Query: "Tyto alba bargei" ; Times: 1
+	Query: "phyllastrephus icterinus" ; Times: 1
+	Query: "Rallus antarcticus" ; Times: 1
+	Query: "Scolopax celebensis" ; Times: 1
+	Query: "Campylorhynchus griseus griseus" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Tyto alba furcata" ; Times: 1
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Rallus caerulescens" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "Gallinago media" ; Times: 1
+	Query: "Zonotrichia albicollis Texas" ; Times: 1
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "Rallus madagascariensis" ; Times: 1
+	Query: "Amazona agilis" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Tyto alba nigrescens" ; Times: 1
+
+
+End of report.
