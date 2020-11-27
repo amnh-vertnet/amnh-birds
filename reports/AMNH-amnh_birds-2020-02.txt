@@ -1,0 +1,1639 @@
+Report for Institution Code AMNH, Resource amnh_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2439
+Number of records retrieved in searches: 36972
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 78
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 29
+	Country: Ireland ; Times: 2
+	Country: Argentina ; Times: 11
+	Country: Norway ; Times: 6
+	Country: Australia ; Times: 12
+	Country: Singapore ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 365
+	Country: Denmark ; Times: 14
+	Country: Belgium ; Times: 2
+	Country: Netherlands ; Times: 10
+	Country: Gambia ; Times: 2
+	Country: United States ; Times: 1253
+	Country: Sweden ; Times: 40
+	Country: Switzerland ; Times: 9
+	Country: Russia ; Times: 11
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 289
+	Country: Uruguay ; Times: 12
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 237
+	Country: Austria ; Times: 8
+	Country: Colombia ; Times: 4
+	Country: Paraguay ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 198
+	Date: 2020-02-23 ; Times: 47
+	Date: 2020-02-02 ; Times: 9
+	Date: 2020-02-03 ; Times: 75
+	Date: 2020-02-26 ; Times: 97
+	Date: 2020-02-01 ; Times: 18
+	Date: 2020-02-20 ; Times: 138
+	Date: 2020-02-21 ; Times: 183
+	Date: 2020-02-22 ; Times: 22
+	Date: 2020-02-05 ; Times: 54
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 21
+	Date: 2020-02-28 ; Times: 59
+	Date: 2020-02-29 ; Times: 67
+	Date: 2020-02-11 ; Times: 105
+	Date: 2020-02-10 ; Times: 58
+	Date: 2020-02-13 ; Times: 111
+	Date: 2020-02-12 ; Times: 93
+	Date: 2020-02-15 ; Times: 11
+	Date: 2020-02-14 ; Times: 47
+	Date: 2020-02-17 ; Times: 42
+	Date: 2020-02-16 ; Times: 24
+	Date: 2020-02-19 ; Times: 223
+	Date: 2020-02-18 ; Times: 123
+	Date: 2020-02-24 ; Times: 131
+	Date: 2020-02-25 ; Times: 129
+	Date: 2020-02-27 ; Times: 166
+	Date: 2020-02-06 ; Times: 15
+	Date: 2020-02-07 ; Times: 168
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves continent:Africa recordedby:Spatz" ; Times: 1
+	Query: "spilornis cheela vntype:specimen locality:borneo year &lt;= 2020" ; Times: 1
+	Query: "AMNH 125388" ; Times: 1
+	Query: "AMNH 600948" ; Times: 1
+	Query: "220092" ; Times: 1
+	Query: "3 hassex:1" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "AMNH 601383" ; Times: 2
+	Query: "AMNH 601385" ; Times: 1
+	Query: "panamensis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 598058" ; Times: 2
+	Query: "AMNH 562707" ; Times: 2
+	Query: "241456" ; Times: 1
+	Query: "Illadopsis albipectus" ; Times: 2
+	Query: "amnh 728114" ; Times: 1
+	Query: "amnh 451813" ; Times: 1
+	Query: "AMNH 653374" ; Times: 2
+	Query: "236 hassex:1" ; Times: 1
+	Query: "catalognumber:211687" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "AMNH 191608" ; Times: 1
+	Query: "536389" ; Times: 1
+	Query: "AMNH 673578" ; Times: 2
+	Query: "128589" ; Times: 1
+	Query: "253952" ; Times: 1
+	Query: "specificepithet:castaneiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus" ; Times: 1
+	Query: "specificepithet:hypogrammicum hastissue:1" ; Times: 1
+	Query: "accipiter rhodogaster vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 3
+	Query: "vntype:specimen catalognumber:188298 institutioncode:AMNH" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 2
+	Query: "amnh 675181" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 7
+	Query: "170 hassex:1" ; Times: 2
+	Query: "53 hassex:1" ; Times: 1
+	Query: "247462" ; Times: 1
+	Query: "AMNH 659762" ; Times: 5
+	Query: "AMNH 702343" ; Times: 1
+	Query: "pterodroma leucoptera fiji" ; Times: 1
+	Query: "103 hassex:1" ; Times: 1
+	Query: "amnh 801180" ; Times: 1
+	Query: "167 hassex:1" ; Times: 2
+	Query: "278489" ; Times: 1
+	Query: "AMNH 43392" ; Times: 1
+	Query: "AMNH 43390" ; Times: 1
+	Query: "stresemannia bougainvillei amnh" ; Times: 1
+	Query: "catalognumber:831469 institutioncode:AMNH" ; Times: 2
+	Query: "70808" ; Times: 1
+	Query: "euplectes angolensis" ; Times: 1
+	Query: "specificepithet:locustella family:Estrildidae" ; Times: 1
+	Query: "AMNH 697062" ; Times: 2
+	Query: "145 hassex:1" ; Times: 2
+	Query: "243161" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "1625" ; Times: 1
+	Query: "fulmarus greenland" ; Times: 2
+	Query: "class:aves catalognumber:29154 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "177 hassex:1" ; Times: 1
+	Query: "192 hassex:1" ; Times: 1
+	Query: "278665" ; Times: 1
+	Query: "275435" ; Times: 1
+	Query: "Henicopernis vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 608362" ; Times: 2
+	Query: "AMNH 608364" ; Times: 3
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "AMNH 684408" ; Times: 2
+	Query: "263772" ; Times: 1
+	Query: "263775" ; Times: 1
+	Query: "accipiter atricapillus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:coromanda genus:halcyon hastissue:1" ; Times: 1
+	Query: "catalognumber:806601 institutioncode:AMNH" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1951 year &lt;= 2020 institutioncode:AMNH" ; Times: 3
+	Query: "catalognumber:591956 institutioncode:AMNH" ; Times: 2
+	Query: "genus: Mesitornis hastissue:1" ; Times: 1
+	Query: "804738 institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1901 year &lt;= 1950 institutioncode:AMNH" ; Times: 1
+	Query: "242092" ; Times: 1
+	Query: "Astrapia rothschildi" ; Times: 1
+	Query: "specificepithet:ruficeps genus:orthotomus hastissue:1" ; Times: 1
+	Query: "AMNH 600752" ; Times: 2
+	Query: "spilornis kinabaluensis institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:melanolophus genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "AMNH 1342" ; Times: 1
+	Query: "AMNH 606537" ; Times: 3
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "catalognumber:198806 institutioncode:AMNH" ; Times: 2
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:alex walker" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "AMNH 600972" ; Times: 2
+	Query: "217680" ; Times: 1
+	Query: "AMNH 606753" ; Times: 4
+	Query: "specificepithet:teesa genus:Butastur hastissue:1" ; Times: 1
+	Query: "173 hassex:1" ; Times: 1
+	Query: "leptodon vntype:specimen country:&#34;brazil&#34; year &lt;= 2020" ; Times: 1
+	Query: "116 hassex:1" ; Times: 2
+	Query: "AMNH 695688" ; Times: 2
+	Query: "specificepithet:oorti hastissue:1" ; Times: 2
+	Query: "catalognumber:408248 institutioncode:AMNH" ; Times: 1
+	Query: "rallus wetmorei" ; Times: 8
+	Query: "AMNH 604701" ; Times: 2
+	Query: "297172" ; Times: 1
+	Query: "297173" ; Times: 1
+	Query: "spilornis klossi institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 653367" ; Times: 2
+	Query: "AMNH 50292" ; Times: 1
+	Query: "728114" ; Times: 1
+	Query: "specificepithet:monileger genus:Ficedula" ; Times: 2
+	Query: "puffinus persicus" ; Times: 5
+	Query: "aviceda madagascariensis vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 673562" ; Times: 1
+	Query: "recordedby:&#34;W. Day&#34; institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:psittacula genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "208 hassex:1" ; Times: 1
+	Query: "specificepithet:flavogaster genus:Elaenia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Amazilia viridifrons" ; Times: 2
+	Query: "AMNH 809806" ; Times: 2
+	Query: "172160" ; Times: 1
+	Query: "AMNH 809808" ; Times: 1
+	Query: "AMNH 809809" ; Times: 1
+	Query: "LSU 5803" ; Times: 1
+	Query: "accipiter nanus institutioncode:AMNH" ; Times: 1
+	Query: "aplonis brunneicapillus" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "specificepithet:burkii genus:Seicercus hastissue:1" ; Times: 3
+	Query: "AMNH 703298" ; Times: 3
+	Query: "monarcha menckei" ; Times: 1
+	Query: "AMNH 703291" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 4
+	Query: "oceanites oceanicus australia" ; Times: 1
+	Query: "176521 institutioncode:AMNH" ; Times: 1
+	Query: "accipiter gundlachi institutioncode:AMNH" ; Times: 2
+	Query: "98 hassex:1" ; Times: 1
+	Query: "vntype:specimen genus:Trichothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "210 hassex:1" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "AMNH 703181" ; Times: 5
+	Query: "768798 institutioncode:AMNH" ; Times: 1
+	Query: "pachyptila crassirostris" ; Times: 1
+	Query: "174 hassex:1" ; Times: 1
+	Query: "specificepithet:leucolaemus genus:odontophorus institutioncode:AMNH" ; Times: 1
+	Query: "mappable:1 year&gt;=1970 year&lt;=2020 month&gt;=1 month&lt;=2 day&gt;=1 day&lt;=15" ; Times: 31
+	Query: "Pernis celebensis vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 4
+	Query: "AMNH 703056" ; Times: 2
+	Query: "albiclunis" ; Times: 1
+	Query: "AMNH 703501" ; Times: 1
+	Query: "Neochen jubata" ; Times: 2
+	Query: "AMNH 278665" ; Times: 2
+	Query: "21 hassex:1" ; Times: 1
+	Query: "182 hassex:1" ; Times: 1
+	Query: "Pelagodroma marina kermadec" ; Times: 1
+	Query: "101 hassex:1" ; Times: 1
+	Query: "63 hassex:1" ; Times: 1
+	Query: "class:aves locality:kolyma recordedby:buturlin" ; Times: 1
+	Query: "accipiter RHODOGASTER institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:melanotis genus:odontophorus institutioncode:AMNH" ; Times: 1
+	Query: "Circaetus beaudovini vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "megapodius freycinet gebe" ; Times: 1
+	Query: "spizaetus floris institutioncode:AMNH" ; Times: 1
+	Query: "accipiter erythrauchen vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:334562 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:teesa Butastur hastissue:1" ; Times: 1
+	Query: "fulmarus bear" ; Times: 1
+	Query: "242421" ; Times: 1
+	Query: "AMNH 343781" ; Times: 2
+	Query: "AMNH 343782" ; Times: 2
+	Query: "AMNH 653879" ; Times: 3
+	Query: "39343" ; Times: 1
+	Query: "fulmarus glacialis bear" ; Times: 1
+	Query: "spilornis cheela institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 553570" ; Times: 3
+	Query: "AMNH 553571" ; Times: 2
+	Query: "AMNH 727964" ; Times: 2
+	Query: "&#34;Cyanolimnas cerverai&#34;" ; Times: 4
+	Query: "AMNH 156937" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia hastissue:1" ; Times: 1
+	Query: "181791 institutioncode:AMNH" ; Times: 1
+	Query: "233 hassex:1" ; Times: 1
+	Query: "Neotis nuba" ; Times: 1
+	Query: "catalognumber:10205 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 144987" ; Times: 1
+	Query: "728127" ; Times: 1
+	Query: "728122" ; Times: 1
+	Query: "728129" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "picoides arcticus" ; Times: 2
+	Query: "anthus chacoensis" ; Times: 1
+	Query: "11 hassex:1" ; Times: 1
+	Query: "AMNH 674706" ; Times: 1
+	Query: "specificepithet:parva genus:Porzana hastissue:1" ; Times: 2
+	Query: "accipiter trinotatus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 2
+	Query: "13 hassex:1" ; Times: 1
+	Query: "AMNH 600638" ; Times: 2
+	Query: "preparations:fluid" ; Times: 1
+	Query: "phoeniconaias minor" ; Times: 1
+	Query: "150 hassex:1" ; Times: 2
+	Query: "289 hassex:1" ; Times: 1
+	Query: "49 hassex:1" ; Times: 1
+	Query: "209 hassex:1" ; Times: 1
+	Query: "152 hassex:1" ; Times: 2
+	Query: "specificepithet:seebohmi genus:cettia country:&#34;philippines&#34;" ; Times: 1
+	Query: "16 hassex:1" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Xingu country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Penelope pileata" ; Times: 2
+	Query: "170267" ; Times: 1
+	Query: "catalognumber:198822 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:grandis genus:niltava hastissue:1" ; Times: 1
+	Query: "184512" ; Times: 1
+	Query: "326 hassex:1" ; Times: 1
+	Query: "catalognumber:534014 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 1
+	Query: "AMNH 673556" ; Times: 2
+	Query: "AMNH 673550" ; Times: 2
+	Query: "oceanites exasperatus" ; Times: 2
+	Query: "specificepithet:melanospila genus:ptilinopus country:&#34;philippines&#34;" ; Times: 1
+	Query: "AMNH 600961" ; Times: 2
+	Query: "Amazilia cyanura" ; Times: 4
+	Query: "buteo bannermani institutioncode:AMNH" ; Times: 1
+	Query: "ARCHILOCHUS ALEXANDRI year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "Oceanites galapagos" ; Times: 3
+	Query: "AMNH 601215" ; Times: 2
+	Query: "259264" ; Times: 2
+	Query: "154450" ; Times: 1
+	Query: "AMNH 14987" ; Times: 1
+	Query: "38 hassex:1" ; Times: 2
+	Query: "AMNH 683498" ; Times: 1
+	Query: "AMNH 673047" ; Times: 4
+	Query: "accipiter novaehollandiae year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 703268" ; Times: 2
+	Query: "catalognumber:40973 institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen catalognumber:192223 institutioncode:AMNH" ; Times: 1
+	Query: "genus:Melospiza" ; Times: 1
+	Query: "247798" ; Times: 1
+	Query: "AMNH 728082" ; Times: 2
+	Query: "33 hassex:1" ; Times: 1
+	Query: "Pharomachrus" ; Times: 2
+	Query: "specificepithet:paradiseus genus:dicrurus hastissue:1" ; Times: 1
+	Query: "neopelma pallescens mato grosso" ; Times: 2
+	Query: "72 hassex:1" ; Times: 1
+	Query: "catalognumber:DOT-15345 institutioncode:AMNH" ; Times: 1
+	Query: "tissue" ; Times: 2
+	Query: "catalognumber:255141 institutioncode:AMNH" ; Times: 2
+	Query: "institutioncode:amnh" ; Times: 1
+	Query: "AMNH 651462" ; Times: 2
+	Query: "AMNH 210684" ; Times: 1
+	Query: "Tyrannidae" ; Times: 1
+	Query: "recordedby:Day institutioncode:AMNH" ; Times: 1
+	Query: "48 hassex:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "genus:Opisthocomus hastissue:1" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 1
+	Query: "AMNH 338078" ; Times: 1
+	Query: "AMNH 338079" ; Times: 1
+	Query: "Podilymbus gigas" ; Times: 2
+	Query: "230 hassex:1" ; Times: 1
+	Query: "AMNH 703086" ; Times: 2
+	Query: "amnh 586864" ; Times: 1
+	Query: "catharus bicknelli institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "158 hassex:1" ; Times: 2
+	Query: "AMNH 608347" ; Times: 1
+	Query: "dendroica kirtlandii bahamas" ; Times: 1
+	Query: "locality:Chaupi " ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "astrapia nigra" ; Times: 2
+	Query: "cinclodes year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "neochen jubata" ; Times: 10
+	Query: "puffinus bailloni" ; Times: 1
+	Query: "AMNH 565964" ; Times: 2
+	Query: "90 hassex:1" ; Times: 1
+	Query: "pterodroma galapagos" ; Times: 3
+	Query: "AMNH 600935" ; Times: 2
+	Query: "813158 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 606354" ; Times: 2
+	Query: "AMNH 727687" ; Times: 1
+	Query: "AMNH 727685" ; Times: 1
+	Query: "AMNH 727684" ; Times: 1
+	Query: "specificepithet:malaccensis genus:Malacocincla hastissue:1" ; Times: 1
+	Query: "AMNH 727688" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "144987" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:chariessa genus:apalis" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "astrapia splendidissima" ; Times: 14
+	Query: "728131" ; Times: 1
+	Query: "genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phoenicurus hodgsoni" ; Times: 3
+	Query: "AMNH 803934" ; Times: 1
+	Query: "specificepithet:cyanopectus genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "catalognumber:270383" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 1
+	Query: "374760" ; Times: 1
+	Query: "puffinus reunion" ; Times: 1
+	Query: "184265" ; Times: 1
+	Query: "buteo archeri vntype:specimen (somaliland) year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:382474" ; Times: 1
+	Query: "buteo buteo country:&#34;South Africa&#34; institutioncode:AMNH" ; Times: 1
+	Query: "229994" ; Times: 2
+	Query: "Ortygospiza atricollis" ; Times: 6
+	Query: "Abeillia abeillei" ; Times: 5
+	Query: "myiagra vanikorensis" ; Times: 2
+	Query: "catalognumber:434066 institutioncode:AMNH" ; Times: 2
+	Query: "224 hassex:1" ; Times: 1
+	Query: "accipiter collaris institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 701030" ; Times: 2
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "286917" ; Times: 1
+	Query: "Gallus varius" ; Times: 2
+	Query: "286919" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "canadensis" ; Times: 1
+	Query: "porzana spiloptera" ; Times: 3
+	Query: "chondrohierax vntype:specimen country:&#34;cuba&#34; year &gt;= 1910 year &lt;= 2020" ; Times: 2
+	Query: "pterodroma ecuador" ; Times: 1
+	Query: "Cacicus solitarius" ; Times: 2
+	Query: "specificepithet:capistratum genus:pellorneum hastissue:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 18
+	Query: "genus:Ficedula country:&#34;indonesia&#34;" ; Times: 1
+	Query: "accipiter butleri institutioncode:AMNH" ; Times: 1
+	Query: "chondrohierax wilsoni vntype:specimen year &gt;= 1910 year &lt;= 2020" ; Times: 1
+	Query: "habroptila wallacii" ; Times: 12
+	Query: "vntype:specimen specificepithet:versicolor genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:6619 institutioncode:AMNH" ; Times: 3
+	Query: "catalognumber:40980 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 673050" ; Times: 2
+	Query: "AMNH 673053" ; Times: 2
+	Query: "circus hudsonius institutioncode:AMNH" ; Times: 3
+	Query: "221957" ; Times: 1
+	Query: "AMNH 334509" ; Times: 2
+	Query: "19835" ; Times: 1
+	Query: "fulmarus arctic" ; Times: 2
+	Query: "catalognumber:453935 institutioncode:AMNH" ; Times: 1
+	Query: "Cinclodes fuscus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "Zonerodius heliosylus" ; Times: 1
+	Query: "catalognumber:40981 institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "aviceda jerdoni institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 178319" ; Times: 3
+	Query: "catalognumber:128859 institutioncode:AMNH" ; Times: 1
+	Query: "24 hassex:1" ; Times: 1
+	Query: "milvus aegyptius institutioncode:AMNH" ; Times: 1
+	Query: "puffinus pacificus kermadec hastissue:1" ; Times: 1
+	Query: "pachyptila falkland" ; Times: 2
+	Query: "class:Aves catalognumber:654564" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "Buteo buteo rothschildi" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "catalognumber:396409 institutioncode:AMNH" ; Times: 1
+	Query: "Hylonympha" ; Times: 2
+	Query: "AMNH 587910" ; Times: 2
+	Query: "AMNH 600574" ; Times: 2
+	Query: "country:&#34;United States&#34;" ; Times: 1
+	Query: "Macrosphenus kretschmeri" ; Times: 1
+	Query: "AMNH 703305" ; Times: 2
+	Query: "275640" ; Times: 1
+	Query: "AMNH 697056" ; Times: 2
+	Query: "specificepithet:pipra genus:pipra institutioncode:AMNH" ; Times: 2
+	Query: "226046" ; Times: 1
+	Query: "226047" ; Times: 1
+	Query: "Sitta carolinensis lagunae" ; Times: 1
+	Query: "31 hassex:1" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Numenius class:AVES stateprovince:&#34;Connecticut&#34; country:&#34;United States&#34; institutioncode:AMNH" ; Times: 1
+	Query: "117 hassex:1" ; Times: 2
+	Query: "epimachus fastuosus" ; Times: 1
+	Query: "184 hassex:1" ; Times: 1
+	Query: "54 hassex:1" ; Times: 1
+	Query: "daption snares" ; Times: 3
+	Query: "steatornis" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "class:Aves country:&#34;Papua New Guinea&#34; continent:Oceania institutioncode:AMNH" ; Times: 1
+	Query: "35 hassex:1" ; Times: 1
+	Query: "accipiter hiogaster institutioncode:AMNH" ; Times: 2
+	Query: "Cercomela scotocerca" ; Times: 3
+	Query: "11383 amnh" ; Times: 1
+	Query: "amnh 210695" ; Times: 2
+	Query: "333788" ; Times: 1
+	Query: "myiozetetes cayanensis" ; Times: 1
+	Query: "accipiter henicogrammus institutioncode:AMNH" ; Times: 1
+	Query: "85104 birds" ; Times: 1
+	Query: "AMNH 122083" ; Times: 1
+	Query: "genus:Brachypteryx country:&#34;indonesia&#34; hastissue:1" ; Times: 1
+	Query: "Anairetes parulus" ; Times: 1
+	Query: "Pteruthius flaviscapis nepal" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Araguaia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "skeleton vntype:specimen" ; Times: 2
+	Query: "country:&#34;Australia&#34; recordedby:W. Day institutioncode:AMNH" ; Times: 2
+	Query: "falco sparvarius" ; Times: 1
+	Query: "AMNH 343698" ; Times: 2
+	Query: "cathartidae" ; Times: 1
+	Query: "puffinus assimilis western australia" ; Times: 1
+	Query: "buteo archeri vntype:specimen (somaliland) year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:40974 institutioncode:AMNH" ; Times: 1
+	Query: "amnh 162514" ; Times: 1
+	Query: "accipiter chilensis vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "242112" ; Times: 1
+	Query: "JM 1119" ; Times: 2
+	Query: "AMNH 653023" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 6
+	Query: "AMNH 721804" ; Times: 2
+	Query: "astrapia rothschildi" ; Times: 2
+	Query: "Carpodacus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:AMNH" ; Times: 2
+	Query: "aquila hastata institutioncode:AMNH" ; Times: 1
+	Query: "59 hassex:1" ; Times: 1
+	Query: "adamana aves" ; Times: 1
+	Query: "94 hassex:1" ; Times: 1
+	Query: "aviceda leuphotes institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 607969" ; Times: 2
+	Query: "amnh 2622" ; Times: 1
+	Query: "locality:Cordillera del Condor country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "AMNH 601521" ; Times: 2
+	Query: "AMNH 601520" ; Times: 3
+	Query: "AMNH 601523" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1900 year &lt;= 1930" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 13
+	Query: "Calandrella acutirostris" ; Times: 2
+	Query: "55 hassex:1" ; Times: 1
+	Query: "puffinus comoros" ; Times: 3
+	Query: "280 hassex:1" ; Times: 1
+	Query: "241965" ; Times: 1
+	Query: "AMNH 205605" ; Times: 1
+	Query: "amnh 203447" ; Times: 1
+	Query: "specificepithet:atrifrons genus:odontophorus institutioncode:AMNH" ; Times: 1
+	Query: "Leptasthenura aegithaloides year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "locality:Sumaco  " ; Times: 1
+	Query: "AMNH 27454" ; Times: 1
+	Query: "Tikasingh" ; Times: 2
+	Query: "specificepithet:nitidissima genus:chlorochrysa" ; Times: 5
+	Query: "Coenocorypha" ; Times: 1
+	Query: "vntype:specimen genus:LANIO class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "86 hassex:1" ; Times: 2
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "Zosterops murphyi" ; Times: 3
+	Query: "catalognumber:141793" ; Times: 1
+	Query: "7 hassex:1" ; Times: 1
+	Query: "Nystalus chacun" ; Times: 1
+	Query: "168 hassex:1" ; Times: 2
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "AMNH 597847" ; Times: 2
+	Query: "chatham albatross" ; Times: 1
+	Query: "class:aves catalognumber:156995" ; Times: 2
+	Query: "vntype:specimen hastissue:1" ; Times: 4
+	Query: "aquila hastata india" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "Macheiramphus alcinus institutioncode:AMNH" ; Times: 1
+	Query: "122925" ; Times: 1
+	Query: "genus:Mesitornis hastissue:1" ; Times: 1
+	Query: "169 hassex:1" ; Times: 2
+	Query: "14846" ; Times: 2
+	Query: "325 hassex:1" ; Times: 1
+	Query: "193888" ; Times: 1
+	Query: "20 hassex:1" ; Times: 1
+	Query: "226052" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "AMNH 577672" ; Times: 2
+	Query: "PANDION cristatus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 709926" ; Times: 2
+	Query: "AMNH 789130" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "catalognumber:474719 institutioncode:AMNH" ; Times: 1
+	Query: "accipiter novaehollandiae hastissue:1" ; Times: 1
+	Query: "ampelion rubrocristata" ; Times: 1
+	Query: "AMNH 600488" ; Times: 2
+	Query: "class:Aves country:&#34;Trinidad&#34; year &gt;= 1965 year &lt;= 1967 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 811226" ; Times: 1
+	Query: "333790" ; Times: 1
+	Query: "Pelagodroma marina albiclunis" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34; recordedby:Mearns" ; Times: 1
+	Query: "leptodon cayanensis institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 42065" ; Times: 2
+	Query: "vntype:specimen specificepithet:versicolor class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "onychorhynchus coronatus" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "AMNH 345180" ; Times: 2
+	Query: "catalognumber:354530 institutioncode:AMNH" ; Times: 1
+	Query: "42 hassex:1" ; Times: 1
+	Query: "AMNH 415818" ; Times: 2
+	Query: "43 hassex:1" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "728117" ; Times: 1
+	Query: "27725" ; Times: 2
+	Query: "156 hassex:1" ; Times: 2
+	Query: "728113" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus institutioncode:AMNH" ; Times: 1
+	Query: "46 hassex:1" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 7
+	Query: "catalognumber:396441 institutioncode:AMNH" ; Times: 1
+	Query: "ramphocinclus" ; Times: 1
+	Query: "amnh 113004" ; Times: 1
+	Query: "AMNH 653747" ; Times: 3
+	Query: "AMNH 653745" ; Times: 2
+	Query: "polyboroides radiatus institutioncode:AMNH" ; Times: 1
+	Query: "Heliangelus regalis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "megapodius freycinet w papua" ; Times: 1
+	Query: "amnh 589716" ; Times: 1
+	Query: "148 hassex:1" ; Times: 2
+	Query: "daption new zealand" ; Times: 3
+	Query: "AMNH 607973" ; Times: 1
+	Query: "vntype:specimen specificepithet:luctuosus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "221428" ; Times: 1
+	Query: "pandion haliaetus ridgwayi institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;ethiopia&#34; recordedby:saphiro year &gt;= 1902 year &lt;= 1915" ; Times: 1
+	Query: "AMNH 783308" ; Times: 1
+	Query: "specificepithet:pyrolophus genus:psilopogon hastissue:1" ; Times: 1
+	Query: "aviceda leuphotes vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:columba genus:Cepphus family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "accipiter madagascariensis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 601532" ; Times: 2
+	Query: "AMNH 9566" ; Times: 1
+	Query: "Megatriorchis doriae institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "166 hassex:1" ; Times: 2
+	Query: "181285" ; Times: 1
+	Query: "AMNH 600930" ; Times: 2
+	Query: "trogon brazil tissue" ; Times: 1
+	Query: "celebensis genus:pernis institutioncode:AMNH" ; Times: 1
+	Query: "sylvietta denti" ; Times: 3
+	Query: "accipiter rhodogaster vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "sylvietta philippae" ; Times: 1
+	Query: "specificepithet:bougainvillei genus:Stresemannia institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:viridicata family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "oceanites gracilis" ; Times: 5
+	Query: "accipiter butleri vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "332849" ; Times: 1
+	Query: "puffinus tunneyi" ; Times: 1
+	Query: "catalognumber:10226 institutioncode:AMNH" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 1
+	Query: "202 hassex:1" ; Times: 1
+	Query: "AMNH 147126" ; Times: 1
+	Query: "(window strike ) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spilornis klossi vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "Oceanodroma los coronados" ; Times: 2
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 8
+	Query: "genus:Sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:alcyon genus:Megaceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "accipiter griseiceps vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:sumatranus genus:tanygnathus country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:surinamus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "128087" ; Times: 1
+	Query: "genus:Phyllomyias family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "50 hassex:1" ; Times: 1
+	Query: "Saxicola macrorhynchus vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alex Walker" ; Times: 1
+	Query: "Macrosphenus concolor" ; Times: 1
+	Query: "AMNH 559449" ; Times: 1
+	Query: "AMNH 703250" ; Times: 2
+	Query: "AMNH 559446" ; Times: 1
+	Query: "AMNH 559444" ; Times: 1
+	Query: "AMNH 559445" ; Times: 1
+	Query: "amnh 264451" ; Times: 3
+	Query: "vntype:specimen specificepithet:pileata genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "AMNH 577665" ; Times: 2
+	Query: "113 hassex:1" ; Times: 2
+	Query: "AMNH 226255" ; Times: 2
+	Query: "amnh 297173" ; Times: 1
+	Query: "191582" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "190692" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "Brachypteryx hyperythra vntype:specimen" ; Times: 1
+	Query: "176095" ; Times: 1
+	Query: "prionops alberti" ; Times: 2
+	Query: "255198" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1850 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Melidora" ; Times: 1
+	Query: "189994" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "Junco bairdi" ; Times: 1
+	Query: "168967" ; Times: 1
+	Query: "265898" ; Times: 1
+	Query: "specificepithet:cassinii stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "322 hassex:1" ; Times: 1
+	Query: "AMNH 600786" ; Times: 2
+	Query: "Anairetes parulus year &gt; 1985 NOT CLO" ; Times: 1
+	Query: "198 hassex:1" ; Times: 1
+	Query: "22 hassex:1" ; Times: 1
+	Query: "154 hassex:1" ; Times: 2
+	Query: "AMNH 334508" ; Times: 2
+	Query: "235 hassex:1" ; Times: 1
+	Query: "14 hassex:1" ; Times: 1
+	Query: "237931" ; Times: 1
+	Query: "amnh 200264" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 2
+	Query: "AMNH 822915" ; Times: 1
+	Query: "45 hassex:1" ; Times: 1
+	Query: "fulmarus glacialis russia" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "288 hassex:1" ; Times: 1
+	Query: "AMNH 781689" ; Times: 1
+	Query: "Falco sparvarius" ; Times: 1
+	Query: "camptorhynchus" ; Times: 1
+	Query: "Polioptila albiventris vntype:specimen" ; Times: 7
+	Query: "anthus correndera" ; Times: 1
+	Query: "yanacensis NOT CLO" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "5 hassex:1" ; Times: 1
+	Query: "225994" ; Times: 2
+	Query: "year&gt;=1970 year&lt;=2020 month&gt;=1 month&lt;=2 day&gt;=1 day&lt;=15" ; Times: 195
+	Query: "oceanites oceanicus exasperatus" ; Times: 2
+	Query: "73559" ; Times: 1
+	Query: "206 hassex:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 2
+	Query: "vireo bellii new mexico hastissue:1" ; Times: 2
+	Query: "catalognumber:813662 institutioncode:AMNH" ; Times: 2
+	Query: "74 hassex:1" ; Times: 1
+	Query: "Oceanodroma tethys" ; Times: 5
+	Query: "catalognumber:471345 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH Riparia 303" ; Times: 1
+	Query: "zaratornis" ; Times: 2
+	Query: "specificepithet:fasciatus family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "AMNH 601254" ; Times: 4
+	Query: "vntype:specimen specificepithet:cucullata genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "AMNH 67352" ; Times: 1
+	Query: "vntype:specimen catalognumber:41040 institutioncode:AMNH" ; Times: 1
+	Query: "184640" ; Times: 1
+	Query: "fulmarus glacialis arctic" ; Times: 1
+	Query: "100 hassex:1" ; Times: 1
+	Query: "AMNH 388181" ; Times: 1
+	Query: "passer domesticus institutioncode:AMNH" ; Times: 1
+	Query: "henicopernis infuscata vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 2
+	Query: "Remiz AFghanistan" ; Times: 1
+	Query: "accipiter princeps vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "AMNH 703130" ; Times: 2
+	Query: "accipiter ERYTHRAUCHEN institutioncode:AMNH" ; Times: 1
+	Query: "ptiloprora occidentalis" ; Times: 1
+	Query: "AMNH 226461" ; Times: 2
+	Query: "247571" ; Times: 2
+	Query: "hylonympha" ; Times: 1
+	Query: "anthus peruvianus" ; Times: 1
+	Query: "29 hassex:1" ; Times: 1
+	Query: "catalognumber:534530 institutioncode:AMNH" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "specificepithet:balliviani genus:odontophorus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:obscurus genus:hemignathus" ; Times: 3
+	Query: "Rhodonessa caryophyllacea" ; Times: 2
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "sarcoramphus papa amnh" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "44 hassex:1" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "specificepithet:nycticorax genus:Nycticorax year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Sublegatus glaber" ; Times: 1
+	Query: "AMNH 685195" ; Times: 3
+	Query: "Aratinga guarouba" ; Times: 1
+	Query: "AMNH 303739" ; Times: 2
+	Query: "specificepithet:hypogrammicum genus:Hypogramma hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "AMNH 604700" ; Times: 2
+	Query: "locality:reading stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "57 hassex:1" ; Times: 1
+	Query: "circaetus beaudouini vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:39095 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:narcissina genus:Ficedula hastissue:1" ; Times: 1
+	Query: "catalognumber:702854 institutioncode:AMNH" ; Times: 1
+	Query: "accipiter novaehollandiae country:&#34;australia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "238141" ; Times: 1
+	Query: "labrador duck" ; Times: 2
+	Query: "specificepithet:coronata family:parulidae year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "146 hassex:1" ; Times: 2
+	Query: "recordedby:&#34;W. Day&#34;" ; Times: 1
+	Query: "164850" ; Times: 1
+	Query: "megapodius freycinet molucca" ; Times: 1
+	Query: "155 hassex:1" ; Times: 2
+	Query: "540767" ; Times: 1
+	Query: "220 hassex:1" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "Psittacula kangean" ; Times: 1
+	Query: "AMNH 695718" ; Times: 2
+	Query: "specificepithet:strophium genus:odontophorus institutioncode:AMNH" ; Times: 1
+	Query: "caudata huttoni" ; Times: 2
+	Query: "126112" ; Times: 1
+	Query: "AMNH 600685" ; Times: 3
+	Query: "pachyptila tissue" ; Times: 3
+	Query: "112 hassex:1" ; Times: 2
+	Query: "147 hassex:1" ; Times: 2
+	Query: "32 hassex:1" ; Times: 1
+	Query: "541382" ; Times: 1
+	Query: "sylvietta" ; Times: 1
+	Query: "carpodacus" ; Times: 1
+	Query: "242496" ; Times: 1
+	Query: "erythrotriorchis radiatus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 607957" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "AMNH 607960" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 2
+	Query: "accipiter rufitorques institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 803867" ; Times: 2
+	Query: "puffinus subalaris" ; Times: 3
+	Query: "161 hassex:1" ; Times: 2
+	Query: "catalognumber:496697 institutioncode:AMNH" ; Times: 1
+	Query: "puffinus pacificus norfolk" ; Times: 1
+	Query: "skeleton" ; Times: 1
+	Query: "accipiter albogularis institutioncode:AMNH" ; Times: 1
+	Query: "Egretta gularis schistacea" ; Times: 1
+	Query: "AMNH 696881" ; Times: 2
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 653019" ; Times: 2
+	Query: "338438" ; Times: 1
+	Query: "AMNH 653014" ; Times: 2
+	Query: "Circaetus beaudovini institutioncode:AMNH" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "salvadorina waigiuensis" ; Times: 2
+	Query: "eremita" ; Times: 2
+	Query: "polyboroides radiatus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "153 hassex:1" ; Times: 2
+	Query: "specificepithet:montanus genus:pomatorhinus hastissue:1" ; Times: 1
+	Query: "14437 institutioncode:AMNH" ; Times: 2
+	Query: "macheiramphus alcinus vntype:specimen AND (NOT Africa) year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "genus:neomorphus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "recordedby:W. Day institutioncode:AMNH" ; Times: 2
+	Query: "drepanornis albertisi" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1997 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 809797" ; Times: 3
+	Query: "AMNH 653876" ; Times: 2
+	Query: "(Sapporo on list) institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 653872" ; Times: 1
+	Query: "genus:Ectopistes class:AVES stateprovince:&#34;Connecticut&#34; country:&#34;United States&#34; institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 703094" ; Times: 2
+	Query: "41 hassex:1" ; Times: 1
+	Query: "393877" ; Times: 1
+	Query: "caracara lutosus institutioncode:AMNH" ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "AMNH 703121" ; Times: 2
+	Query: "98211" ; Times: 1
+	Query: "specificepithet:rufescens family:paridae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "AMNH 659687" ; Times: 1
+	Query: "204122" ; Times: 1
+	Query: "genus:Regulus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "AMNH 659689" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "AMNH 503295" ; Times: 1
+	Query: "amnh 586862" ; Times: 1
+	Query: "ninox scutulata india" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "AMNH 11545" ; Times: 2
+	Query: "52 hassex:1" ; Times: 1
+	Query: "perdix class:aves year &gt;= 1908 year &lt;= 1910" ; Times: 1
+	Query: "97 hassex:1" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "accipiter trinotatus institutioncode:AMNH" ; Times: 1
+	Query: "sicalis citrina" ; Times: 2
+	Query: "AMNH 333488" ; Times: 2
+	Query: "255730" ; Times: 2
+	Query: "genus:cettia country:&#34;philippines&#34;" ; Times: 2
+	Query: "114 hassex:1" ; Times: 2
+	Query: "255733" ; Times: 1
+	Query: "410451" ; Times: 1
+	Query: "AMNH 608063" ; Times: 2
+	Query: "buteo bannermani" ; Times: 4
+	Query: "vntype:specimen genus:eucometis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:merrilli genus:ptilinopus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:nigriceps genus:stachyris hastissue:1" ; Times: 1
+	Query: "Dulus" ; Times: 1
+	Query: "epimachus mayeri" ; Times: 1
+	Query: "225 hassex:1" ; Times: 1
+	Query: "trogon brazil" ; Times: 2
+	Query: "212 hassex:1" ; Times: 1
+	Query: "catskills" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 5
+	Query: "370431" ; Times: 1
+	Query: "AMNH 606544" ; Times: 1
+	Query: "AMNH 606545" ; Times: 2
+	Query: "AMNH 518978" ; Times: 1
+	Query: "4 hassex:1" ; Times: 1
+	Query: "amnh 821863" ; Times: 2
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 3
+	Query: "159 hassex:1" ; Times: 2
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "35203 institutioncode:AMNH" ; Times: 1
+	Query: "alethe" ; Times: 1
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "AMNH 536375" ; Times: 1
+	Query: "specificepithet:californicus genus:callipepla stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "accipiter luteoschistaceus institutioncode:AMNH" ; Times: 1
+	Query: "17 hassex:1" ; Times: 1
+	Query: "class:Aves country:&#34;Philippines&#34; institutioncode:AMNH" ; Times: 1
+	Query: "vntype:specimen genus:trichothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "puffinus pacificus hastissue:1" ; Times: 1
+	Query: "specificepithet:machrorhynchos genus:Corvus" ; Times: 1
+	Query: "AMNH 667359" ; Times: 2
+	Query: "genus:Campephilus institutioncode:AMNH" ; Times: 2
+	Query: "genus:Seicercus hastissue:1" ; Times: 1
+	Query: "diglossa pallida" ; Times: 3
+	Query: "164 hassex:1" ; Times: 2
+	Query: "Larus delawarensis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Lanio class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "accipiter erythrauchen vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:Caesius genus:Thamnomanes class:Aves" ; Times: 2
+	Query: "AMNH 703119" ; Times: 2
+	Query: "279 hassex:1" ; Times: 1
+	Query: "nesoclopeus poecilopterus amnh" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 2
+	Query: "11341 amnh" ; Times: 1
+	Query: "specificepithet:flavinucha hastissue:1" ; Times: 1
+	Query: "140 hassex:1" ; Times: 1
+	Query: "28 hassex:1" ; Times: 1
+	Query: "247605" ; Times: 1
+	Query: "Henicopernis vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:531592 institutioncode:AMNH" ; Times: 1
+	Query: "91 hassex:1" ; Times: 1
+	Query: "buteogallus gundlachii institutioncode:AMNH" ; Times: 1
+	Query: "puffinus micronesia" ; Times: 3
+	Query: "catalognumber:435935 institutioncode:AMNH" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "247770" ; Times: 1
+	Query: "228723" ; Times: 1
+	Query: "amnh 257344" ; Times: 1
+	Query: "buteo brachypterus institutioncode:AMNH" ; Times: 1
+	Query: "amnh 12288" ; Times: 1
+	Query: "23 hassex:1" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "specificepithet:magnirostre genus:malacopteron hastissue:1" ; Times: 1
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "AMNH 683423" ; Times: 2
+	Query: "801379" ; Times: 1
+	Query: "AMNH 560842" ; Times: 2
+	Query: "AMNH 560846" ; Times: 2
+	Query: "puffinus assimilis kermadec" ; Times: 1
+	Query: "conuropsis year &gt; 1900" ; Times: 1
+	Query: "catalognumber:5641 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 659692" ; Times: 2
+	Query: "AMNH 125392" ; Times: 1
+	Query: "pernis celebensis institutioncode:AMNH" ; Times: 2
+	Query: "162188" ; Times: 1
+	Query: "AMNH 604685" ; Times: 1
+	Query: "6 hassex:1" ; Times: 1
+	Query: "AMNH 702352" ; Times: 1
+	Query: "megapodius freycinet salawati" ; Times: 1
+	Query: "AMNH 604689" ; Times: 2
+	Query: "amnh 586855" ; Times: 1
+	Query: "AMNH 702333" ; Times: 1
+	Query: "172 hassex:1" ; Times: 2
+	Query: "AMNH 702334" ; Times: 2
+	Query: "amnh 725384" ; Times: 1
+	Query: "200 hassex:1" ; Times: 1
+	Query: "Melocichla mentalis" ; Times: 1
+	Query: "Elanus notatus institutioncode:AMNH" ; Times: 1
+	Query: "country:&#34;ethiopia&#34; recordedby:neumann year &gt;= 1902 year &lt;= 1915" ; Times: 1
+	Query: "50292 class:aves" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "spilornis kinabaluensis vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "pelidna" ; Times: 1
+	Query: "ZRC 2346" ; Times: 1
+	Query: "AMNH 561008" ; Times: 1
+	Query: "210712" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "aquila pennata" ; Times: 1
+	Query: "conuropsis carolinensis year &gt; 1900" ; Times: 1
+	Query: "Mushroom" ; Times: 1
+	Query: "genus:Geospiza institutioncode:AMNH" ; Times: 8
+	Query: "718398" ; Times: 1
+	Query: "718644" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "AMNH 607554" ; Times: 2
+	Query: "gracilis galapagos" ; Times: 1
+	Query: "452725" ; Times: 1
+	Query: "225548" ; Times: 1
+	Query: "amnh 416086" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1888 year &lt;= 1910" ; Times: 1
+	Query: "pachyptila belcheri kerguelen" ; Times: 1
+	Query: "megapodius freycinet batanta" ; Times: 1
+	Query: "catalognumber:115770 institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:aves catalognumber:52400" ; Times: 3
+	Query: "country:&#34;eritrea&#34; recordedby:schrader" ; Times: 5
+	Query: "catalognumber:684921 institutioncode:AMNH" ; Times: 3
+	Query: "yanacensis" ; Times: 1
+	Query: "catalognumber:360051 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:eremita genus:Megapodius hastissue:1" ; Times: 1
+	Query: "celebensis institutioncode:AMNH" ; Times: 1
+	Query: "Ortalis columbiana" ; Times: 1
+	Query: "AMNH 606338" ; Times: 2
+	Query: "pelagodroma marina kermadec" ; Times: 2
+	Query: "82104" ; Times: 2
+	Query: "209785" ; Times: 1
+	Query: "230175" ; Times: 1
+	Query: "illadopsis rufescens" ; Times: 2
+	Query: "Accipiter chilensis institutioncode:AMNH" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 8
+	Query: "AMNH 600730" ; Times: 2
+	Query: "2 hassex:1" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 2
+	Query: "anthus furcatus" ; Times: 1
+	Query: "AMNH 278655" ; Times: 1
+	Query: "AMNH 223152" ; Times: 2
+	Query: "AMNH 223153" ; Times: 2
+	Query: "bahia de banderas" ; Times: 1
+	Query: "harpagus diodon institutioncode:AMNH" ; Times: 1
+	Query: "AMNH" ; Times: 2
+	Query: "AMNH 451823" ; Times: 1
+	Query: "162 hassex:1" ; Times: 2
+	Query: "Strix seloputo" ; Times: 1
+	Query: "illadopsis fulvescens" ; Times: 2
+	Query: "genus:Diphyllodes institutioncode:AMNH" ; Times: 1
+	Query: "Anairetes parulus year &gt; 1985" ; Times: 1
+	Query: "AMNH 601460" ; Times: 2
+	Query: "specificepithet:albifrons genus:Amazona country:&#34;mexico&#34;" ; Times: 2
+	Query: "accipiter imitator institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 672412" ; Times: 2
+	Query: "47 hassex:1" ; Times: 1
+	Query: "Henicopernis vntype:specimen locality:New britain year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 16
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "233102 institutioncode:AMNH" ; Times: 4
+	Query: "jubata" ; Times: 1
+	Query: "AMNH 335278" ; Times: 1
+	Query: "AMNH 336129" ; Times: 2
+	Query: "160 hassex:1" ; Times: 2
+	Query: "Campephaga petiti" ; Times: 1
+	Query: "assimilis tunneyi" ; Times: 1
+	Query: "fulmarus baffin" ; Times: 1
+	Query: "urolais cinderella" ; Times: 3
+	Query: "AMNH 675209" ; Times: 1
+	Query: "specificepithet:chrysonotus genus:cacicus hastissue:1" ; Times: 2
+	Query: "specificepithet:sericeus genus:orthotomus hastissue:1" ; Times: 1
+	Query: "amnh 589688" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "AMNH 702989" ; Times: 1
+	Query: "drepanornis bruijnii" ; Times: 9
+	Query: "accipiter henicogrammus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "Daphoenositta striata" ; Times: 1
+	Query: "AMNH 559972" ; Times: 7
+	Query: "AMNH 604691" ; Times: 5
+	Query: "AMNH 604692" ; Times: 2
+	Query: "amnh 586841" ; Times: 1
+	Query: "AMNH 702348" ; Times: 2
+	Query: "locality:Santa Ana country:&#34;Peru&#34;" ; Times: 1
+	Query: "cheeseman" ; Times: 1
+	Query: "buteo rufofuscus vntype:specimen country:&#34;somaliland&#34; year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 406588" ; Times: 1
+	Query: "Oceanodroma tethys kelsalli" ; Times: 1
+	Query: "151 hassex:1" ; Times: 1
+	Query: "catalognumber:434068 institutioncode:AMNH" ; Times: 3
+	Query: "118 hassex:1" ; Times: 2
+	Query: "pachyptila turtur hastissue:1" ; Times: 1
+	Query: "locality:Lagarto Cocha " ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "catalognumber:10209 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "Melierax metabates institutioncode:AMNH" ; Times: 2
+	Query: "Oceanodroma leucorhoa mexico" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "323 hassex:1" ; Times: 1
+	Query: "amnh 560328" ; Times: 1
+	Query: "Foulehaio Samoa" ; Times: 3
+	Query: "specificepithet:spiloptera genus:Saroglossa hastissue:1" ; Times: 1
+	Query: "Hylopezus paraensis" ; Times: 1
+	Query: "puffinus phoenix" ; Times: 4
+	Query: "vauxi Chaetura country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "coracopsis nigra" ; Times: 6
+	Query: "Sphenoeacus afer" ; Times: 2
+	Query: "Pipilo erythrophthalmus magnirostris" ; Times: 1
+	Query: "275489" ; Times: 1
+	Query: "buteo brachypterus vntype:specimen year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "Pelagodroma marina new zealand" ; Times: 1
+	Query: "chondrohierax wilsoni vntype:specimen AND (NOT Africa) year &lt;= 2020" ; Times: 1
+	Query: "AMNH 576152" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Hartert" ; Times: 1
+	Query: "AMNH 576154" ; Times: 2
+	Query: "Pteruthius flaviscapis" ; Times: 2
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1903 year &lt;= 1905" ; Times: 1
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "335 hassex:1" ; Times: 1
+	Query: "country:&#34;Australia&#34; recordedby:&#34;W. Day&#34; institutioncode:AMNH" ; Times: 1
+	Query: "88 hassex:1" ; Times: 2
+	Query: "catalognumber:13670 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 727677" ; Times: 2
+	Query: "G vntype:specimen genus:Geospiza institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:criniger genus:tricholestes hastissue:1" ; Times: 1
+	Query: "Remiz pendulinus AFghanistan" ; Times: 1
+	Query: "AMNH 666881" ; Times: 2
+	Query: "circaetus beaudovini vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "AMNH 666884" ; Times: 2
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 2
+	Query: "catalognumber:130973 institutioncode:AMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "AMNH 600723" ; Times: 2
+	Query: "catalognumber:758335 institutioncode:amnh" ; Times: 1
+	Query: "AMNH DOT 9566" ; Times: 1
+	Query: "vntype:specimen genus:lanio class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "pernis steerei institutioncode:AMNH" ; Times: 2
+	Query: "127 hassex:1" ; Times: 2
+	Query: "171 hassex:1" ; Times: 1
+	Query: "207437" ; Times: 1
+	Query: "catalognumber:769112 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:maculata genus:stachyris hastissue:1" ; Times: 1
+	Query: "213330" ; Times: 1
+	Query: "241251" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "puffinus assimilis new zealand" ; Times: 1
+	Query: "puffinus gunax" ; Times: 1
+	Query: "AMNH 58519" ; Times: 1
+	Query: "AMNH 343746" ; Times: 2
+	Query: "AMNH 683410" ; Times: 3
+	Query: "buteo plagiata institutioncode:AMNH" ; Times: 1
+	Query: "genus:Alcippe country:&#34;Malaysia&#34;" ; Times: 2
+	Query: "18 hassex:1" ; Times: 1
+	Query: "specificepithet:minor genus:Platalea hastissue:1" ; Times: 1
+	Query: "specificepithet:sparvarius genus:Falco" ; Times: 1
+	Query: "locality:Chimborazo " ; Times: 1
+	Query: "AMNH 160325" ; Times: 2
+	Query: "AMNH 666721" ; Times: 2
+	Query: "Illadopsis cleaveri" ; Times: 2
+	Query: "AMNH 673686" ; Times: 2
+	Query: "puffinus abrolhos" ; Times: 1
+	Query: "AMNH 564078" ; Times: 1
+	Query: "specificepithet:paradisi genus:Terpsiphone hastissue:1" ; Times: 1
+	Query: "pachyptila heard" ; Times: 1
+	Query: "elanus scriptus institutioncode:AMNH" ; Times: 1
+	Query: "accipiter fasciatus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 702994" ; Times: 3
+	Query: "244028" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:802017 institutioncode:AMNH" ; Times: 1
+	Query: "amnh 586837" ; Times: 1
+	Query: "56 hassex:1" ; Times: 1
+	Query: "245 hassex:1" ; Times: 1
+	Query: "AMNH 702350" ; Times: 1
+	Query: "colinus cristatus 325203 institutioncode:AMNH" ; Times: 1
+	Query: "henicopernis infuscata institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus class:Aves county:&#34;Peel&#34; stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "671744" ; Times: 1
+	Query: "671743" ; Times: 1
+	Query: "671742" ; Times: 1
+	Query: "specificepithet:virescens family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "genus:vireo gilvus class:aves stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "320470" ; Times: 1
+	Query: "Aviceda cuculoides institutioncode:AMNH" ; Times: 1
+	Query: "accipiter melanochlamys institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 53317" ; Times: 1
+	Query: "pachyptila hastissue:1" ; Times: 3
+	Query: "15 hassex:1" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 3
+	Query: "&#34;okapi&#34;" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "erythrotriorchis institutioncode:AMNH" ; Times: 1
+	Query: "654564" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "catalognumber:201533" ; Times: 1
+	Query: "arremonops sinaloae" ; Times: 1
+	Query: "Chondrohierax wilsoni institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 332896" ; Times: 6
+	Query: "19 hassex:1" ; Times: 1
+	Query: "AMNH 21376" ; Times: 2
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "477326" ; Times: 1
+	Query: "amnh 790191" ; Times: 1
+	Query: "34 hassex:1" ; Times: 1
+	Query: "207 hassex:1" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 8
+	Query: "AMNH 554373" ; Times: 2
+	Query: "AMNH 554371" ; Times: 2
+	Query: "Amnh 257321" ; Times: 4
+	Query: "specificepithet:wilsoni genus:hemignathus" ; Times: 2
+	Query: "26 hassex:1" ; Times: 1
+	Query: "AMNH 598086" ; Times: 3
+	Query: "aviceda madagascariensis institutioncode:AMNH" ; Times: 1
+	Query: "circaetus beaudovini vntype:specimen year &gt;= 1910 year &lt;= 2020" ; Times: 1
+	Query: "stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "87 hassex:1" ; Times: 2
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen year &gt;= 1910 year &lt;= 2020" ; Times: 1
+	Query: "macheiramphus alcinus vntype:specimen AND (NOT Africa) year &lt;= 2020" ; Times: 1
+	Query: "Saxicola macrorhyncha vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 298102." ; Times: 1
+	Query: "accipiter novaehollandiae institutioncode:AMNH" ; Times: 7
+	Query: "AMNH 721473" ; Times: 1
+	Query: "188093" ; Times: 1
+	Query: "catalognumber:434067 institutioncode:AMNH" ; Times: 3
+	Query: "AMNH 698780" ; Times: 2
+	Query: "Accipiter ventralis institutioncode:AMNH" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "AMNH 585455" ; Times: 2
+	Query: "catalognumber:303229 institutioncode:amnh" ; Times: 2
+	Query: "AMNH 674775" ; Times: 2
+	Query: "AMNH 162359" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "AMNH 822916" ; Times: 2
+	Query: "riparia paludicola" ; Times: 1
+	Query: "AMNH 606482" ; Times: 2
+	Query: "specificepithet:concretus genus:cyornis hastissue:1" ; Times: 1
+	Query: "AMNH 606486" ; Times: 1
+	Query: "AMNH 606905" ; Times: 1
+	Query: "Tyto glaucops" ; Times: 1
+	Query: "aquila clanga india" ; Times: 1
+	Query: "277123" ; Times: 1
+	Query: "class:aves catalognumber:391132" ; Times: 1
+	Query: "neochen" ; Times: 2
+	Query: "Tyto" ; Times: 1
+	Query: "AMNH 600881" ; Times: 2
+	Query: "AMNH 728129" ; Times: 1
+	Query: "sylvia curruca india" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "paradigalla brevicauda" ; Times: 4
+	Query: "25 hassex:1" ; Times: 1
+	Query: "puffinus indian ocean" ; Times: 1
+	Query: "Polioptila vntype:specimen stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "AMNH 606873" ; Times: 1
+	Query: "Butastur liventer institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 606871" ; Times: 2
+	Query: "AMNH 606874" ; Times: 2
+	Query: "Psalidoprocne nitens" ; Times: 2
+	Query: "specificepithet:sepiaria genus:Malacocincla hastissue:1" ; Times: 1
+	Query: "specificepithet:albicaudatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "204 hassex:1" ; Times: 1
+	Query: "115 hassex:1" ; Times: 2
+	Query: "AMNH 49978" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "hieraaetus weiskei institutioncode:AMNH" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "255642" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:AMNH" ; Times: 2
+	Query: "pachyptila kerguelen" ; Times: 3
+	Query: "accipiter novaehollandiae preparations:tissue institutioncode:AMNH" ; Times: 1
+	Query: "recordedby:ragionieri" ; Times: 3
+	Query: "Oceanodroma markhami" ; Times: 4
+	Query: "AMNH 667405" ; Times: 3
+	Query: "trogon viridis brazil" ; Times: 1
+	Query: "nestor notabilis institutioncode:AMNH" ; Times: 1
+	Query: "lycocorax" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus)" ; Times: 1
+	Query: "paradigalla carunculata" ; Times: 4
+	Query: "amnh 226451" ; Times: 2
+	Query: "genus:Ficedula country:&#34;indonesia&#34; hastissue:1" ; Times: 1
+	Query: "Egretta gularis" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "catalognumber:461307 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 702945" ; Times: 2
+	Query: "AMNH 702946" ; Times: 2
+	Query: "amnh 306688" ; Times: 1
+	Query: "Hypocnemis lepidonota" ; Times: 1
+	Query: "232 hassex:1" ; Times: 1
+	Query: "Anas diazi" ; Times: 20
+	Query: "AMNH 659621" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "locality:El Arenal " ; Times: 1
+	Query: "Drymodes superciliaris" ; Times: 1
+	Query: "amnh 416073" ; Times: 1
+	Query: "markhami" ; Times: 1
+	Query: "40 hassex:1" ; Times: 1
+	Query: "eumyias meridionalis" ; Times: 1
+	Query: "AMNH 598135" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata)" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Maclatchy" ; Times: 1
+	Query: "324563" ; Times: 1
+	Query: "221 hassex:1" ; Times: 1
+	Query: "specificepithet:columbianus genus:odontophorus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 336356" ; Times: 2
+	Query: "country:&#34;Australia&#34; recordedby:&#34;W. Day&#34;" ; Times: 1
+	Query: "catalognumber:115772 institutioncode:AMNH" ; Times: 2
+	Query: "Macrosphenus flavicans" ; Times: 2
+	Query: "american egret" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 3
+	Query: "amnh 140174" ; Times: 1
+	Query: "recordedby:Picchi" ; Times: 2
+	Query: "Krong 1910" ; Times: 2
+	Query: "223 hassex:1" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "catalognumber:144428 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 336363" ; Times: 2
+	Query: "accipiter brachyurus vntype:specimen year &gt;= 1930 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 600703" ; Times: 2
+	Query: "149 hassex:1" ; Times: 2
+	Query: "puffinus assimilis kermadecensis" ; Times: 1
+	Query: "239399" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "specificepithet:remifer genus:dicrurus hastissue:1" ; Times: 1
+	Query: "milvus aegyptius vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 5
+	Query: "pelecanoides urinatrix pacific" ; Times: 1
+	Query: "amnh 589655" ; Times: 1
+	Query: "AMNH 451818" ; Times: 1
+	Query: "vntype:specimen genus:Eucometis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "AMNH 162888" ; Times: 1
+	Query: "AMNH 585461" ; Times: 2
+	Query: "genus:colinus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 585469" ; Times: 2
+	Query: "AMNH Riparia" ; Times: 1
+	Query: "hylophilus nelsoni" ; Times: 8
+	Query: "accipiter griseiceps vntype:specimen year &lt;= 2020" ; Times: 1
+	Query: "AMNH 564114" ; Times: 2
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "specificepithet:nuba genus:Neotis family:Otididae class:Aves continent:Africa" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "519159" ; Times: 1
+	Query: "specificepithet:hypogrammicum" ; Times: 1
+	Query: "Cyanolimnas cerverai" ; Times: 4
+	Query: "AMNH 585485" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "genus:chalcoparia hastissue:1" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "AMNH 606495" ; Times: 1
+	Query: "specificepithet:malachitacea genus:Triclaria hastissue:1" ; Times: 1
+	Query: "149887" ; Times: 1
+	Query: "catalognumber:17703 institutioncode:AMNH" ; Times: 1
+	Query: "277686" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "accipiter novaehollandiae AND (rubianae) institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 650601" ; Times: 1
+	Query: "AMNH 653887" ; Times: 2
+	Query: "Attila spadiceus pacificus" ; Times: 1
+	Query: "chelictinia riocourii institutioncode:AMNH" ; Times: 1
+	Query: "241470" ; Times: 1
+	Query: "AMNH 683501" ; Times: 1
+	Query: "campephilus guatamalensis" ; Times: 1
+	Query: "181212" ; Times: 1
+	Query: "Buteo buteo vntype:specimen country:&#34;South Africa&#34; year &lt;= 2020" ; Times: 1
+	Query: "country:&#34;Palestine&#34;" ; Times: 1
+	Query: "amnh 650531" ; Times: 1
+	Query: "8 hassex:1" ; Times: 1
+	Query: "circaetus gallicus vntype:specimen continent:africa year &lt;= 2020" ; Times: 1
+	Query: "locality:Cajanuma  " ; Times: 3
+	Query: "accipiter vntype:specimen locality:New britain year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "henicopernis institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 725369" ; Times: 1
+	Query: "AMNH 703016" ; Times: 2
+	Query: "AMNH 650289" ; Times: 2
+	Query: "782423 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 725367" ; Times: 1
+	Query: "pterodroma fiji" ; Times: 1
+	Query: "accipiter princeps vntype:specimen locality:New britain year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "AMNH 703021" ; Times: 2
+	Query: "AMNH 703029" ; Times: 2
+	Query: "trogon rufus tissue" ; Times: 1
+	Query: "124774" ; Times: 1
+	Query: "locality:Cajanuma " ; Times: 1
+	Query: "cyornis rogersi" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (Brachyramphus)" ; Times: 1
+	Query: "AMNH 652924" ; Times: 2
+	Query: "17161" ; Times: 1
+	Query: "237490" ; Times: 2
+	Query: "genus:Certhia stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "AMNH 287665" ; Times: 1
+	Query: "catalognumber:52908 institutioncode:AMNH" ; Times: 2
+	Query: "274 hassex:1" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "catalognumber:10692 institutioncode:AMNH" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "genus:Brachyramphus class:aves year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Cercomacra" ; Times: 3
+	Query: "pelecanoides urinatrix south america" ; Times: 1
+	Query: "175 hassex:1" ; Times: 1
+	Query: "AMNH 692522" ; Times: 2
+	Query: "39 hassex:1" ; Times: 1
+	Query: "oceanodroma castro cape verde" ; Times: 1
+	Query: "accipiter princeps institutioncode:AMNH" ; Times: 1
+	Query: "continent:North America" ; Times: 2
+	Query: "genus:Brachyramphus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "accipiter griseiceps institutioncode:AMNH" ; Times: 1
+	Query: "Pteruthius flaviscapis India" ; Times: 1
+	Query: "242183" ; Times: 1
+	Query: "AMNH 566293" ; Times: 2
+	Query: "continent:africa recordedby:schrader" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus)" ; Times: 1
+	Query: "specificepithet:igniventris genus:anisognathus hastissue:1" ; Times: 2
+	Query: "colinus AND maculatus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 606642" ; Times: 2
+	Query: "guttata stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "amnh 545532" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "class:Aves country:&#34;Trinidad&#34; institutioncode:AMNH" ; Times: 2
+	Query: "Hemignathus chloris" ; Times: 7
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+	Query: "207191" ; Times: 1
+	Query: "puffinus pacificus kermadec" ; Times: 1
+	Query: "scytalopus confusus" ; Times: 3
+	Query: "AMNH 462878" ; Times: 2
+	Query: "151306" ; Times: 1
+	Query: "193 hassex:1" ; Times: 1
+	Query: "accipiter brachyurus institutioncode:AMNH" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "farquhari" ; Times: 1
+	Query: "AMNH 257220" ; Times: 2
+	Query: "AMNH 673552" ; Times: 2
+	Query: "ninox scutulata" ; Times: 1
+	Query: "AMNH \147146" ; Times: 1
+	Query: "250 hassex:1" ; Times: 1
+	Query: "amnh 675177" ; Times: 1
+	Query: "13671 amnh" ; Times: 1
+	Query: "amnh 675178" ; Times: 1
+	Query: "vntype:specimen specificepithet:pileatus genus:Coryphospingus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "recordedby:ridgway year &gt;= 1899 year &lt;= 1899" ; Times: 2
+	Query: "Sitta pusilla insularis" ; Times: 2
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "Elanus axillaris hastissue:1" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "catalognumber:525554" ; Times: 1
+	Query: "catalognumber:525555" ; Times: 2
+	Query: "chondrohierax vntype:specimen (cuba) year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:525552" ; Times: 1
+	Query: "AMNH 154627" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 2
+	Query: "AMNH 653897" ; Times: 1
+	Query: "recordedby:W S Day institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 577674" ; Times: 2
+	Query: "amnh 451807" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Alcippe country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Sylvietta isabellina" ; Times: 2
+	Query: "genus:sphyrapicus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 institutioncode:AMNH hastissue:1" ; Times: 1
+	Query: "AMNH 673586" ; Times: 1
+	Query: "fulmarus glacialis baffin" ; Times: 1
+	Query: "amnh 589681" ; Times: 1
+	Query: "AMNH 675248" ; Times: 1
+	Query: "specificepithet:gigas genus:podilymbus" ; Times: 1
+	Query: "hippolais rama india" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "spilornis klossi vntype:specimen year &lt;= 2020" ; Times: 2
+	Query: "51 hassex:1" ; Times: 1
+	Query: "vntype:specimen genus:Coryphospingus class:Aves country:&#34;Brazil&#34; institutioncode:AMNH" ; Times: 4
+	Query: "58 hassex:1" ; Times: 1
+	Query: "AMNH 654285" ; Times: 2
+	Query: "specificepithet:rufopectus genus:poliocephalus" ; Times: 1
+	Query: "hemispingus macrophrys" ; Times: 1
+	Query: "AMNH 600768" ; Times: 2
+	Query: "718639" ; Times: 1
+	Query: "locality:bahia de banderas" ; Times: 2
+	Query: "specificepithet:jacksoni genus:francolinus" ; Times: 1
+	Query: "AMNH 602952" ; Times: 2
+	Query: "387935" ; Times: 1
+	Query: "387938" ; Times: 1
+	Query: "165 hassex:1" ; Times: 2
+	Query: "396065" ; Times: 1
+	Query: "puffinus heinrothi" ; Times: 4
+	Query: "AMNH 485963" ; Times: 1
+	Query: "184986" ; Times: 1
+	Query: "specificepithet:leschenaulti genus:Enicurus hastissue:1" ; Times: 1
+	Query: "catalognumber:192259 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:albifrons genus:Amazona country:&#34;Mexico&#34;" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "nesillas typica" ; Times: 10
+	Query: "institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 702927" ; Times: 2
+	Query: "fulmarus spitzbergen" ; Times: 1
+	Query: "AMNH 43389" ; Times: 3
+	Query: "AMNH 287655" ; Times: 1
+	Query: "AMNH 43386" ; Times: 1
+	Query: "Hodgsonius phoenicuroides" ; Times: 2
+	Query: "specificepithet:bougainvillei institutioncode:AMNH" ; Times: 1
+	Query: "255643" ; Times: 1
+	Query: "amnh 1342" ; Times: 1
+	Query: "amnh 416075" ; Times: 1
+	Query: "catalognumber:82 institutioncode:AMNH" ; Times: 1
+	Query: "puffinus vanuatu" ; Times: 5
+	Query: "AMNH 200422" ; Times: 2
+	Query: "AMNH 200425" ; Times: 2
+	Query: "AMNH 200424" ; Times: 1
+	Query: "buteo ventralis institutioncode:AMNH" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 10
+	Query: "30 hassex:1" ; Times: 1
+	Query: "specificepithet:squamiger genus:margarornis hastissue:1" ; Times: 1
+	Query: "hippolais caligata india" ; Times: 1
+	Query: "AMNH 608371" ; Times: 1
+	Query: "AMNH 608370" ; Times: 1
+	Query: "AMNH 608374" ; Times: 3
+	Query: "AMNH 684433" ; Times: 1
+	Query: "718762" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "AMNH 221251" ; Times: 2
+	Query: "AMNH 161997" ; Times: 3
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "sylvietta hastissue:1" ; Times: 1
+	Query: "284148" ; Times: 1
+	Query: "9 hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 608976" ; Times: 2
+	Query: "811714" ; Times: 2
+	Query: "AMNH 600761" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1910 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;ara tricolor&#34;" ; Times: 4
+	Query: "AMNH 727949" ; Times: 2
+	Query: "buteo archeri institutioncode:AMNH" ; Times: 1
+	Query: "157 hassex:1" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Serle" ; Times: 1
+	Query: "778476 institutioncode:AMNH" ; Times: 1
+	Query: "oceanodroma castro cape" ; Times: 1
+	Query: "specificepithet:caniceps family:tyrannidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Sherwood" ; Times: 1
+	Query: "AMNH 221254" ; Times: 1
+	Query: "AMNH 600612" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1023 download events in this period)
+Total number of records downloaded: 84014
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 51
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: El Salvador ; Times: 1
+	Country: Norway ; Times: 2
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 2
+	Country: Netherlands ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Iraq ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 6
+	Date: 2020-02-24 ; Times: 9
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-20 ; Times: 8
+	Date: 2020-02-21 ; Times: 6
+	Date: 2020-02-22 ; Times: 9
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 8
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-18 ; Times: 6
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves continent:Africa recordedby:Spatz" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 3
+	Query: "vauxi Chaetura country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Hartert" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "anthus antarcticus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "anthus chacoensis" ; Times: 1
+	Query: "fulmarus glacialis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Prigogine" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "anthus furcatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "pitta sordida" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Maclatchy" ; Times: 1
+	Query: "anthus peruvianus" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "Amazona ventralis" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Xingu country:&#34;Brazil&#34;" ; Times: 1
+	Query: "recordedby:&#34;W. Day&#34; institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:psittacula genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Serle" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "anthus nattereri" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "megapodius freycinet" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "eleothreptus anomalus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Promerops" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "Gallus varius" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "kurdistan" ; Times: 1
+	Query: "vntype:specimen specificepithet:aalge genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "country:&#34;ethiopia&#34; recordedby:neumann year &gt;= 1902 year &lt;= 1915" ; Times: 1
+	Query: "riparia paludicola" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "specificepithet:columba genus:Cepphus family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:formicivorus genus:melanerpes stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:nuba genus:Neotis family:Otididae class:Aves continent:Africa" ; Times: 1
+	Query: "Cardellina rubra rubra" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:Rissa family:Laridae order:Charadriiformes class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 2
+	Query: "class:Aves" ; Times: 1
+	Query: "prinia inornata" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;texas&#34; year &gt;= 1849 year &lt;= 1953" ; Times: 1
+	Query: "Sitta pusilla insularis" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "country:&#34;ethiopia&#34; recordedby:saphiro year &gt;= 1902 year &lt;= 1915" ; Times: 1
+	Query: "family:apodidae (fluid OR wet OR whole)" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "county:&#34;San Diego&#34; year &gt;= 1996 year &lt;= 1999" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1900 year &lt;= 1930" ; Times: 1
+
+
+End of report.
